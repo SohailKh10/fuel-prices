@@ -1,10 +1,23 @@
 #!/usr/bin/env python3
 """
-Scrapes today's official Pakistan petrol & diesel prices from PSO's website
-and writes/updates rates.json in this repo.
+Scrapes today's official Pakistan petrol, diesel, kerosene (SKO) and LDO
+prices from PSO's website and writes/updates rates.json in this repo.
+
+Petrol and diesel come from PSO's OGRA-notified price table (same table,
+same labels as before — that part is unchanged and still required).
+Kerosene and LDO are in the same OGRA notification, so they're scraped
+the same way, but are treated as optional: if PSO ever tweaks those two
+labels, the script still succeeds and just omits kerosene/ldo for that
+run rather than failing the whole scrape.
+
+HOBC (High Octane) is deliberately NOT scraped here — it isn't
+OGRA-regulated, each company (PSO/Shell/Total Parco/etc.) sets its own
+price, and it isn't in this official notification table at all, so
+there's no single authoritative number to pull.
 
 Runs daily via GitHub Actions (see .github/workflows/update-fuel-prices.yml).
 """
+
 import json
 import re
 import sys
@@ -16,10 +29,9 @@ from bs4 import BeautifulSoup
 
 PSO_URL = "https://psopk.com/en/fuels/fuel-prices"
 OUTPUT_FILE = Path(__file__).parent / "rates.json"
-
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                  "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 }
 
 
@@ -35,7 +47,6 @@ def scrape():
     resp = requests.get(PSO_URL, headers=HEADERS, timeout=20)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
-
     page_text = soup.get_text(" ", strip=True)
 
     # Find the most recent "Effective From: <date>" label for the POL (petrol/diesel) table
@@ -47,6 +58,7 @@ def scrape():
         except ValueError:
             effective_date = None
 
+    # --- Petrol & Diesel: required, unchanged from the working scraper ---
     petrol_match = re.search(r"PREMIER EURO 5\s*Rs\.?\s*([\d,]+\.?\d*)", page_text, re.IGNORECASE)
     diesel_match = re.search(r"HI-CETANE DIESEL EURO 5\s*Rs\.?\s*([\d,]+\.?\d*)", page_text, re.IGNORECASE)
 
@@ -56,10 +68,30 @@ def scrape():
     petrol = float(petrol_match.group(1).replace(",", ""))
     diesel = float(diesel_match.group(1).replace(",", ""))
 
+    # --- Kerosene (SKO) & LDO: optional, best-effort ---
+    # Same OGRA notification table as petrol/diesel. Label wording tried in
+    # a few common variants since PSO doesn't always phrase it identically.
+    kerosene_match = re.search(
+        r"(?:SUPERIOR KEROSENE OIL|KEROSENE(?:\s*OIL)?)(?:\s*\(?SKO\)?)?\s*Rs\.?\s*([\d,]+\.?\d*)",
+        page_text, re.IGNORECASE
+    )
+    ldo_match = re.search(
+        r"(?:LIGHT DIESEL OIL|LDO)\s*Rs\.?\s*([\d,]+\.?\d*)",
+        page_text, re.IGNORECASE
+    )
+
+    kerosene = float(kerosene_match.group(1).replace(",", "")) if kerosene_match else None
+    ldo = float(ldo_match.group(1).replace(",", "")) if ldo_match else None
+
+    if kerosene is None:
+        print("Warning: kerosene (SKO) price not found on page — omitting for this run.", file=sys.stderr)
+    if ldo is None:
+        print("Warning: LDO price not found on page — omitting for this run.", file=sys.stderr)
+
     if not effective_date:
         effective_date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
-    return effective_date, petrol, diesel
+    return effective_date, petrol, diesel, kerosene, ldo
 
 
 def load_history():
@@ -74,21 +106,41 @@ def save_history(history):
 
 def main():
     try:
-        effective_date, petrol, diesel = scrape()
+        effective_date, petrol, diesel, kerosene, ldo = scrape()
     except Exception as exc:
         print(f"Scrape failed: {exc}", file=sys.stderr)
         sys.exit(1)
 
     history = load_history()
 
-    # De-dupe: only append if this date isn't already recorded
-    if not any(entry["date"] == effective_date for entry in history):
-        history.append({"date": effective_date, "petrol": petrol, "diesel": diesel})
+    entry = {"date": effective_date, "petrol": petrol, "diesel": diesel}
+    if kerosene is not None:
+        entry["kerosene"] = kerosene
+    if ldo is not None:
+        entry["ldo"] = ldo
+
+    # De-dupe: only append if this date isn't already recorded.
+    # If the date IS already recorded but this run found kerosene/ldo
+    # that the earlier run didn't, fill those fields in on the existing entry.
+    existing = next((e for e in history if e["date"] == effective_date), None)
+    if existing is None:
+        history.append(entry)
         history.sort(key=lambda e: e["date"])
         save_history(history)
-        print(f"Added {effective_date}: petrol={petrol}, diesel={diesel}")
+        print(f"Added {effective_date}: petrol={petrol}, diesel={diesel}, kerosene={kerosene}, ldo={ldo}")
     else:
-        print(f"{effective_date} already recorded — no change.")
+        updated = False
+        if kerosene is not None and "kerosene" not in existing:
+            existing["kerosene"] = kerosene
+            updated = True
+        if ldo is not None and "ldo" not in existing:
+            existing["ldo"] = ldo
+            updated = True
+        if updated:
+            save_history(history)
+            print(f"{effective_date} already recorded — filled in kerosene/ldo.")
+        else:
+            print(f"{effective_date} already recorded — no change.")
 
 
 if __name__ == "__main__":
