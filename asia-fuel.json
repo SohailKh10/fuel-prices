@@ -1,0 +1,20 @@
+[
+  {"country":"India","flag":"🇮🇳","usd":1.177,"dieselUsd":1.020},
+  {"country":"Bangladesh","flag":"🇧🇩","usd":1.026,"dieselUsd":0.852},
+  {"country":"Sri Lanka","flag":"🇱🇰","usd":1.255,"dieselUsd":1.065},
+  {"country":"Nepal","flag":"🇳🇵","usd":1.188,"dieselUsd":1.010},
+  {"country":"Afghanistan","flag":"🇦🇫","usd":0.859,"dieselUsd":0.830},
+  {"country":"China","flag":"🇨🇳","usd":1.100,"dieselUsd":1.010},
+  {"country":"Japan","flag":"🇯🇵","usd":1.142,"dieselUsd":0.985},
+  {"country":"South Korea","flag":"🇰🇷","usd":1.270,"dieselUsd":1.140},
+  {"country":"Indonesia","flag":"🇮🇩","usd":0.791,"dieselUsd":0.610},
+  {"country":"Malaysia","flag":"🇲🇾","usd":0.457,"dieselUsd":0.500},
+  {"country":"Thailand","flag":"🇹🇭","usd":1.317,"dieselUsd":0.960},
+  {"country":"Vietnam","flag":"🇻🇳","usd":0.836,"dieselUsd":0.780},
+  {"country":"Philippines","flag":"🇵🇭","usd":1.095,"dieselUsd":0.980},
+  {"country":"Singapore","flag":"🇸🇬","usd":2.030,"dieselUsd":1.780},
+  {"country":"Saudi Arabia","flag":"🇸🇦","usd":0.621,"dieselUsd":0.290},
+  {"country":"UAE","flag":"🇦🇪","usd":0.681,"dieselUsd":0.720},
+  {"country":"Turkey","flag":"🇹🇷","usd":1.282,"dieselUsd":1.330},
+  {"country":"Iran","flag":"🇮🇷","usd":0.029,"dieselUsd":0.020}
+]
