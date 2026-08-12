@@ -1,33 +1,37 @@
 name: Update Pakistan Fuel Prices
-
 on:
   schedule:
     - cron: '15 19 * * *'
   workflow_dispatch: {}
-
 permissions:
   contents: write
-
+concurrency:
+  group: fuel-prices-update
+  cancel-in-progress: false
 jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
       - name: Install dependencies
         run: pip install requests beautifulsoup4
-
       - name: Run scraper
         run: python scrape.py
-
-      - name: Commit updated rates.json (if changed)
+      - name: Commit and push updated rates.json (if changed)
         run: |
           git config user.name "fuel-price-bot"
           git config user.email "actions@github.com"
           git add rates.json
-          git diff --staged --quiet || git commit -m "chore: update fuel prices $(date -u +%Y-%m-%d)"
-          git push
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: update fuel prices $(date -u +%Y-%m-%d)"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && break
+            echo "Push attempt $i failed, retrying..."
+            sleep $((RANDOM % 10 + 5))
+          done
