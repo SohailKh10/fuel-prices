@@ -115,10 +115,12 @@ def price(block, pattern, label, required=False):
     return float(m.group(1).replace(",", ""))
 
 
-def fetch_page_text():
+def fetch_page():
+    """Return (visible_text, raw_html). Some blocks can only be located in the
+    raw HTML, because get_text() discards src/href attributes."""
     resp = requests.get(PSO_URL, headers=HEADERS, timeout=20)
     resp.raise_for_status()
-    return BeautifulSoup(resp.text, "html.parser").get_text(" ", strip=True)
+    return BeautifulSoup(resp.text, "html.parser").get_text(" ", strip=True), resp.text
 
 
 def scrape(text):
@@ -191,20 +193,37 @@ def scrape_octane(text):
     return {"date": date, "unit": "PKR/litre", "prices": prices}
 
 
-def scrape_lpg(text):
+def scrape_lpg(text, html):
     """
-    PSO's LPG consumer price, quoted per KG rather than per litre. The LPG
-    accordion body is published as an image, so the price is read from the
-    product summary and the date from the accordion heading.
+    PSO's LPG consumer price, quoted per KG rather than per litre.
+
+    The price sits in the product summary, but the effective date lives on an
+    accordion whose body is just an image. get_text() strips the image src, so
+    the accordion is invisible in the text and has to be found in the raw HTML.
     """
     m = re.search(r"LPG\s*\(LIQUID(?:ED)?\s+PETROLEUM\s+GAS\)\s*Rs\.?\s*([\d,]+\.?\d*)",
                   text, re.IGNORECASE)
     if not m:
         raise RuntimeError("LPG price not found on the page.")
     value = float(m.group(1).replace(",", ""))
-    date, _ = find_block_by(text, r"/lpg/")
+
+    date = None
+    anchor = re.search(r"/source/lpg/|/lpg/\d{4}/", html, re.IGNORECASE)
+    if anchor:
+        heading = None
+        for h in EFFECTIVE_RX.finditer(html):
+            if h.start() < anchor.start():
+                heading = h
+            else:
+                break
+        if heading:
+            date = parse_date(heading.group(1))
+
     if not date:
-        date = datetime.now(PKT).strftime("%Y-%m-%d")
+        raise RuntimeError(
+            "LPG price found but its effective date could not be located — "
+            "refusing to stamp it with today's date."
+        )
     return {"date": date, "unit": "PKR/kg", "price": value}
 
 
@@ -235,23 +254,23 @@ def save_history(history):
     OUTPUT_FILE.write_text(json.dumps(history, indent=2) + "\n")
 
 
-def scrape_extras(text):
+def scrape_extras(text, html):
     """
     Octane+ and LPG are best-effort: a failure here must never stop the
     OGRA-notified POL prices from being recorded. They reuse the page text
     already fetched, so every product comes from one snapshot.
     """
-    for label, fn, path in (("Octane+", scrape_octane, OCTANE_FILE),
-                            ("LPG", scrape_lpg, LPG_FILE)):
+    for label, fn, path in (("Octane+", lambda t=text: scrape_octane(t), OCTANE_FILE),
+                            ("LPG", lambda t=text: scrape_lpg(t, html), LPG_FILE)):
         try:
-            upsert(path, fn(text), label)
+            upsert(path, fn(), label)
         except Exception as exc:
             print(f"{label}: skipped ({exc})", file=sys.stderr)
 
 
 def main():
     try:
-        text = fetch_page_text()
+        text, html = fetch_page()
         scraped = scrape(text)
     except Exception as exc:
         print(f"Scrape failed: {exc}", file=sys.stderr)
@@ -265,7 +284,7 @@ def main():
         history.append(entry)
         save_history(history)
         print(f"Added {entry['date']}: {entry}")
-        scrape_extras(text)
+        scrape_extras(text, html)
         return
 
     # Same date already on file. Fill in anything missing, and correct a value
@@ -287,7 +306,7 @@ def main():
     else:
         print(f"{entry['date']} already recorded — no change.")
 
-    scrape_extras(text)
+    scrape_extras(text, html)
 
 
 if __name__ == "__main__":
