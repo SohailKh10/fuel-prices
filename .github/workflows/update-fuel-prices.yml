@@ -1,37 +1,78 @@
 name: Update Pakistan Fuel Prices
+
 on:
   schedule:
-    - cron: '15 19 * * *'
+    # GitHub cron is UTC. Pakistan is UTC+5.
+    - cron: '30 20 * * *'   # 01:30 PKT — catches a midnight publish
+    - cron: '0 4 * * *'     # 09:00 PKT — catches the usual morning publish
+    - cron: '0 9 * * *'     # 14:00 PKT — safety net for a late revision
   workflow_dispatch: {}
+
 permissions:
   contents: write
+
 concurrency:
   group: fuel-prices-update
   cancel-in-progress: false
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
       - name: Install dependencies
         run: pip install requests beautifulsoup4
+
       - name: Run scraper
         run: python scrape.py
-      - name: Commit and push updated rates.json (if changed)
+
+      - name: Commit and push if anything changed
         run: |
           git config user.name "fuel-price-bot"
           git config user.email "actions@github.com"
-          git add rates.json
+
+          # octane.json and lpg.json are created by the scraper, so stage them too.
+          git add -A rates.json octane.json lpg.json
+
           if git diff --staged --quiet; then
             echo "No changes to commit."
             exit 0
           fi
-          git commit -m "chore: update fuel prices $(date -u +%Y-%m-%d)"
+
+          # Stamp the commit with the Pakistan date, not UTC — between 19:00 UTC
+          # and midnight those differ, which is exactly when this job runs.
+          PK_DATE=$(TZ=Asia/Karachi date +%Y-%m-%d)
+          git commit -m "chore: update fuel prices $PK_DATE"
+
           for i in 1 2 3 4 5; do
-            git pull --rebase origin main && git push && break
+            if git pull --rebase origin main && git push; then
+              echo "Pushed on attempt $i."
+              exit 0
+            fi
             echo "Push attempt $i failed, retrying..."
             sleep $((RANDOM % 10 + 5))
           done
+
+          echo "All push attempts failed."
+          exit 1
+
+      - name: Show the latest recorded date
+        if: always()
+        run: |
+          python - <<'PY'
+          import json, pathlib
+          for name in ("rates.json", "octane.json", "lpg.json"):
+              p = pathlib.Path(name)
+              if p.exists():
+                  rows = json.loads(p.read_text())
+                  print(f"{name}: {len(rows)} rows, latest {rows[-1]['date']}")
+              else:
+                  print(f"{name}: not created yet")
+          PY
