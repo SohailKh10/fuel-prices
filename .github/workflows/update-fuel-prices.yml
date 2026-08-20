@@ -30,16 +30,21 @@ jobs:
       - name: Install dependencies
         run: pip install requests beautifulsoup4
 
-      - name: Run scraper
+      - name: Run fuel scraper
         run: python scrape.py
+
+      - name: Run metals scraper
+        run: python scrape_metals.py
+        continue-on-error: true
 
       - name: Commit and push if anything changed
         run: |
           git config user.name "fuel-price-bot"
           git config user.email "actions@github.com"
 
-          # octane.json and lpg.json are created by the scraper, so stage them too.
-          git add -A rates.json octane.json lpg.json
+          # octane.json, lpg.json and metals-history.json are created by the
+          # scrapers, so stage them too.
+          git add -A rates.json octane.json lpg.json metals-history.json
 
           if git diff --staged --quiet; then
             echo "No changes to commit."
