@@ -1,0 +1,25 @@
+[
+  {
+    "date": "2026-08-05",
+    "unit": "PKR/litre",
+    "prices": {
+      "Karachi": 355.0,
+      "Lahore": 355.0,
+      "Rawalpindi": 355.0,
+      "Faisalabad": 355.0,
+      "Jhelum": 355.0,
+      "Peshawar": 355.0,
+      "Bahawalpur": 355.0,
+      "Sukkur": 355.0,
+      "Multan": 355.0,
+      "Gujranwala": 355.0,
+      "Hyderabad": 355.0,
+      "Sahiwal": 355.0,
+      "D.I Khan": 355.0,
+      "Gilgit": 365.0,
+      "Gawadar": 355.0,
+      "Abbottabad": 355.0,
+      "Quetta": 357.0
+    }
+  }
+]
