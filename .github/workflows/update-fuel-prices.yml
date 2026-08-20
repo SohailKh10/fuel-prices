@@ -1,5 +1,4 @@
 name: Update Pakistan Fuel Prices
-
 on:
   schedule:
     # GitHub cron is UTC. Pakistan is UTC+5.
@@ -7,14 +6,11 @@ on:
     - cron: '0 4 * * *'     # 09:00 PKT — catches the usual morning publish
     - cron: '0 9 * * *'     # 14:00 PKT — safety net for a late revision
   workflow_dispatch: {}
-
 permissions:
   contents: write
-
 concurrency:
   group: fuel-prices-update
   cancel-in-progress: false
-
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -22,40 +18,34 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
       - name: Install dependencies
         run: pip install requests beautifulsoup4
-
       - name: Run fuel scraper
         run: python scrape.py
-
       - name: Run metals scraper
         run: python scrape_metals.py
         continue-on-error: true
-
       - name: Commit and push if anything changed
         run: |
           git config user.name "fuel-price-bot"
           git config user.email "actions@github.com"
-
           # octane.json, lpg.json and metals-history.json are created by the
-          # scrapers, so stage them too.
-          git add -A rates.json octane.json lpg.json metals-history.json
-
+          # scrapers, so stage them too — but only the ones that actually
+          # exist, since the metals scraper is allowed to fail above.
+          for f in rates.json octane.json lpg.json metals-history.json; do
+            [ -f "$f" ] && git add "$f"
+          done
           if git diff --staged --quiet; then
             echo "No changes to commit."
             exit 0
           fi
-
           # Stamp the commit with the Pakistan date, not UTC — between 19:00 UTC
           # and midnight those differ, which is exactly when this job runs.
           PK_DATE=$(TZ=Asia/Karachi date +%Y-%m-%d)
           git commit -m "chore: update fuel prices $PK_DATE"
-
           for i in 1 2 3 4 5; do
             if git pull --rebase origin main && git push; then
               echo "Pushed on attempt $i."
@@ -64,16 +54,14 @@ jobs:
             echo "Push attempt $i failed, retrying..."
             sleep $((RANDOM % 10 + 5))
           done
-
           echo "All push attempts failed."
           exit 1
-
       - name: Show the latest recorded date
         if: always()
         run: |
           python - <<'PY'
           import json, pathlib
-          for name in ("rates.json", "octane.json", "lpg.json"):
+          for name in ("rates.json", "octane.json", "lpg.json", "metals-history.json"):
               p = pathlib.Path(name)
               if p.exists():
                   rows = json.loads(p.read_text())
