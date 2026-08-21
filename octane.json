@@ -21,5 +21,28 @@
       "Abbottabad": 355.0,
       "Quetta": 357.0
     }
+  },
+  {
+    "date": "2026-08-22",
+    "unit": "PKR/litre",
+    "prices": {
+      "Karachi": 365.0,
+      "Lahore": 365.0,
+      "Rawalpindi": 365.0,
+      "Faisalabad": 365.0,
+      "Jhelum": 365.0,
+      "Peshawar": 368.0,
+      "Bahawalpur": 368.0,
+      "Sukkur": 368.0,
+      "Multan": 365.0,
+      "Gujranwala": 365.0,
+      "Hyderabad": 365.0,
+      "Sahiwal": 368.0,
+      "D.I Khan": 365.0,
+      "Gilgit": 385.0,
+      "Gawadar": 368.0,
+      "Abbottabad": 365.0,
+      "Quetta": 375.0
+    }
   }
 ]
