@@ -93,5 +93,29 @@
       "Quetta": 385.0,
       "Skardu": 380.0
     }
+  },
+  {
+    "date": "2026-09-11",
+    "unit": "PKR/litre",
+    "prices": {
+      "Karachi": 395.0,
+      "Lahore": 395.0,
+      "Rawalpindi": 395.0,
+      "Faisalabad": 395.0,
+      "Jhelum": 395.0,
+      "Peshawar": 395.0,
+      "Bahawalpur": 395.0,
+      "Sukkur": 395.0,
+      "Multan": 395.0,
+      "Gujranwala": 395.0,
+      "Hyderabad": 395.0,
+      "Sahiwal": 395.0,
+      "D.I Khan": 395.0,
+      "Gilgit": 405.0,
+      "Gawadar": 395.0,
+      "Abbottabad": 395.0,
+      "Quetta": 400.0,
+      "Skardu": 395.0
+    }
   }
 ]
