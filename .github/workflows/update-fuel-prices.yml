@@ -3,9 +3,9 @@ name: Update Pakistan Fuel Prices
 on:
   schedule:
     # GitHub cron is UTC. Pakistan is UTC+5.
-    - cron: '30 20 * * *'   # 01:30 PKT — catches a midnight publish
-    - cron: '0 4 * * *'     # 09:00 PKT — catches the usual morning publish
-    - cron: '0 9 * * *'     # 14:00 PKT — safety net for a late revision
+    - cron: '0 19 * * *'    # 12:00 AM PKT — catches a new date / midnight publish
+    - cron: '0 4 * * *'     # 09:00 AM PKT — catches the usual morning publish
+    - cron: '0 9 * * *'     # 02:00 PM PKT — safety net for a late revision
   workflow_dispatch: {}
 
 permissions:
@@ -18,17 +18,21 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4
+        run: |
+          pip install requests beautifulsoup4
 
       - name: Run fuel scraper
         run: python scrape.py
@@ -46,9 +50,9 @@ jobs:
           git config user.name "fuel-price-bot"
           git config user.email "actions@github.com"
 
-          # The scrapers create octane.json, lpg.json and metals-history.json.
-          # Stage each only if it exists: naming a missing file makes git abort
-          # the whole command, which would throw away a good fuel update.
+          # The scrapers create rates.json, octane.json,
+          # lpg.json, metals-history.json and widget.json.
+          # Stage each file only if it exists.
           for f in rates.json octane.json lpg.json metals-history.json widget.json; do
             if [ -f "$f" ]; then
               git add "$f"
@@ -57,21 +61,24 @@ jobs:
             fi
           done
 
+          # Check whether there is anything new to commit.
           if git diff --staged --quiet; then
             echo "No changes to commit."
             exit 0
           fi
 
-          # Stamp the commit with the Pakistan date, not UTC — between 19:00 UTC
-          # and midnight those differ, which is exactly when this job runs.
+          # Use Pakistan date instead of UTC for the commit message.
           PK_DATE=$(TZ=Asia/Karachi date +%Y-%m-%d)
+
           git commit -m "chore: update fuel prices $PK_DATE"
 
+          # Retry push in case another workflow/process updates main.
           for i in 1 2 3 4 5; do
             if git pull --rebase origin main && git push; then
               echo "Pushed on attempt $i."
               exit 0
             fi
+
             echo "Push attempt $i failed, retrying..."
             sleep $((RANDOM % 10 + 5))
           done
@@ -83,12 +90,22 @@ jobs:
         if: always()
         run: |
           python - <<'PY'
-          import json, pathlib
+          import json
+          import pathlib
+
           for name in ("rates.json", "octane.json", "lpg.json"):
               p = pathlib.Path(name)
+
               if p.exists():
                   rows = json.loads(p.read_text())
-                  print(f"{name}: {len(rows)} rows, latest {rows[-1]['date']}")
+
+                  if rows:
+                      print(
+                          f"{name}: {len(rows)} rows, "
+                          f"latest {rows[-1]['date']}"
+                      )
+                  else:
+                      print(f"{name}: file exists but contains no rows")
               else:
                   print(f"{name}: not created yet")
           PY
