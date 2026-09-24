@@ -36,7 +36,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4
+          pip install requests beautifulsoup4 playwright
+          playwright install --with-deps chromium
 
       - name: Run fuel scraper
         run: python scrape.py
@@ -44,6 +45,15 @@ jobs:
       - name: Run Shell fuel scraper
         run: python scrape_shell.py
         continue-on-error: true
+
+      - name: Upload Shell debug HTML (if it failed)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: shell-debug-html
+          path: shell-debug.html
+          if-no-files-found: ignore
+          retention-days: 3
 
       - name: Run metals scraper
         run: python scrape_metals.py
