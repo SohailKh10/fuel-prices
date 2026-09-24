@@ -3,9 +3,13 @@ name: Update Pakistan Fuel Prices
 on:
   schedule:
     # GitHub cron is UTC. Pakistan is UTC+5.
-    - cron: '0 19 * * *'    # 12:00 AM PKT — catches a new date / midnight publish
-    - cron: '0 4 * * *'     # 09:00 AM PKT — catches the usual morning publish
-    - cron: '0 9 * * *'     # 02:00 PM PKT — safety net for a late revision
+    # Minutes are offset away from :00 on purpose — every scheduled workflow
+    # on GitHub that fires exactly on the hour queues up at once, which is
+    # what was causing the multi-hour delays. Off-the-hour minutes land in a
+    # much shorter queue.
+    - cron: '7 19 * * *'     # ~12:07 AM PKT — catches a new date / midnight publish
+    - cron: '12 4 * * *'     # ~09:12 AM PKT — catches the usual morning publish
+    - cron: '24 9 * * *'     # ~02:24 PM PKT — safety net for a late revision
   workflow_dispatch: {}
 
 permissions:
@@ -37,6 +41,10 @@ jobs:
       - name: Run fuel scraper
         run: python scrape.py
 
+      - name: Run Shell fuel scraper
+        run: python scrape_shell.py
+        continue-on-error: true
+
       - name: Run metals scraper
         run: python scrape_metals.py
         continue-on-error: true
@@ -50,10 +58,10 @@ jobs:
           git config user.name "fuel-price-bot"
           git config user.email "actions@github.com"
 
-          # The scrapers create rates.json, octane.json,
+          # The scrapers create rates.json, shell-rates.json, octane.json,
           # lpg.json, metals-history.json and widget.json.
           # Stage each file only if it exists.
-          for f in rates.json octane.json lpg.json metals-history.json widget.json; do
+          for f in rates.json shell-rates.json octane.json lpg.json metals-history.json widget.json; do
             if [ -f "$f" ]; then
               git add "$f"
             else
@@ -93,7 +101,7 @@ jobs:
           import json
           import pathlib
 
-          for name in ("rates.json", "octane.json", "lpg.json"):
+          for name in ("rates.json", "shell-rates.json", "octane.json", "lpg.json"):
               p = pathlib.Path(name)
 
               if p.exists():
