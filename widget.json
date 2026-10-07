@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-07T16:02:42+05:00",
+  "updated": "2026-10-08T04:34:18+05:00",
   "fuel": {
     "date": "2026-10-07",
-    "petrol": 394.83,
-    "diesel": 395.85,
+    "petrol": 396.65,
+    "diesel": 394.94,
     "kerosene": 329.54,
     "ldo": 272.29
   },
   "usd_pkr": 276.74,
   "gold": {
-    "usd_oz": 4119.5,
-    "pkr_tola": 427511
+    "usd_oz": 4110.3,
+    "pkr_tola": 426557
   },
   "silver": {
-    "usd_oz": 60.16,
-    "pkr_tola": 6243
+    "usd_oz": 59.97,
+    "pkr_tola": 6224
   }
 }
