@@ -166,5 +166,30 @@
       "Skardu": 410.0,
       "Thatta": 410.0
     }
+  },
+  {
+    "date": "2026-10-10",
+    "unit": "PKR/litre",
+    "prices": {
+      "Karachi": 415.0,
+      "Lahore": 415.0,
+      "Rawalpindi": 415.0,
+      "Faisalabad": 415.0,
+      "Jhelum": 415.0,
+      "Peshawar": 415.0,
+      "Bahawalpur": 415.0,
+      "Sukkur": 415.0,
+      "Multan": 415.0,
+      "Gujranwala": 415.0,
+      "Hyderabad": 415.0,
+      "Sahiwal": 415.0,
+      "D.I Khan": 415.0,
+      "Gilgit": 425.0,
+      "Gawadar": 415.0,
+      "Abbottabad": 415.0,
+      "Quetta": 415.0,
+      "Skardu": 415.0,
+      "Thatta": 415.0
+    }
   }
 ]
