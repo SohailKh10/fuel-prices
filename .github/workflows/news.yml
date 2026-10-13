@@ -1,7 +1,7 @@
 name: Update news
 on:
   schedule:
-    - cron: "17 */3 * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 permissions:
   contents: write
