@@ -1,7 +1,263 @@
 {
- "generated_at": "2026-10-13T22:44:19Z",
- "count": 447,
+ "generated_at": "2026-10-14T01:25:53Z",
+ "count": 450,
  "items": [
+  {
+   "id": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
+   "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+   "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
+   "source": "CoinDesk",
+   "published": "2026-10-14T01:00:00Z",
+   "summary": "The exchange, which has over 18 million customers, is said to have handled business transactions involving restricted offshore gaming and gambling companies.",
+   "cat": "crypto",
+   "cats": [
+    "crypto",
+    "economy"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.brecorder.com/news/40444100/sbp-launches-boe-2026-policy",
+   "title": "SBP launches ‘BoE 2026’ policy",
+   "url": "https://www.brecorder.com/news/40444100/sbp-launches-boe-2026-policy",
+   "source": "Business Recorder",
+   "published": "2026-10-14T00:36:53Z",
+   "summary": "The State Bank of Pakistan (SBP) has launched the second edition of its Banking on Equality (BoE) policy that aims to further reduce the gender gap and advance women’s financial…",
+   "cat": "currency",
+   "cats": [
+    "currency"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.cricinfo.com/ci/content/story/1558351.html?ex_cid=OTC-RSS",
+   "title": "Weibgen century helps Queensland to One-Day Cup win over WA",
+   "url": "https://www.cricinfo.com/ci/content/story/1558351.html?ex_cid=OTC-RSS",
+   "source": "ESPNcricinfo",
+   "published": "2026-10-14T00:34:02Z",
+   "summary": "Former Australia Under-19 captain makes second One-Day century of the season to help Queensland beat WA",
+   "cat": "cricket",
+   "cats": [
+    "cricket"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.arabnews.pk/world/ukrainian-ex-officer-stands-trial-in-germany-over-nord-stream-bombing-3004086",
+   "title": "Ukrainian ex-officer stands trial in Germany over Nord Stream bombing",
+   "url": "https://www.arabnews.pk/world/ukrainian-ex-officer-stands-trial-in-germany-over-nord-stream-bombing-3004086",
+   "source": "Arab News Pakistan",
+   "published": "2026-10-14T00:31:09Z",
+   "summary": "A Ukrainian ex-military officer goes on trial in Germany on Wednesday, accused of organizing the secret operation that blew up the Nord Stream gas pipelines in September 2022…",
+   "cat": "fuel",
+   "cats": [
+    "fuel"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.brecorder.com/news/40444043/oil-prices-mixed",
+   "title": "Oil prices mixed",
+   "url": "https://www.brecorder.com/news/40444043/oil-prices-mixed",
+   "source": "Business Recorder",
+   "published": "2026-10-14T00:24:31Z",
+   "summary": "Oil prices were mixed on Tuesday as hopes the US-Russia diesel deal could free up more supplies from Moscow offset attacks in Saudi Arabia and Yemen that could result in…",
+   "cat": "fuel",
+   "cats": [
+    "fuel"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.cricinfo.com/ci/content/story/1557933.html?ex_cid=OTC-RSS",
+   "title": "Hardie and hamstrung Fanning pull off stunning victory for Western Australia",
+   "url": "https://www.cricinfo.com/ci/content/story/1557933.html?ex_cid=OTC-RSS",
+   "source": "ESPNcricinfo",
+   "published": "2026-10-14T00:12:25Z",
+   "summary": "Hardie made 80 not out and Fanning limped to 14 not out, while carrying a serious hamstring injury, to guide WA home to a thrilling chase of 201 with two wickets to spare",
+   "cat": "cricket",
+   "cats": [
+    "cricket"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://oilprice.com/Energy/Energy-General/Wall-Street-Sees-Inflation-Easing-Even-With-Oil-Above-90.html",
+   "title": "Wall Street Sees Inflation Easing Even With Oil Above $90",
+   "url": "https://oilprice.com/Energy/Energy-General/Wall-Street-Sees-Inflation-Easing-Even-With-Oil-Above-90.html",
+   "source": "OilPrice.com",
+   "published": "2026-10-14T00:00:00Z",
+   "summary": "The U.S. Consumer Price Index (CPI) report is due to be released on Wednesday, with economists predicting that key inflation metrics continued to moderate in September despite…",
+   "cat": "fuel",
+   "cats": [
+    "fuel",
+    "economy"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.brecorder.com/news/40444104/saudi-coalition-strikes-yemen-oil-sites-after-houthi-attacks",
+   "title": "Saudi coalition strikes Yemen oil sites after Houthi attacks",
+   "url": "https://www.brecorder.com/news/40444104/saudi-coalition-strikes-yemen-oil-sites-after-houthi-attacks",
+   "source": "Business Recorder",
+   "published": "2026-10-13T23:59:14Z",
+   "summary": "The Saudi-led coalition battling the Houthis struck oil sites across western Yemen on Tuesday including in the capital Sanaa, in response to the deadliest attack on the kingdom’s…",
+   "cat": "fuel",
+   "cats": [
+    "fuel"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.fxstreet.com/news/australian-dollar-climbs-as-feds-williams-push-the-brakes-on-rates-202610132334",
+   "title": "Australian Dollar climbs as Fed’s Williams push the brakes on rates",
+   "url": "https://www.fxstreet.com/news/australian-dollar-climbs-as-feds-williams-push-the-brakes-on-rates-202610132334",
+   "source": "FXStreet",
+   "published": "2026-10-13T23:34:13Z",
+   "summary": "The Aussie Dollar registers a gain of over 0.34% against the US Dollar on Tuesday as news flows remain quiet, with US data coming mixed, while hostilities in the Middle East…",
+   "cat": "currency",
+   "cats": [
+    "currency"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.brecorder.com/news/40444087/the-organic-meat-company-limited",
+   "title": "The Organic Meat Company Limited",
+   "url": "https://www.brecorder.com/news/40444087/the-organic-meat-company-limited",
+   "source": "Business Recorder",
+   "published": "2026-10-13T23:31:49Z",
+   "summary": "The Organic Meat Company Limited (PSX: TOMCL) was incorporated in Pakistan as a private limited company in 2010. The company is engaged in the processing and sale of halal meat…",
+   "cat": "economy",
+   "cats": [
+    "economy"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.brecorder.com/news/40444097/cold-rolled-steel-coils-amp-sheets-ntc-extends-anti-dumping-duties-for-5-more-years",
+   "title": "Cold-rolled steel coils & sheets: NTC extends anti-dumping duties for 5 more years",
+   "url": "https://www.brecorder.com/news/40444097/cold-rolled-steel-coils-amp-sheets-ntc-extends-anti-dumping-duties-for-5-more-years",
+   "source": "Business Recorder",
+   "published": "2026-10-13T23:31:49Z",
+   "summary": "The National Tariff Commission (NTC) has extended anti-dumping duties on imports of cold-rolled steel coils and sheets originating in or exported from China for another five…",
+   "cat": "economy",
+   "cats": [
+    "economy"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.brecorder.com/news/40444105/petrol-price-cut-by-rs271-hsds-by-3-paise",
+   "title": "Petrol price cut by Rs2.71, HSD’s by 3 paise",
+   "url": "https://www.brecorder.com/news/40444105/petrol-price-cut-by-rs271-hsds-by-3-paise",
+   "source": "Business Recorder",
+   "published": "2026-10-13T23:31:49Z",
+   "summary": "With the ease in international oil prices, the government on Tuesday announced reduction in daily fuel prices for October 14. As per an official notification, the price of petrol…",
+   "cat": "fuel",
+   "cats": [
+    "fuel"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.brecorder.com/news/40444113/imf-projects-35pc-growth-99pc-inflation",
+   "title": "IMF projects 3.5pc growth, 9.9pc inflation",
+   "url": "https://www.brecorder.com/news/40444113/imf-projects-35pc-growth-99pc-inflation",
+   "source": "Business Recorder",
+   "published": "2026-10-13T23:31:49Z",
+   "summary": "The International Monetary Fund (IMF) has projected Pakistan’s economic growth at 3.5 percent for fiscal year 2026-27, below the government’s 4 percent target but slightly above…",
+   "cat": "economy",
+   "cats": [
+    "economy"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.brecorder.com/news/40444114/developing-nations-aurangzeb-seeks-stronger-world-bank-imf-support",
+   "title": "Developing nations: Aurangzeb seeks stronger World Bank, IMF support",
+   "url": "https://www.brecorder.com/news/40444114/developing-nations-aurangzeb-seeks-stronger-world-bank-imf-support",
+   "source": "Business Recorder",
+   "published": "2026-10-13T23:31:49Z",
+   "summary": "Federal Finance Minister Muhammad Aurangzeb has called for reforms to the global financial system, warning that trade barriers and climate change are creating additional…",
+   "cat": "economy",
+   "cats": [
+    "economy"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.brecorder.com/news/40444117/sbp-revises-instructions-for-sugar-exports",
+   "title": "SBP revises instructions for sugar exports",
+   "url": "https://www.brecorder.com/news/40444117/sbp-revises-instructions-for-sugar-exports",
+   "source": "Business Recorder",
+   "published": "2026-10-13T23:31:49Z",
+   "summary": "The State Bank of Pakistan (SBP) has revised its instructions for sugar exports, sharing updated province-wise and mill-wise export quotas and directing banks to conduct due…",
+   "cat": "currency",
+   "cats": [
+    "currency"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong",
+   "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
+   "url": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong",
+   "source": "Cointelegraph",
+   "published": "2026-10-13T23:28:19Z",
+   "summary": "The wallet maker requested that devices be removed from shelves while investigators work to establish where tampering occurred.",
+   "cat": "crypto",
+   "cats": [
+    "crypto"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
+   "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
+   "url": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
+   "source": "CoinDesk",
+   "published": "2026-10-13T23:23:05Z",
+   "summary": "SATS will offer a fixed 15% dividend yield at par and be junior to the company's existing SATA, which pays a variable rate (currently 13%).",
+   "cat": "crypto",
+   "cats": [
+    "crypto"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.fxstreet.com/news/gold-declines-to-near-4-150-ahead-of-us-cpi-inflation-data-202610132321",
+   "title": "Gold declines to near $4,150 ahead of US CPI inflation data",
+   "url": "https://www.fxstreet.com/news/gold-declines-to-near-4-150-ahead-of-us-cpi-inflation-data-202610132321",
+   "source": "FXStreet",
+   "published": "2026-10-13T23:21:25Z",
+   "summary": "Gold price (XAU/USD) drifts lower to near $4,155 during the early Asian session on Wednesday. The precious metal extends the decline as rising oil prices fuel inflation concerns…",
+   "cat": "gold",
+   "cats": [
+    "gold",
+    "fuel",
+    "economy"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
   {
    "id": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
    "title": "EFL latest: Police investigating after Swansea's Eom targeted by alleged racist chanting",
@@ -17,6 +273,20 @@
    "region": "world"
   },
   {
+   "id": "https://oilprice.com/Energy/Crude-Oil/Record-Tanker-Rates-Leave-Heavy-Crude-Stranded-in-the-Americas.html",
+   "title": "Record Tanker Rates Leave Heavy Crude Stranded in the Americas",
+   "url": "https://oilprice.com/Energy/Crude-Oil/Record-Tanker-Rates-Leave-Heavy-Crude-Stranded-in-the-Americas.html",
+   "source": "OilPrice.com",
+   "published": "2026-10-13T23:00:00Z",
+   "summary": "The Middle East crisis has driven tanker rates to all-time highs and created a shortage of vessels. This oil logistics problem is now causing a ripple effect, tipping the heavy…",
+   "cat": "fuel",
+   "cats": [
+    "fuel"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
    "id": "https://www.skysports.com/football/news/12040/13599032/lexi-potter-england-women-midfielder-the-present-not-just-the-future-after-impressive-debut-in-world-cup-play-off",
    "title": "Potter’s the present, not just the future after impressive England debut",
    "url": "https://www.skysports.com/football/news/12040/13599032/lexi-potter-england-women-midfielder-the-present-not-just-the-future-after-impressive-debut-in-world-cup-play-off",
@@ -26,6 +296,20 @@
    "cat": "cricket",
    "cats": [
     "cricket"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.fxstreet.com/news/yen-trails-the-majors-as-the-boj-is-said-to-lean-against-a-hike-202610132241",
+   "title": "Yen trails the majors as the BoJ is said to lean against a hike",
+   "url": "https://www.fxstreet.com/news/yen-trails-the-majors-as-the-boj-is-said-to-lean-against-a-hike-202610132241",
+   "source": "FXStreet",
+   "published": "2026-10-13T22:41:05Z",
+   "summary": "The Dollar fell against every major currency on Tuesday and fell least against the Yen, on the day the Bank of Japan (BoJ) was reported to be leaning against an October rate hike.",
+   "cat": "currency",
+   "cats": [
+    "currency"
    ],
    "lang": "en",
    "region": "world"
@@ -2076,7 +2360,7 @@
    "id": "https://www.express.pk/story/2837998/mike-on-farhan-2837998/",
    "title": "تیسرے ٹی ٹوئنٹی میں شکست کے بعد ہیڈ کوچ کا صاحبزادہ فرحان سے متعلق بڑا بیان!",
    "url": "https://www.express.pk/story/2837998/mike-on-farhan-2837998/",
-   "source": "Express Urdu",
+   "source": "Express Urdu Sports",
    "published": "2026-10-13T13:08:36Z",
    "summary": "انہوں نے اپنے خیالات کا اظہار راولپنڈی میں پریس کانفرنس کے دوران کیا",
    "cat": "cricket",
@@ -2298,20 +2582,6 @@
    "region": "world"
   },
   {
-   "id": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "title": "Arsenal latest: Areta gives update on injured duo Zubimendi and Hincapie",
-   "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "source": "Sky Sports",
-   "published": "2026-10-13T12:22:00Z",
-   "summary": "",
-   "cat": "cricket",
-   "cats": [
-    "cricket"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
    "id": "https://www.express.pk/story/2837992/trump-warns-houthis-saudi-attacks-oil-prices-2837992/",
    "title": "میں بھولوں گا نہیں؛ حوثیوں کو مڈٹرم الیکشن کے بعد دیکھ لوں گا؛ ٹرمپ کی دھمکی",
    "url": "https://www.express.pk/story/2837992/trump-warns-houthis-saudi-attacks-oil-prices-2837992/",
@@ -2349,20 +2619,6 @@
    "cat": "currency",
    "cats": [
     "currency"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
-   "id": "https://www.theguardian.com/sport/live/2026/oct/13/south-africa-v-australia-first-test-day-five-durban-kingsmead-cricket-ground-live-updates",
-   "title": "Australia beat South Africa by 214 runs: first men’s cricket Test, day five – as it happened",
-   "url": "https://www.theguardian.com/sport/live/2026/oct/13/south-africa-v-australia-first-test-day-five-durban-kingsmead-cricket-ground-live-updates",
-   "source": "The Guardian",
-   "published": "2026-10-13T12:11:30Z",
-   "summary": "Josh Hazlewood took Test-best figures of 6 for 49 as Australia wrapped up a crushing victory in Durban 43rd over: South Africa 109-4 (Markram 46, Mulder 10) Renshaw gets taken for…",
-   "cat": "cricket",
-   "cats": [
-    "cricket"
    ],
    "lang": "en",
    "region": "world"
@@ -3414,7 +3670,7 @@
    "id": "https://www.express.pk/story/2837960/pak-sl-3rd-t20i-2837960/",
    "title": "تیسرا ٹی ٹوئنٹی: سری لنکا نے پاکستان کو 8 وکٹوں سے شکست دے دی",
    "url": "https://www.express.pk/story/2837960/pak-sl-3rd-t20i-2837960/",
-   "source": "Express Urdu",
+   "source": "Express Urdu Sports",
    "published": "2026-10-13T07:49:05Z",
    "summary": "سری لنکا نے 169 رنز کا ہدف 18 ویں اوور میں 2 وکٹوں کے نقصان پر پورا کیا، سیریز 1-2 سے پاکستان کے نام",
    "cat": "cricket",
@@ -3743,7 +3999,7 @@
    "id": "https://www.express.pk/story/2837947/litton-das-creates-test-history-2837947/",
    "title": "لٹن داس نے ٹیسٹ کرکٹ میں نئی تاریخ رقم کردی",
    "url": "https://www.express.pk/story/2837947/litton-das-creates-test-history-2837947/",
-   "source": "Express Urdu",
+   "source": "Express Urdu Sports",
    "published": "2026-10-13T06:16:48Z",
    "summary": "لٹن نے افغانستان کے خلاف میچ میں اکرام علی خیل کا کیچ پکڑ کر یہ اعزاز حاصل کیا",
    "cat": "cricket",
@@ -3883,7 +4139,7 @@
    "id": "https://www.express.pk/story/2837929/world-t20-continent-cup-pakistani-and-indian-players-included-in-the-same-team-2837929/",
    "title": "ورلڈ ٹی ٹوئنٹی کانٹی نینٹ کپ: پاکستانی اور بھارتی کھلاڑی ایک ہی ٹیم میں شامل",
    "url": "https://www.express.pk/story/2837929/world-t20-continent-cup-pakistani-and-indian-players-included-in-the-same-team-2837929/",
-   "source": "Express Urdu",
+   "source": "Express Urdu Sports",
    "published": "2026-10-13T05:21:48Z",
    "summary": "ٹورنامنٹ کے مکمل شیڈول کا اعلان تاحال نہیں کیا گیا تاہم مزید تفصیلات جلد جاری کیے جانے کا امکان ہے",
    "cat": "cricket",
@@ -4066,24 +4322,10 @@
    "region": "pk"
   },
   {
-   "id": "https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc",
-   "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
-   "url": "https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc",
-   "source": "Cointelegraph",
-   "published": "2026-10-13T02:41:30Z",
-   "summary": "Authorities said the restrictions are aimed at unregistered exchanges and have acknowledged that customers could have difficulty withdrawing assets.",
-   "cat": "crypto",
-   "cats": [
-    "crypto"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
    "id": "https://www.express.pk/story/2837891/sri-lanka-announce-15-member-test-squad-for-pakistan-series-2837891/",
    "title": "سری لنکا کا پاکستان کیخلاف ٹیسٹ سیریز کیلیے اسکواڈ کا اعلان",
    "url": "https://www.express.pk/story/2837891/sri-lanka-announce-15-member-test-squad-for-pakistan-series-2837891/",
-   "source": "Express Urdu",
+   "source": "Express Urdu Sports",
    "published": "2026-10-13T02:12:55Z",
    "summary": "سری لنکن ٹیم ٹیسٹ سیریز سے قبل تیاری کے لیے 4 نومبر سے اسلام آباد میں تین روزہ پریکٹس میچ بھی کھیلے گی",
    "cat": "cricket",
@@ -4150,20 +4392,6 @@
    "cat": "currency",
    "cats": [
     "currency"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
-   "id": "https://cointelegraph.com/news/meta-launches-muse-wonder-ai-models-challenging-top-rivals",
-   "title": "Meta claims new Muse Wonder AI models rival OpenAI, Anthropic",
-   "url": "https://cointelegraph.com/news/meta-launches-muse-wonder-ai-models-challenging-top-rivals",
-   "source": "Cointelegraph",
-   "published": "2026-10-13T01:54:31Z",
-   "summary": "Meta co-founder Mark Zuckerberg said its newest models are a step toward “personal superintelligence.”",
-   "cat": "crypto",
-   "cats": [
-    "crypto"
    ],
    "lang": "en",
    "region": "world"
@@ -4282,24 +4510,10 @@
    "region": "world"
   },
   {
-   "id": "https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks",
-   "title": "Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks",
-   "url": "https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks",
-   "source": "Cointelegraph",
-   "published": "2026-10-13T00:52:52Z",
-   "summary": "The optional feature hides transaction details until their order is finalized, preventing bots from exploiting pending trades.",
-   "cat": "crypto",
-   "cats": [
-    "crypto"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
    "id": "https://www.express.pk/story/2837865/rizwan-recalls-maaz-sadaqats-childhood-cricket-dream-2837865/",
    "title": "محمد رضوان نے معاذ صداقت کی کامیابی کا دلچسپ قصہ سنا دیا",
    "url": "https://www.express.pk/story/2837865/rizwan-recalls-maaz-sadaqats-childhood-cricket-dream-2837865/",
-   "source": "Express Urdu",
+   "source": "Express Urdu Sports",
    "published": "2026-10-13T00:52:37Z",
    "summary": "معاذ کی آنکھوں میں پاکستان کی نمائندگی کرنے کا خواب تھا جو اب حقیقت بن چکا ہے، محمد رضوان",
    "cat": "cricket",
@@ -4622,35 +4836,6 @@
    "region": "world"
   },
   {
-   "id": "https://www.fxstreet.com/news/the-british-pound-drifts-back-to-its-floor-as-crude-oil-lifts-the-dollar-202610122218",
-   "title": "The British Pound drifts back to its floor as Crude Oil lifts the Dollar",
-   "url": "https://www.fxstreet.com/news/the-british-pound-drifts-back-to-its-floor-as-crude-oil-lifts-the-dollar-202610122218",
-   "source": "FXStreet",
-   "published": "2026-10-12T22:18:23Z",
-   "summary": "Every session since September 24 has bottomed within about 25 pips of 1.3200, and Monday was the 13th. GBP/USD closed near 1.3210 after a climb to just above 1.3250, made before…",
-   "cat": "fuel",
-   "cats": [
-    "fuel",
-    "currency"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
-   "id": "https://oilprice.com/Energy/Natural-Gas/Global-Coal-Demand-Rises-as-LNG-Shortage-Deepens.html",
-   "title": "Global Coal Demand Rises as LNG Shortage Deepens",
-   "url": "https://oilprice.com/Energy/Natural-Gas/Global-Coal-Demand-Rises-as-LNG-Shortage-Deepens.html",
-   "source": "OilPrice.com",
-   "published": "2026-10-12T22:00:00Z",
-   "summary": "Liquefied natural gas flows from the Persian Gulf are still over 75% lower than they were before February 28th. Yet heating demand is rising ahead of winter. In Europe, the…",
-   "cat": "fuel",
-   "cats": [
-    "fuel"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
    "id": "https://www.marketwatch.com/story/brazilian-stocks-are-breaking-out-as-investors-look-for-opportunities-beyond-tech-7fbed032?mod=mw_rss_topstories",
    "title": "Brazilian stocks are breaking out as investors look for opportunities beyond tech",
    "url": "https://www.marketwatch.com/story/brazilian-stocks-are-breaking-out-as-investors-look-for-opportunities-beyond-tech-7fbed032?mod=mw_rss_topstories",
@@ -4867,20 +5052,6 @@
    "region": "world"
   },
   {
-   "id": "https://www.fxstreet.com/news/south-korean-won-uptrend-seen-resuming-against-us-dollar-societe-generale-202610121851",
-   "title": "South Korean Won: Uptrend seen resuming against US Dollar – Societe Generale",
-   "url": "https://www.fxstreet.com/news/south-korean-won-uptrend-seen-resuming-against-us-dollar-societe-generale-202610121851",
-   "source": "FXStreet",
-   "published": "2026-10-12T18:51:00Z",
-   "summary": "Societe Generale strategists note that the recent USD/KRW bounce stalled around 1390 and the pair is now testing the lower end of its consolidation, suggesting the broader…",
-   "cat": "currency",
-   "cats": [
-    "currency"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
    "id": "https://www.brecorder.com/news/40443836/govt-decreases-petrol-price-by-rs293-increases-diesels-by-re061-per-litre",
    "title": "Govt decreases petrol price by Rs2.93, increases diesel's by Re0.61 per litre",
    "url": "https://www.brecorder.com/news/40443836/govt-decreases-petrol-price-by-rs293-increases-diesels-by-re061-per-litre",
@@ -4949,20 +5120,6 @@
    ],
    "lang": "en",
    "region": "pk"
-  },
-  {
-   "id": "https://www.fxstreet.com/news/chinese-yuan-gradual-appreciation-with-trade-pressures-mufg-202610121812",
-   "title": "Chinese Yuan: Gradual appreciation with trade pressures – MUFG",
-   "url": "https://www.fxstreet.com/news/chinese-yuan-gradual-appreciation-with-trade-pressures-mufg-202610121812",
-   "source": "FXStreet",
-   "published": "2026-10-12T18:12:00Z",
-   "summary": "MUFG’s Lee Hardman notes the Chinese Renminbi has outperformed the Euro against the Dollar, with USD/CNY hitting a year-to-date low near 6.6900. PBoC’s lower daily fixes have…",
-   "cat": "currency",
-   "cats": [
-    "currency"
-   ],
-   "lang": "en",
-   "region": "world"
   },
   {
    "id": "https://www.arabnews.pk/pakistan/pakistan-signs-petroleum-supply-deal-with-oman-amid-hormuz-disruptions-3003949",
@@ -5479,20 +5636,6 @@
    "region": "pk"
   },
   {
-   "id": "https://www.express.pk/story/2837799/iran-accuses-us-uae-oil-smuggling-hormuz-2837799/",
-   "title": "آبنائے ہرمز میں چور راستے سے پیٹرول کی اسمگلنگ میں امریکا اور امارات ملوث ہیں؛ ایران",
-   "url": "https://www.express.pk/story/2837799/iran-accuses-us-uae-oil-smuggling-hormuz-2837799/",
-   "source": "Express Urdu",
-   "published": "2026-10-12T11:16:14Z",
-   "summary": "ایرانی فورسز ہر رات تیل کی اسمگلنگ میں ملوث اوسطاً 5 بحری جہازوں کو نشانہ بنارہی ہیں، محسن رضائی",
-   "cat": "fuel",
-   "cats": [
-    "fuel"
-   ],
-   "lang": "ur",
-   "region": "pk"
-  },
-  {
    "id": "https://www.arabnews.pk/business/egypts-core-inflation-eases-to-141-as-food-prices-climb-3003911",
    "title": "Egypt’s core inflation eases to 14.1% as food prices climb",
    "url": "https://www.arabnews.pk/business/egypts-core-inflation-eases-to-141-as-food-prices-climb-3003911",
@@ -5549,20 +5692,6 @@
    "region": "pk"
   },
   {
-   "id": "https://www.express.pk/story/2837776/oil-prices-rise-houthi-attacks-saudi-arabia-2837776/",
-   "title": "حوثیوں کے سعودیہ پر حملے؛ عالمی منڈی میں تیل کی قیمتیں دو ہفتے کی بلند ترین سطح پر",
-   "url": "https://www.express.pk/story/2837776/oil-prices-rise-houthi-attacks-saudi-arabia-2837776/",
-   "source": "Express Urdu",
-   "published": "2026-10-12T08:56:44Z",
-   "summary": "تیل کی قیمتوں میں حالیہ بڑے اضافے کی وجہ سعودی عرب پر حوثیوں کے حملے اور مشرق وسطیٰ سے تیل کی ترسیل متاثر ہونا ہیں",
-   "cat": "fuel",
-   "cats": [
-    "fuel"
-   ],
-   "lang": "ur",
-   "region": "pk"
-  },
-  {
    "id": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
    "title": "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
    "url": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
@@ -5591,20 +5720,6 @@
    "region": "pk"
   },
   {
-   "id": "https://www.express.pk/story/2837773/opec-cuts-2026-oil-demand-growth-forecast-2837773/",
-   "title": "تیل کی عالمی طلب کو دھچکا؛ اوپیک نے تخمینہ 14 لاکھ یومیہ بیرل سے 4 لاکھ بیرل کردیا",
-   "url": "https://www.express.pk/story/2837773/opec-cuts-2026-oil-demand-growth-forecast-2837773/",
-   "source": "Express Urdu",
-   "published": "2026-10-12T08:33:02Z",
-   "summary": "تیل کی طلب میں اضافے کی رفتار توقعات سے کم رہنے کے باعث تنظیم نے اپنے تخمینے پر نظرثانی کی ہے۔",
-   "cat": "fuel",
-   "cats": [
-    "fuel"
-   ],
-   "lang": "ur",
-   "region": "pk"
-  },
-  {
    "id": "https://www.bbc.co.uk/news/articles/crkg78q7yz41o?at_medium=RSS&at_campaign=rss",
    "title": "Campaigners claim minister attempting to undermine 'Holiday Hunger Bill'",
    "url": "https://www.bbc.co.uk/news/articles/crkg78q7yz41o?at_medium=RSS&at_campaign=rss",
@@ -5617,20 +5732,6 @@
    ],
    "lang": "en",
    "region": "world"
-  },
-  {
-   "id": "https://www.dawn.com/news/2036589/pakistan-looking-to-raise-more-than-1bn-under-govt-push-for-privatisation-says-finance-minister",
-   "title": "Pakistan looking to raise more than $1bn under govt push for privatisation, says finance minister",
-   "url": "https://www.dawn.com/news/2036589/pakistan-looking-to-raise-more-than-1bn-under-govt-push-for-privatisation-says-finance-minister",
-   "source": "Dawn",
-   "published": "2026-10-12T08:08:47Z",
-   "summary": "The government is looking to push for the privatisation of five to six entities that could raise upwards of $1 billion, Finance Minister Muhammad Aurangzeb told Reuters on Monday…",
-   "cat": "fuel",
-   "cats": [
-    "fuel"
-   ],
-   "lang": "en",
-   "region": "pk"
   },
   {
    "id": "https://propakistani.pk/2026/10/12/pakistani-bodybuilder-wins-gold-at-international-championship/",
@@ -6158,34 +6259,6 @@
    "region": "pk"
   },
   {
-   "id": "https://www.dawn.com/news/2036191/finance-minister-heads-to-bangkok-for-imf-world-bank-meetings",
-   "title": "Finance minister heads to Bangkok for IMF, World Bank meetings",
-   "url": "https://www.dawn.com/news/2036191/finance-minister-heads-to-bangkok-for-imf-world-bank-meetings",
-   "source": "Dawn",
-   "published": "2026-10-10T16:28:01Z",
-   "summary": "Finance Minister Muhammad Aurangzeb on Saturday departed for Bangkok for the annual International Monetary Fund (IMF) and World Bank Group meetings. In a statement, the finance…",
-   "cat": "economy",
-   "cats": [
-    "economy"
-   ],
-   "lang": "en",
-   "region": "pk"
-  },
-  {
-   "id": "https://tribune.com.pk/story/2634137/psx-gives-up-gains-despite-imf-deal",
-   "title": "PSX gives up gains despite IMF deal",
-   "url": "https://tribune.com.pk/story/2634137/psx-gives-up-gains-despite-imf-deal",
-   "source": "The Express Tribune",
-   "published": "2026-10-10T16:16:52Z",
-   "summary": "Benchmark KSE-100 index falls 0.6%; geopolitical risks weigh",
-   "cat": "economy",
-   "cats": [
-    "economy"
-   ],
-   "lang": "en",
-   "region": "pk"
-  },
-  {
    "id": "https://tribune.com.pk/story/2634139/india-unveils-dollar-curbs-to-defend-rupee",
    "title": "India unveils dollar curbs to defend rupee",
    "url": "https://tribune.com.pk/story/2634139/india-unveils-dollar-curbs-to-defend-rupee",
@@ -6196,20 +6269,6 @@
    "cats": [
     "currency",
     "fuel"
-   ],
-   "lang": "en",
-   "region": "pk"
-  },
-  {
-   "id": "https://tribune.com.pk/story/2634134/businesses-seek-industrial-tariff-below-9-cents",
-   "title": "Businesses seek industrial tariff below 9 cents",
-   "url": "https://tribune.com.pk/story/2634134/businesses-seek-industrial-tariff-below-9-cents",
-   "source": "The Express Tribune",
-   "published": "2026-10-10T16:16:52Z",
-   "summary": "FPCCI appreciates 12-cent rate, links cheaper power to export growth",
-   "cat": "economy",
-   "cats": [
-    "economy"
    ],
    "lang": "en",
    "region": "pk"
@@ -6266,20 +6325,6 @@
    "cat": "gold",
    "cats": [
     "gold"
-   ],
-   "lang": "en",
-   "region": "pk"
-  },
-  {
-   "id": "https://www.dawn.com/news/2035917/short-term-inflation-rises-to-1197pc-pbs-data-shows",
-   "title": "Short-term inflation rises to 11.97pc, PBS data shows",
-   "url": "https://www.dawn.com/news/2035917/short-term-inflation-rises-to-1197pc-pbs-data-shows",
-   "source": "Dawn",
-   "published": "2026-10-09T11:43:28Z",
-   "summary": "Short-term inflation rose to 11.97 per cent year-on-year in the week ending Oct 8, driven largely by higher food prices , particularly wheat flour, according to official data…",
-   "cat": "economy",
-   "cats": [
-    "economy"
    ],
    "lang": "en",
    "region": "pk"
@@ -6385,7 +6430,7 @@
    "name": "Business Recorder",
    "url": "https://www.brecorder.com/feeds/latest-news",
    "ok": true,
-   "items": 11,
+   "items": 9,
    "error": ""
   },
   {
@@ -6399,7 +6444,7 @@
    "name": "Arab News Pakistan",
    "url": "https://www.arabnews.pk/rss.xml",
    "ok": true,
-   "items": 3,
+   "items": 2,
    "error": ""
   },
   {
@@ -6427,7 +6472,7 @@
    "name": "Express Urdu Sports",
    "url": "https://www.express.pk/sports/feed/",
    "ok": true,
-   "items": 19,
+   "items": 16,
    "error": ""
   },
   {
@@ -6497,7 +6542,7 @@
    "name": "FXStreet",
    "url": "https://www.fxstreet.com/rss/news",
    "ok": true,
-   "items": 28,
+   "items": 27,
    "error": ""
   },
   {
@@ -6546,7 +6591,7 @@
    "name": "BBC Sport",
    "url": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
    "ok": true,
-   "items": 32,
+   "items": 31,
    "error": ""
   },
   {
