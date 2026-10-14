@@ -1,0 +1,32 @@
+name: Update crypto
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: update-crypto
+  cancel-in-progress: false
+jobs:
+  crypto:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch crypto
+        run: python scripts/fetch_crypto.py
+      - name: Commit if changed
+        run: |
+          if [ -n "$(git status --porcelain crypto.json)" ]; then
+            git config user.name "liveratespk-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git add crypto.json
+            git commit -m "Update crypto.json"
+            git pull --rebase --autostash
+            git push
+          else
+            echo "no changes"
+          fi
