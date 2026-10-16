@@ -1,18 +1,846 @@
 {
- "generated_at": "2026-10-16T18:28:13Z",
+ "generated_at": "2026-10-16T21:35:28Z",
  "count": 610,
  "items": [
   {
+   "id": "https://www.skysports.com/football/burnley-vs-wolverhampton-wanderers/report/560620",
+   "title": "Burnley’s winless run at home to pass one-year mark after Wolves fightback",
+   "url": "https://www.skysports.com/football/burnley-vs-wolverhampton-wanderers/report/560620",
+   "source": "Sky Sports",
+   "published": "2026-10-16T21:55:00Z",
+   "summary": "Burnley's run without a home league win will continue beyond the one-year mark after the Clarets were beaten 2-1 by Wolves at Turf Moor.",
+   "cat": "cricket",
+   "cats": [
+    "cricket"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.skysports.com/football/news/12040/13600072/liverpool-set-to-raid-aston-villa-for-johan-manzambi-as-arsenal-eye-move-for-bayern-munich-defender-paper-talk",
+   "title": "Papers: Liverpool set to raid Aston Villa for Manzambi",
+   "url": "https://www.skysports.com/football/news/12040/13600072/liverpool-set-to-raid-aston-villa-for-johan-manzambi-as-arsenal-eye-move-for-bayern-munich-defender-paper-talk",
+   "source": "Sky Sports",
+   "published": "2026-10-16T21:40:00Z",
+   "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+   "cat": "cricket",
+   "cats": [
+    "cricket"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories",
+   "title": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
+   "url": "https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "published": "2026-10-16T21:30:00Z",
+   "summary": "Hot CPI and PPI data should have pushed Treasury yields higher. Instead, bond buyers stepped in to suggest yields have risen high enough to become attractive for investors.",
+   "cat": "economy",
+   "cats": [
+    "economy"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates",
+   "title": "Trump rallies in Georgia as new White House press secretary is fired after five days on the job - live",
+   "url": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-10-16T21:22:03Z",
+   "summary": "The president is rallying to support Republican nominees shortly after the White House confirmed Katie Zacharia is ‘transitioning out’ of her role as press secretary Full story…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.arabnews.pk/middle-east/34-attacks-by-israeli-settlers-against-palestinian-farmers-reported-in-single-day-3004404",
+   "title": "34 attacks by Israeli settlers against Palestinian farmers reported in single day",
+   "url": "https://www.arabnews.pk/middle-east/34-attacks-by-israeli-settlers-against-palestinian-farmers-reported-in-single-day-3004404",
+   "source": "Arab News Pakistan",
+   "published": "2026-10-16T21:21:51Z",
+   "summary": "Israeli settlers carried out 34 attacks targeting Palestinian farmers, their lands and crops in six West Bank governorates on Friday, injuring at least 19 people, the Colonization…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
+   "title": "New SEC rules would fleece everyday investors to enrich Wall Street",
+   "url": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "published": "2026-10-16T21:21:00Z",
+   "summary": "New proposals from the Securities and Exchange Commission will tilt the scales in favor of Wall Street and against a huge group of retail investors.",
+   "cat": "economy",
+   "cats": [
+    "economy"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.theguardian.com/us-news/2026/oct/16/new-york-fashion-institute-of-technology-rape-fentanyl-overdose",
+   "title": "New York man charged with rape and lethal fentanyl dosing of college student",
+   "url": "https://www.theguardian.com/us-news/2026/oct/16/new-york-fashion-institute-of-technology-rape-fentanyl-overdose",
+   "source": "The Guardian",
+   "published": "2026-10-16T21:15:43Z",
+   "summary": "Prosecutors allege Moises Freire gave two students at FIT the opioid, saying it was cocaine, and raped one as she overdosed A man raped a student at New York ’s Fashion Institute…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://urdu.arynews.tv/emergency-and-governors-rule-imposed-in-kp/",
+   "title": "گورنر راج کیا ہے اور کیوں لگایا جاتا ہے؟",
+   "url": "https://urdu.arynews.tv/emergency-and-governors-rule-imposed-in-kp/",
+   "source": "ARY News Urdu",
+   "published": "2026-10-16T21:09:28Z",
+   "summary": "پشاور : خیبر پختونخوا میں ایمرجنسی اور گورنر راج کے نفاذ کے بعد یہ سوال اہم ہوگیا ہے کہ گورنر راج دراصل ہوتا کیا ہے؟ گورنر راج کے صوبے کے انتظامی امور پر کیا اثرات مرتب ہوتے ہیں…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "ur",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss",
+   "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+   "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-10-16T21:08:50Z",
+   "summary": "The messages, reported by a Brazilian daily, say the platform recommended Bolsonaro's profile and his WhatsApp channel.",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.theguardian.com/music/2026/oct/16/sean-diddy-combs-moved-new-prison",
+   "title": "Sean ‘Diddy’ Combs moved to new prison after reports of a luxury lifestyle behind bars",
+   "url": "https://www.theguardian.com/music/2026/oct/16/sean-diddy-combs-moved-new-prison",
+   "source": "The Guardian",
+   "published": "2026-10-16T21:05:20Z",
+   "summary": "Disgraced music mogul moved to Pennsylvania prison after reports of perks and fight injuries at New Jersey lockup Sean “Diddy” Combs , who was convicted of prostitution-related…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.cricinfo.com/ci/content/story/1558772.html?ex_cid=OTC-RSS",
+   "title": "Bumrah, Pant in India squad for New Zealand Test series",
+   "url": "https://www.cricinfo.com/ci/content/story/1558772.html?ex_cid=OTC-RSS",
+   "source": "ESPNcricinfo",
+   "published": "2026-10-16T21:04:05Z",
+   "summary": "Bumrah is not part of the ODI squad, but will return to lead the attack in the two-match Test series",
+   "cat": "cricket",
+   "cats": [
+    "cricket",
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.marketwatch.com/story/dont-buy-this-dip-several-signs-suggest-theres-more-pain-ahead-for-tech-stocks-83f971d7?mod=mw_rss_topstories",
+   "title": "Don’t buy this dip: Several signs suggest there’s more pain ahead for tech stocks",
+   "url": "https://www.marketwatch.com/story/dont-buy-this-dip-several-signs-suggest-theres-more-pain-ahead-for-tech-stocks-83f971d7?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "published": "2026-10-16T20:58:00Z",
+   "summary": "Thinking of buying the dip in technology stocks? The Nasdaq Composite’s technical outlook suggests don’t do it — at least not yet.",
+   "cat": "economy",
+   "cats": [
+    "economy"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.arabnews.pk/middle-east/yemen-says-2-missiles-hit-aden-airport-no-casualties-reported-3004403",
+   "title": "Yemen says 2 missiles hit Aden airport; no casualties reported",
+   "url": "https://www.arabnews.pk/middle-east/yemen-says-2-missiles-hit-aden-airport-no-casualties-reported-3004403",
+   "source": "Arab News Pakistan",
+   "published": "2026-10-16T20:49:40Z",
+   "summary": "Two missiles fired by the Iran-backed Houthi militia struck the airport in Yemen’s southern port city of Aden on Friday night, as a passenger plane prepared to take off, the…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.arabnews.pk/world/russia-strikes-9-ukrainian-regions-as-a-new-report-shows-a-spike-in-civilian-casualties-3004402",
+   "title": "Russia strikes 9 Ukrainian regions as a new report shows a spike in civilian casualties",
+   "url": "https://www.arabnews.pk/world/russia-strikes-9-ukrainian-regions-as-a-new-report-shows-a-spike-in-civilian-casualties-3004402",
+   "source": "Arab News Pakistan",
+   "published": "2026-10-16T20:38:34Z",
+   "summary": "Russian attacks on nine regions of Ukraine knocked out power to hundreds of thousands of households and wounded at least 15 people, officials said Friday, as a new report showed…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss",
+   "title": "Students in Europe are rising up to call for better education",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-10-16T20:38:00Z",
+   "summary": "Violent unrest is gripping several countries across Europe, as student activists demand better education systems.",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss",
+   "title": "Food affordability fears plague Gaza as Israel halts commercial goods",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-10-16T20:37:22Z",
+   "summary": "Commercial goods, such as fresh fruit, vegetables, meat and winter clothing, have not entered Gaza for two days.",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.theguardian.com/us-news/2026/oct/16/bystander-parent-oregon-school-shooting",
+   "title": "Bystander who killed Oregon shooter identified as father of girls at elementary school",
+   "url": "https://www.theguardian.com/us-news/2026/oct/16/bystander-parent-oregon-school-shooting",
+   "source": "The Guardian",
+   "published": "2026-10-16T20:37:21Z",
+   "summary": "Kaylub Giamanco, who was reportedly driving home when he heard gunshots, ‘not seeking recognition’, family says Details are beginning to emerge about Kaylub Giamanco, the man who…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.arabnews.pk/middle-east/israeli-settlers-attack-us-photographer-covering-west-bank-violence-3004401",
+   "title": "Israeli settlers attack US photographer covering West Bank violence",
+   "url": "https://www.arabnews.pk/middle-east/israeli-settlers-attack-us-photographer-covering-west-bank-violence-3004401",
+   "source": "Arab News Pakistan",
+   "published": "2026-10-16T20:34:01Z",
+   "summary": "RAMALLAH, Palestinian Territories: Israeli settlers on Friday attacked an American photojournalist working for The Washington Post while she was covering violence against…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.theguardian.com/us-news/2026/oct/16/family-six-flags-georgia-rollercoaster-death",
+   "title": "Family of US man who died on Six Flags ride question if death was preventable",
+   "url": "https://www.theguardian.com/us-news/2026/oct/16/family-six-flags-georgia-rollercoaster-death",
+   "source": "The Guardian",
+   "published": "2026-10-16T20:26:49Z",
+   "summary": "Hassan Jihad Ibn Kariem died after reportedly ‘passing out’ and falling off Goliath rollercoaster in Georgia The family of a man who was ejected from a rollercoaster at a Six…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.brecorder.com/news/40444606/white-house-press-secretary-zacharia-fired-in-less-than-a-week-after-facing-criticism",
+   "title": "White House press secretary Zacharia fired in less than a week after facing criticism",
+   "url": "https://www.brecorder.com/news/40444606/white-house-press-secretary-zacharia-fired-in-less-than-a-week-after-facing-criticism",
+   "source": "Business Recorder",
+   "published": "2026-10-16T20:22:15Z",
+   "summary": "White House press secretary Katie Zacharia was fired after less than a week on the job, two US officials said on Friday, after a rocky start as President Donald Trump’s top…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://urdu.arynews.tv/peshawar-school-roof-collapse-behind-the-breaking-news/",
+   "title": "پشاور: اسکول کی چھت گرنے کا واقعہ، بریکنگ نیوز کے پیچھے کیا ہوتا ہے؟",
+   "url": "https://urdu.arynews.tv/peshawar-school-roof-collapse-behind-the-breaking-news/",
+   "source": "ARY News Urdu",
+   "published": "2026-10-16T20:21:12Z",
+   "summary": "پشاور : ٹی وی چینلز پر دکھائی جانے والی بریکنگ نیوز کے پیچھے کیا ہوتا ہے؟ حادثات اور بڑے واقعات کی کوریج میں صحافیوں کو کن مشکلات کا سامنا کرنا پڑتا ہے؟ دہشت گردی کے کسی بھی…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "ur",
+   "region": "pk"
+  },
+  {
+   "id": "https://decrypt.co/381184/tesla-roadster-rocket-cool-flying-car-you-cant-have",
+   "title": "Tesla Roadster Rocket Is the Cool 'Flying' Car You Can’t Have",
+   "url": "https://decrypt.co/381184/tesla-roadster-rocket-cool-flying-car-you-cant-have",
+   "source": "Decrypt",
+   "published": "2026-10-16T20:16:04Z",
+   "summary": "Tesla's new Roadster flips through the air, jumps a row of Teslas and lands on SpaceX thrusters. The Rocket version is invite only, not approved for public roads, and not due…",
+   "cat": "crypto",
+   "cats": [
+    "crypto"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.arabnews.pk/world/clashes-grip-tirana-as-albanian-pm-blames-foreign-hands-3004400",
+   "title": "Clashes grip Tirana as Albanian PM blames ‘foreign hands’",
+   "url": "https://www.arabnews.pk/world/clashes-grip-tirana-as-albanian-pm-blames-foreign-hands-3004400",
+   "source": "Arab News Pakistan",
+   "published": "2026-10-16T20:15:30Z",
+   "summary": "Protests in Tirana have escalated into violence as clashes between demonstrators and police enter the fourth day, with Prime Minister Edi Rama attributing the unrest to ‘foreign…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss",
+   "title": "Oregon community mourns victims of school shooting",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-10-16T20:08:52Z",
+   "summary": "Mourners quietly grieved at a makeshift memorial outside an elementary school in Bend, Oregon.",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.aljazeera.com/news/2026/10/16/aoc-transfers-1m-to-michigan-candidate-el-sayed-in-progressive-push?traffic_source=rss",
+   "title": "AOC transfers $1m to Michigan candidate El-Sayed in progressive push",
+   "url": "https://www.aljazeera.com/news/2026/10/16/aoc-transfers-1m-to-michigan-candidate-el-sayed-in-progressive-push?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-10-16T20:07:25Z",
+   "summary": "Progressive stalwart, who is seen as potential 2028 candidate, says she wants to combat 'smears' against El-Sayed.",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
    "id": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
-   "title": "U.S. crude oil tops $100 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
+   "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
    "url": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
    "source": "CNBC",
-   "published": "2026-10-16T18:27:29Z",
-   "summary": "U.S. crude oil prices rose sharply Friday as Iran escalated its attacks in the Strait of Hormuz this week.",
+   "published": "2026-10-16T20:02:21Z",
+   "summary": "U.S. crude oil prices rose sharply Friday as Iran escalated attacks in the Strait of Hormuz this week.",
    "cat": "fuel",
    "cats": [
     "fuel",
     "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.skysports.com/football/news/12040/13599884/martin-oneill-as-hearts-test-awaits-is-celtic-manager-right-to-be-delighted-despite-benfica-defeat",
+   "title": "As Hearts test looms is O'Neill right to be 'delighted' by Benfica defeat?",
+   "url": "https://www.skysports.com/football/news/12040/13599884/martin-oneill-as-hearts-test-awaits-is-celtic-manager-right-to-be-delighted-despite-benfica-defeat",
+   "source": "Sky Sports",
+   "published": "2026-10-16T20:00:00Z",
+   "summary": "Martin O'Neill wants Celtic to take the positives from a 4-1 defeat to Benfica when they host Hearts on Sunday - live on Sky Sports.",
+   "cat": "cricket",
+   "cats": [
+    "cricket"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.arabnews.pk/middle-east/lebanon-opens-investigation-into-syrian-militia-leaders-abduction-and-transfer-to-syria-3004399",
+   "title": "Lebanon opens investigation into Syrian militia leader’s abduction and transfer to Syria",
+   "url": "https://www.arabnews.pk/middle-east/lebanon-opens-investigation-into-syrian-militia-leaders-abduction-and-transfer-to-syria-3004399",
+   "source": "Arab News Pakistan",
+   "published": "2026-10-16T19:54:13Z",
+   "summary": "Lebanese authorities were investigating how a former Syrian militia commander suspected of committing crimes during the government of ousted President Bashar Assad was abducted in…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.arabnews.pk/middle-east/yemens-houthi-war-threatens-ancient-heritage-and-fuels-fears-of-antiquities-trafficking-3004398",
+   "title": "Yemen’s Houthi war threatens ancient heritage and fuels fears of antiquities trafficking",
+   "url": "https://www.arabnews.pk/middle-east/yemens-houthi-war-threatens-ancient-heritage-and-fuels-fears-of-antiquities-trafficking-3004398",
+   "source": "Arab News Pakistan",
+   "published": "2026-10-16T19:52:09Z",
+   "summary": "The renewed offensive by the Houthi militia in Yemen has raised fresh concerns about the fate of a cultural heritage already battered by more than a decade of war, destruction and…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.arabnews.pk/middle-east/more-than-340-children-killed-in-gaza-in-year-since-israel-hamas-ceasefire-unicef-says-3004397",
+   "title": "More than 340 children killed in Gaza in year since Israel-Hamas ceasefire, UNICEF says",
+   "url": "https://www.arabnews.pk/middle-east/more-than-340-children-killed-in-gaza-in-year-since-israel-hamas-ceasefire-unicef-says-3004397",
+   "source": "Arab News Pakistan",
+   "published": "2026-10-16T19:47:21Z",
+   "summary": "More than 340 children in Gaza have been killed and hundreds injured since the ceasefire agreement between Israel and Hamas was announced on Oct. 10, 2026, the UN Children’s Fund…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.arabnews.pk/sport/wardley-out-for-revenge-in-wbo-heavyweight-title-rematch-with-dubois-3004396",
+   "title": "Wardley out for revenge in WBO heavyweight title rematch with Dubois",
+   "url": "https://www.arabnews.pk/sport/wardley-out-for-revenge-in-wbo-heavyweight-title-rematch-with-dubois-3004396",
+   "source": "Arab News Pakistan",
+   "published": "2026-10-16T19:46:30Z",
+   "summary": "Heavyweight challenger Fabio Wardley predicted he would take his revenge in knockout fashion after weighing in heavier than ever for a title rematch with WBO world champion Daniel…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
+   "title": "Did this year’s COLA beat inflation? Here’s how spending by American seniors stacks up so far in 2026.",
+   "url": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "published": "2026-10-16T19:45:00Z",
+   "summary": "The cost-of-living adjustment for 2027 will be 3.6%, which will give Social Security recipients an average of $75 more per month.",
+   "cat": "economy",
+   "cats": [
+    "economy"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+   "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
+   "url": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "published": "2026-10-16T19:45:00Z",
+   "summary": "The 3.6% COLA for 2027 is aimed at helping more than 68 million beneficiaries keep pace with the cost of living",
+   "cat": "economy",
+   "cats": [
+    "economy"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-told-new-press-secretary-to-reconsider-role?traffic_source=rss",
+   "title": "Trump told new press secretary to ‘reconsider’ role",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-told-new-press-secretary-to-reconsider-role?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-10-16T19:41:15Z",
+   "summary": "Al Jazeera has confirmed that White House press secretary Katie Zacharia is “transitioning out” of her role.",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.arabnews.pk/saudi-arabia/saudi-climate-envoy-meets-ambassador-of-ireland-in-riyadh-3004395",
+   "title": "Saudi climate envoy meets ambassador of Ireland in Riyadh",
+   "url": "https://www.arabnews.pk/saudi-arabia/saudi-climate-envoy-meets-ambassador-of-ireland-in-riyadh-3004395",
+   "source": "Arab News Pakistan",
+   "published": "2026-10-16T19:40:17Z",
+   "summary": "Adel Al-Jubeir, minister of state for foreign affairs, climate envoy, and commissioner general of Expo 2030 Riyadh, met Micheal Smith, Ireland’s ambassador to Saudi Arabia, in…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
+   "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
+   "url": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
+   "source": "The Guardian",
+   "published": "2026-10-16T19:37:53Z",
+   "summary": "Forest clearance at smallest total since records began in 1988 in success for Lula ahead of presidential run-off Deforestation in the Brazilian Amazon has fallen to its lowest…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://decrypt.co/381177/hackers-jailbreak-iphone-18-pro-survives-reboot",
+   "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
+   "url": "https://decrypt.co/381177/hackers-jailbreak-iphone-18-pro-survives-reboot",
+   "source": "Decrypt",
+   "published": "2026-10-16T19:36:04Z",
+   "summary": "Calif showed an untethered jailbreak on an iPhone 18 Pro running iOS 27.0.1 at Hexacon in Paris. It survived a reboot, but no tool or bug details are public yet.",
+   "cat": "crypto",
+   "cats": [
+    "crypto"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
+   "title": "Trump denies limiting Ukraine access to Starlink network",
+   "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-16T19:33:48Z",
+   "summary": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.skysports.com/boxing/news/12040/13600037/daniel-dubois-and-fabio-wardley-both-career-heaviest-for-heavyweight-title-rematch-definitely-not-going-the-distance",
+   "title": "Dubois and Wardley both career heaviest for heavyweight title rematch",
+   "url": "https://www.skysports.com/boxing/news/12040/13600037/daniel-dubois-and-fabio-wardley-both-career-heaviest-for-heavyweight-title-rematch-definitely-not-going-the-distance",
+   "source": "Sky Sports",
+   "published": "2026-10-16T19:24:00Z",
+   "summary": "Both Daniel Dubois and Fabio Wardley weighed in at a career heaviest for their WBO heavyweight championship rematch.",
+   "cat": "cricket",
+   "cats": [
+    "cricket"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.arabnews.pk/pakistan/pakistan-police-say-mastermind-of-deadly-september-kohat-attack-killed-3004394",
+   "title": "Pakistan police say mastermind of deadly September Kohat attack killed",
+   "url": "https://www.arabnews.pk/pakistan/pakistan-police-say-mastermind-of-deadly-september-kohat-attack-killed-3004394",
+   "source": "Arab News Pakistan",
+   "published": "2026-10-16T19:18:16Z",
+   "summary": "Pakistan’s counterterrorism police said on Friday they had killed a militant commander accused of masterminding a September attack on a police compound in the northwestern city of…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.aljazeera.com/video/inside-story/2026/10/16/can-diplomacy-resolve-long-standing-ethiopia-eritrea-differences?traffic_source=rss",
+   "title": "Can diplomacy resolve longstanding Ethiopia-Eritrea differences?",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/10/16/can-diplomacy-resolve-long-standing-ethiopia-eritrea-differences?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-10-16T19:18:13Z",
+   "summary": "The United States calls for dialogue as regional East Africa tension escalates.",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+   "title": "Here’s what happened in crypto today",
+   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+   "source": "Cointelegraph",
+   "published": "2026-10-16T19:17:04Z",
+   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+   "cat": "crypto",
+   "cats": [
+    "crypto"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.dawn.com/news/2037638/indian-billionaire-ambanis-reliance-breaks-silence-on-musk-says-jio-awaits-same-clearances-as-starlink",
+   "title": "Indian billionaire Ambani's Reliance breaks silence on Musk, says Jio awaits same clearances as Starlink",
+   "url": "https://www.dawn.com/news/2037638/indian-billionaire-ambanis-reliance-breaks-silence-on-musk-says-jio-awaits-same-clearances-as-starlink",
+   "source": "Dawn",
+   "published": "2026-10-16T19:13:27Z",
+   "summary": "Indian billionaire Mukesh Ambani’s Reliance said it welcomed competition from Elon Musk’s Starlink and that its own satellite services were also awaiting clearance, its first…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://urdu.arynews.tv/qatar-announces-massive-solar-plant-project-in-lebanon/",
+   "title": "قطر کا لبنان میں بڑے منصوبے کا اعلان",
+   "url": "https://urdu.arynews.tv/qatar-announces-massive-solar-plant-project-in-lebanon/",
+   "source": "ARY News Urdu",
+   "published": "2026-10-16T19:11:54Z",
+   "summary": "قطر نے لبنان میں بڑے شمسی توانائی منصوبے کا اعلان کر دیا۔ قطر کے وزیر اعظم نے لبنان میں توانائی کے بحران کو کم کرنے میں مدد کے لیے ایک ’بڑے پیمانے پر‘ شمسی توانائی کا منصوبہ (سولر…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "ur",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.arabnews.pk/middle-east/daraa-reports-33400-homes-destroyed-by-deposed-regime-3004393",
+   "title": "Daraa reports 33,400 homes destroyed by deposed regime",
+   "url": "https://www.arabnews.pk/middle-east/daraa-reports-33400-homes-destroyed-by-deposed-regime-3004393",
+   "source": "Arab News Pakistan",
+   "published": "2026-10-16T19:10:22Z",
+   "summary": "More than 33,400 homes in Syria’s Daraa province were completely destroyed and more than 60,000 others damaged during military campaigns by the deposed regime, according to a…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://urdu.arynews.tv/monem-zafar-khan-mayor-karachi-murtaza-wahab/",
+   "title": "میئر کراچی مرتضی وہاب کی کرسی خطرے میں ہے، منعم ظفر",
+   "url": "https://urdu.arynews.tv/monem-zafar-khan-mayor-karachi-murtaza-wahab/",
+   "source": "ARY News Urdu",
+   "published": "2026-10-16T19:09:48Z",
+   "summary": "کراچی کو اس وقت کئی بنیادی اور انتظامی مسائل کا سامنا ہے جن میں سرفہرست ٹوٹی پھوٹی سڑکیں تباہ حال انفرااسٹرکچر، صفائی اور نکاسی آب کا شدید فقدان ہے۔ اے آر وائی نیوز سے خصوصی گفتگو…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "ur",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
+   "title": "What we learned from heated US midterm Senate debates",
+   "url": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-16T19:09:37Z",
+   "summary": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged.",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.dawn.com/news/2037611/political-party-head-upset-over-not-being-appointed-kp-governor-claims-naqvi",
+   "title": "Political party head upset over not being appointed KP governor, claims Naqvi",
+   "url": "https://www.dawn.com/news/2037611/political-party-head-upset-over-not-being-appointed-kp-governor-claims-naqvi",
+   "source": "Dawn",
+   "published": "2026-10-16T19:08:35Z",
+   "summary": "Without taking any names, Interior Minister Mohsin Naqvi on Friday claimed that the “head of a party” was “extremely upset” about not being appointed the governor of Khyber…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://oilprice.com/Energy/Crude-Oil/Norways-Untapped-Oil-and-Gas-Frontier-Is-Drawing-Renewed-Interest.html",
+   "title": "Norway's Untapped Oil and Gas Frontier Is Drawing Renewed Interest",
+   "url": "https://oilprice.com/Energy/Crude-Oil/Norways-Untapped-Oil-and-Gas-Frontier-Is-Drawing-Renewed-Interest.html",
+   "source": "OilPrice.com",
+   "published": "2026-10-16T19:00:00Z",
+   "summary": "More than three decades after Norway opened parts of the Norwegian Sea to petroleum exploration, potentially significant oil and gas resources remain hidden beneath thick layers…",
+   "cat": "fuel",
+   "cats": [
+    "fuel"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.aljazeera.com/news/2026/10/16/white-house-press-secretary-katie-zacharia-fired-after-five-days-on-the-job?traffic_source=rss",
+   "title": "White House press secretary Katie Zacharia fired after five days on the job",
+   "url": "https://www.aljazeera.com/news/2026/10/16/white-house-press-secretary-katie-zacharia-fired-after-five-days-on-the-job?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-10-16T18:58:06Z",
+   "summary": "Trump advised Katie Zacharia to reconsider her press secretary role due to media backlash over her credentials.",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.aljazeera.com/news/2026/10/16/kenya-reports-third-bundibugyo-strain-ebola-case?traffic_source=rss",
+   "title": "Kenya records third Ebola case, linked to first patient who died",
+   "url": "https://www.aljazeera.com/news/2026/10/16/kenya-reports-third-bundibugyo-strain-ebola-case?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-10-16T18:57:40Z",
+   "summary": "Nairobi says 65-year-old female patient in quarantine with Bundibugyo strain; no signs of community transmission.",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.arabnews.pk/world/states-sue-ai-giant-openai-saying-its-popular-chatbot-is-hurting-children-and-deceiving-adults-3004392",
+   "title": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults",
+   "url": "https://www.arabnews.pk/world/states-sue-ai-giant-openai-saying-its-popular-chatbot-is-hurting-children-and-deceiving-adults-3004392",
+   "source": "Arab News Pakistan",
+   "published": "2026-10-16T18:57:37Z",
+   "summary": "At least eight states are suing artificial intelligence giant OpenAI, saying the company’s popular chatbot model violated state consumer protection laws by hurting children and…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream",
+   "title": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",
+   "url": "https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream",
+   "source": "Decrypt",
+   "published": "2026-10-16T18:55:37Z",
+   "summary": "Circle CEO Jeremy Allaire told Reuters the USDC issuer plans to enter about 40 emerging and developing markets, citing rising demand in Southeast Asia, Latin America, Africa and…",
+   "cat": "crypto",
+   "cats": [
+    "crypto"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.arabnews.pk/world/stay-humble-macron-tells-le-pen-as-french-vote-looms-3004391",
+   "title": "‘Stay humble’, Macron tells Le Pen as French vote looms",
+   "url": "https://www.arabnews.pk/world/stay-humble-macron-tells-le-pen-as-french-vote-looms-3004391",
+   "source": "Arab News Pakistan",
+   "published": "2026-10-16T18:54:42Z",
+   "summary": "French President Emmanuel Macron criticized Marine Le Pen for her lack of humility ahead of the presidential election, particularly concerning her plans to cut aid to Ukraine and…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.dawn.com/news/2037596/white-house-spokeswoman-katie-zacharia-let-go-from-role-official-says",
+   "title": "White House spokeswoman Katie Zacharia 'let go' from role, official says",
+   "url": "https://www.dawn.com/news/2037596/white-house-spokeswoman-katie-zacharia-let-go-from-role-official-says",
+   "source": "Dawn",
+   "published": "2026-10-16T18:48:46Z",
+   "summary": "White House Press Secretary Katie Zacharia was “let go” from the role, an official said on Friday, after US President Donald Trump said he had told her to reconsider the job…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.arabnews.pk/world/trumps-new-press-secretary-out-after-less-than-week-3004390",
+   "title": "Trump’s new press secretary out after less than week",
+   "url": "https://www.arabnews.pk/world/trumps-new-press-secretary-out-after-less-than-week-3004390",
+   "source": "Arab News Pakistan",
+   "published": "2026-10-16T18:42:08Z",
+   "summary": "White House Press Secretary Katie Zacharia is leaving her position after just a few days due to poor performance and questions regarding her resume. A White House official…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://urdu.arynews.tv/kriti-sanon-personality-rights-16-10-2026/",
+   "title": "کریتی سینن اے آئی سے پریشان، عدالت سے رجوع کر لیا",
+   "url": "https://urdu.arynews.tv/kriti-sanon-personality-rights-16-10-2026/",
+   "source": "ARY News Urdu",
+   "published": "2026-10-16T18:39:01Z",
+   "summary": "(16 اکتوبر 2026): بولی وڈ اداکارہ کریتی سینن نے مصنوعی ذہانت (اے آئی) کے غلط استعمال سے پریشان ہو کر عدالت سے رجوع کر لیا۔ انڈین میڈیا رپورٹس کے مطابق کریتی سینن نے دہلی ہائیکورٹ…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "ur",
+   "region": "pk"
+  },
+  {
+   "id": "https://oilprice.com/Latest-Energy-News/World-News/US-Offers-Another-17-Million-SPR-Barrels-as-Fuel-Crisis-Deepens.html",
+   "title": "U.S. Offers Another 17 Million SPR Barrels as Fuel Crisis Deepens",
+   "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Offers-Another-17-Million-SPR-Barrels-as-Fuel-Crisis-Deepens.html",
+   "source": "OilPrice.com",
+   "published": "2026-10-16T18:30:00Z",
+   "summary": "The United States is putting another 17 million barrels of crude from the Strategic Petroleum Reserve on offer, one day after the IEA accelerated emergency stock releases as…",
+   "cat": "fuel",
+   "cats": [
+    "fuel"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.aljazeera.com/news/2026/10/16/uk-pm-advisers-wife-expresses-support-for-palestine-action?traffic_source=rss",
+   "title": "UK PM adviser’s wife expresses ‘support’ for Palestine Action",
+   "url": "https://www.aljazeera.com/news/2026/10/16/uk-pm-advisers-wife-expresses-support-for-palestine-action?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-10-16T18:26:08Z",
+   "summary": "Police reviewing social media post by writer Sarah Helm, wife of Burnham's National Security Adviser Jonathan Powell.",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.aljazeera.com/news/2026/10/16/how-iran-messaging-highlights-cost-of-war-ahead-of-us-midterm-elections?traffic_source=rss",
+   "title": "How Iran messaging highlights cost of war ahead of US midterm elections",
+   "url": "https://www.aljazeera.com/news/2026/10/16/how-iran-messaging-highlights-cost-of-war-ahead-of-us-midterm-elections?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-10-16T18:21:43Z",
+   "summary": "Through statements in English, Iranian officials are emphasising gas prices and issues with the US economy.",
+   "cat": "affairs",
+   "cats": [
+    "affairs",
+    "fuel"
    ],
    "lang": "en",
    "region": "world"
@@ -103,6 +931,21 @@
    "region": "pk"
   },
   {
+   "id": "https://sports.ndtv.com/cricket/we-didnt-play-the-way-we-wanted-smriti-mandhana-after-india-survive-zimbabwe-scare-12196954",
+   "title": "'We Didn't Play The Way We Wanted': Smriti Mandhana After India Survive Zimbabwe Scare",
+   "url": "https://sports.ndtv.com/cricket/we-didnt-play-the-way-we-wanted-smriti-mandhana-after-india-survive-zimbabwe-scare-12196954",
+   "source": "NDTV Sports",
+   "published": "2026-10-16T18:14:55Z",
+   "summary": "India captain Smriti Mandhana admitted her side did not play the way it wanted in the first T20I against Zimbabwe, but was happy to begin her full-time captaincy with a…",
+   "cat": "affairs",
+   "cats": [
+    "affairs",
+    "cricket"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
    "id": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
    "title": "Scot Prem latest: McInnes hoping for 'calm' winter window after summer rebuild",
    "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
@@ -151,20 +994,6 @@
    "source": "Dawn",
    "published": "2026-10-16T18:10:57Z",
    "summary": "Downing Street on Friday distanced itself from comments by the wife of the British prime minister’s national security advisor who voiced support for Palestine Action, a group…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
-   "id": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates",
-   "title": "Katie Zacharia fired just days after starting role as Trump’s press secretary - live",
-   "url": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-10-16T18:10:03Z",
-   "summary": "White House says Zacharia is “transitioning out” of role after Trump says he asked her to “reconsider” job amid intense media scrutiny Sign up for the Breaking News US email In…",
    "cat": "affairs",
    "cats": [
     "affairs"
@@ -230,11 +1059,11 @@
   },
   {
    "id": "https://urdu.arynews.tv/trump-katie-zacharia-white-house-press-secretary-16-10-2026/",
-   "title": "صدر ٹرمپ نے ترجمان وائٹ ہاؤس کیٹی زکریا کو عہدے سے برطرف کر دیا، مشیر کا دعویٰ",
+   "title": "صدر ٹرمپ نے ترجمان وائٹ ہاؤس کیٹی زکریا کو عہدے سے برطرف کر دیا",
    "url": "https://urdu.arynews.tv/trump-katie-zacharia-white-house-press-secretary-16-10-2026/",
    "source": "ARY News Urdu",
    "published": "2026-10-16T18:07:05Z",
-   "summary": "واشنگٹن (16 اکتوبر 2026): امریکی صدر ڈونلڈ ٹرمپ نے ترجمان وائٹ ہاؤس کیٹی زکریا کو محض پانچ روز بعد عہدے سے برطرف کر دیا۔ سی این این کی رپورٹ کے مطابق یہ دعویٰ امریکی صدر کے ایک…",
+   "summary": "واشنگٹن (16 اکتوبر 2026): امریکی صدر ڈونلڈ ٹرمپ نے ترجمان وائٹ ہاؤس کیٹی زکریا کو محض پانچ روز بعد عہدے سے برطرف کر دیا۔ سی این این کی رپورٹ کے مطابق یہ دعویٰ امریکی صدر کے مشیروں…",
    "cat": "affairs",
    "cats": [
     "affairs"
@@ -411,6 +1240,21 @@
    "region": "pk"
   },
   {
+   "id": "https://sports.ndtv.com/cricket/rohit-sharma-made-it-clear-to-me-yuzvendra-chahals-big-revelation-on-why-he-was-not-picked-for-2023-world-cup-12195001",
+   "title": "\"Rohit Sharma Made It Clear To Me\": Yuzvendra Chahal's Big Revelation On Why He Was Not Picked For 2023 World Cup",
+   "url": "https://sports.ndtv.com/cricket/rohit-sharma-made-it-clear-to-me-yuzvendra-chahals-big-revelation-on-why-he-was-not-picked-for-2023-world-cup-12195001",
+   "source": "NDTV Sports",
+   "published": "2026-10-16T17:49:37Z",
+   "summary": "Veteran spinner Yuzvendra Chahal explained why he had been considered for India's 2023 World Cup squad, and did not play in the 2024 T20 World Cup either.",
+   "cat": "cricket",
+   "cats": [
+    "cricket",
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
    "id": "https://decrypt.co/381165/indias-cyber-agency-ai-agents-read-confidential-business-records",
    "title": "India's Cyber Agency Says AI Agents Read Confidential Business Records Without Authorization",
    "url": "https://decrypt.co/381165/indias-cyber-agency-ai-agents-read-confidential-business-records",
@@ -506,21 +1350,6 @@
    "cats": [
     "affairs",
     "cricket"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
-   "id": "https://www.cricinfo.com/ci/content/story/1558772.html?ex_cid=OTC-RSS",
-   "title": "Bumrah, Pant in India squad for New Zealand Test series",
-   "url": "https://www.cricinfo.com/ci/content/story/1558772.html?ex_cid=OTC-RSS",
-   "source": "ESPNcricinfo",
-   "published": "2026-10-16T17:30:25Z",
-   "summary": "Bumrah is not part of the ODI squad, but will return to lead the attack in the two-match Test series",
-   "cat": "cricket",
-   "cats": [
-    "cricket",
-    "affairs"
    ],
    "lang": "en",
    "region": "world"
@@ -622,20 +1451,6 @@
    "cats": [
     "crypto",
     "currency"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
-   "id": "https://www.theguardian.com/us-news/2026/oct/16/new-york-fashion-institute-of-technology-rape-fentanyl-overdose",
-   "title": "New York man charged with rape and lethal fentanyl dosing of college student",
-   "url": "https://www.theguardian.com/us-news/2026/oct/16/new-york-fashion-institute-of-technology-rape-fentanyl-overdose",
-   "source": "The Guardian",
-   "published": "2026-10-16T17:17:30Z",
-   "summary": "Prosecutors allege Moises Freire gave two students at FIT the opioid, saying it was cocaine, and raped one as she overdosed A man raped a student at New York ’s Fashion Institute…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
    ],
    "lang": "en",
    "region": "world"
@@ -1122,20 +1937,6 @@
    "region": "world"
   },
   {
-   "id": "https://www.theguardian.com/world/2026/oct/16/india-cockroach-janta-party-leader-detained-amid-crackdown-protests",
-   "title": "India’s Cockroach Janta party leader detained amid crackdown on protests",
-   "url": "https://www.theguardian.com/world/2026/oct/16/india-cockroach-janta-party-leader-detained-amid-crackdown-protests",
-   "source": "The Guardian",
-   "published": "2026-10-16T16:22:32Z",
-   "summary": "Abhijeet Dipke was arrested before planned anti-government demonstrations in Delhi The leader of the Cockroach Janta party (CJP) youth movement, Abhijeet Dipke, was detained by…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
    "id": "https://www.arabnews.pk/middle-east/trump-rules-out-nuclear-attack-on-iran-eyes-pickaxe-mountain-for-possible-strike-3004373",
    "title": "Trump rules out nuclear attack on Iran, eyes Pickaxe Mountain for possible strike",
    "url": "https://www.arabnews.pk/middle-east/trump-rules-out-nuclear-attack-on-iran-eyes-pickaxe-mountain-for-possible-strike-3004373",
@@ -1150,18 +1951,18 @@
    "region": "pk"
   },
   {
-   "id": "https://www.aljazeera.com/video/newsfeed/2026/10/16/indian-protest-leaders-detained-ahead-of-flag-march-in-new-delhi?traffic_source=rss",
-   "title": "Indian protest leaders detained ahead of flag march in New Delhi",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/indian-protest-leaders-detained-ahead-of-flag-march-in-new-delhi?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-10-16T16:16:13Z",
-   "summary": "India's Cockroach Janta Party founder Abhijeet Dipke and student leader Neha Bora were detained ahead of a flag march.",
+   "id": "https://www.express.pk/story/2838629/masoomon-ka-lahoo-or-ehtisab-ka-taqaza-2838629/",
+   "title": "معصوموں کا لہو اور احتساب کا تقاضا",
+   "url": "https://www.express.pk/story/2838629/masoomon-ka-lahoo-or-ehtisab-ka-taqaza-2838629/",
+   "source": "Express Urdu",
+   "published": "2026-10-16T16:13:09Z",
+   "summary": "حالیہ طوفانی بارشوں کے نتیجے میں نجی اسکول کی عمارت کی چھت کمزور ہوئی اور جمعرات کی صبح منہدم ہوکر نچلی منزل پر جاگری",
    "cat": "affairs",
    "cats": [
     "affairs"
    ],
-   "lang": "en",
-   "region": "world"
+   "lang": "ur",
+   "region": "pk"
   },
   {
    "id": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Are-Stuck-at-105-as-Geopolitical-Risks-Mount.html",
@@ -1192,20 +1993,6 @@
    "region": "pk"
   },
   {
-   "id": "https://www.dawn.com/news/2037611/political-party-head-upset-over-not-being-appointed-kp-governor-claims-naqvi",
-   "title": "Political party head upset over not being appointed KP governor, claims Naqvi",
-   "url": "https://www.dawn.com/news/2037611/political-party-head-upset-over-not-being-appointed-kp-governor-claims-naqvi",
-   "source": "Dawn",
-   "published": "2026-10-16T16:11:09Z",
-   "summary": "Without taking any names, Interior Minister Mohsin Naqvi on Friday claimed that the “head of a party” was “extremely upset” about not being appointed the governor of Khyber…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "pk"
-  },
-  {
    "id": "https://www.arabnews.pk/world/from-hospital-pope-pushes-putin-for-ceasefire-in-contested-ukraine-city-3004372",
    "title": "From hospital, pope pushes Putin for ceasefire in contested Ukraine city",
    "url": "https://www.arabnews.pk/world/from-hospital-pope-pushes-putin-for-ceasefire-in-contested-ukraine-city-3004372",
@@ -1218,20 +2005,6 @@
    ],
    "lang": "en",
    "region": "pk"
-  },
-  {
-   "id": "https://www.aljazeera.com/news/2026/10/16/division-in-lebanon-over-hezbollahs-confiscated-explosives?traffic_source=rss",
-   "title": "Division in Lebanon over Hezbollah’s confiscated explosives",
-   "url": "https://www.aljazeera.com/news/2026/10/16/division-in-lebanon-over-hezbollahs-confiscated-explosives?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-10-16T16:09:43Z",
-   "summary": "Hezbollah said explosives were to be used against Israel but political figures and some analysts fear assassinations.",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world"
   },
   {
    "id": "https://decrypt.co/381150/bitcoin-price-rebounds-where-next-charts",
@@ -1248,47 +2021,32 @@
    "region": "world"
   },
   {
-   "id": "https://www.aljazeera.com/news/2026/10/16/eu-rallies-in-support-of-ukraine-amid-trump-standoff?traffic_source=rss",
-   "title": "EU rallies in support of Ukraine amid Trump standoff",
-   "url": "https://www.aljazeera.com/news/2026/10/16/eu-rallies-in-support-of-ukraine-amid-trump-standoff?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-10-16T16:02:13Z",
-   "summary": "Ukraine's Volodymyr Zelenskyy asks EU leaders for extra $79bn to help fight Russia next year.",
+   "id": "https://www.express.pk/story/2838628/jagti-nendyn-2838628/",
+   "title": "جاگتی نیند",
+   "url": "https://www.express.pk/story/2838628/jagti-nendyn-2838628/",
+   "source": "Express Urdu",
+   "published": "2026-10-16T16:06:01Z",
+   "summary": "توقیر احمد شریفی‘ ایک زندہ شاعر ہے‘ ان کی کتاب ’’جاگتی نیند‘‘ طویل عرصے سے گھر کی اسٹڈی میں پڑی رہی",
    "cat": "affairs",
    "cats": [
     "affairs"
    ],
-   "lang": "en",
-   "region": "world"
+   "lang": "ur",
+   "region": "pk"
   },
   {
-   "id": "https://www.skysports.com/golf/news/12040/13599990/dp-world-india-championship-rory-mcilroy-four-off-clubhouse-lead-but-through-only-four-holes-of-second-round",
-   "title": "McIlroy plays just four holes of second round due to bad light in India",
-   "url": "https://www.skysports.com/golf/news/12040/13599990/dp-world-india-championship-rory-mcilroy-four-off-clubhouse-lead-but-through-only-four-holes-of-second-round",
-   "source": "Sky Sports",
-   "published": "2026-10-16T16:01:00Z",
-   "summary": "Rory McIlroy is four shots off the clubhouse lead but only four holes into his second round at the DP World India Championship after play was suspended early on Friday due to bad…",
-   "cat": "affairs",
+   "id": "https://www.express.pk/story/2838627/tarsilat-e-zar-main-izafa-2838627/",
+   "title": "ترسیلات زر میں اضافہ",
+   "url": "https://www.express.pk/story/2838627/tarsilat-e-zar-main-izafa-2838627/",
+   "source": "Express Urdu",
+   "published": "2026-10-16T16:00:31Z",
+   "summary": "بیرون ملک جانے والے اکثر نوجوان یہ سمجھتے ہیں کہ چند سال کی جدائی کے بعد وہ اچھے خاصے پیسے کما کر اپنے ملک لوٹ آئیں گے",
+   "cat": "currency",
    "cats": [
-    "affairs",
-    "cricket"
+    "currency"
    ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
-   "id": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-   "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-   "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-10-16T16:00:30Z",
-   "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world"
+   "lang": "ur",
+   "region": "pk"
   },
   {
    "id": "https://oilprice.com/Energy/Energy-General/IMF-Sounds-Alarm-Over-AIs-Threat-to-Government-Tax-Bases.html",
@@ -1315,20 +2073,6 @@
    "cat": "cricket",
    "cats": [
     "cricket"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
-   "id": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-   "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
-   "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-10-16T15:59:30Z",
-   "summary": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
    ],
    "lang": "en",
    "region": "world"
@@ -1377,6 +2121,20 @@
    "region": "pk"
   },
   {
+   "id": "https://www.express.pk/story/2838626/zabrdast-mary-bhi-or-rony-b-na-dy-2838626/",
+   "title": "زبردست مارے بھی اور رونے بھی نہ دے",
+   "url": "https://www.express.pk/story/2838626/zabrdast-mary-bhi-or-rony-b-na-dy-2838626/",
+   "source": "Express Urdu",
+   "published": "2026-10-16T15:54:27Z",
+   "summary": "ان کرداروں کو قانون کے شکنجے میں لانے کی دھمکی دی گئی جن کی شہادتیں اس فلم میں چہرہ اور شناخت بدل کے فلمبند کی گئیں",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "ur",
+   "region": "pk"
+  },
+  {
    "id": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz",
    "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
    "url": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz",
@@ -1387,20 +2145,6 @@
    "cats": [
     "crypto",
     "economy"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
-   "id": "https://www.aljazeera.com/sports/2026/10/16/manchester-utd-have-moved-on-from-martinez-outburst-says-carrick?traffic_source=rss",
-   "title": "Manchester Utd have ‘moved on’ from Martinez outburst, says Carrick",
-   "url": "https://www.aljazeera.com/sports/2026/10/16/manchester-utd-have-moved-on-from-martinez-outburst-says-carrick?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-10-16T15:52:18Z",
-   "summary": "Manchester United manager Michael Carrick says club have 'moved on' from Lisandro Martinez blast before Leeds trip.",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
    ],
    "lang": "en",
    "region": "world"
@@ -1420,49 +2164,6 @@
    "region": "pk"
   },
   {
-   "id": "https://www.dawn.com/news/2037619/israeli-settlers-attack-us-photographer-covering-west-bank-violence",
-   "title": "Israeli settlers attack US photographer covering West Bank violence",
-   "url": "https://www.dawn.com/news/2037619/israeli-settlers-attack-us-photographer-covering-west-bank-violence",
-   "source": "Dawn",
-   "published": "2026-10-16T15:50:30Z",
-   "summary": "Israeli settlers on Friday beat an American photojournalist working for The Washington Post while she was covering ongoing violence against Palestinian olive farmers in the…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
-   "id": "https://urdu.arynews.tv/shahid-ahmed-dehalvi-book-passage-3/",
-   "title": "میرا جی: بعض لوگ انھیں باؤلا اور منٹو فراڈ کہتا تھا!",
-   "url": "https://urdu.arynews.tv/shahid-ahmed-dehalvi-book-passage-3/",
-   "source": "ARY News Urdu",
-   "published": "2026-10-16T15:49:17Z",
-   "summary": "اردو شاعری میں جدیدیت کی داغ بیل ڈالنے اور روایت کو توڑنے والے میرا جی کے ہم عصروں اور اس عہد کے نقادوں کو بھی میرا جی کی شاعری میں ابہام نظر آیا۔ بعض نے یہ تک کہہ دیا کہ ان کی…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "ur",
-   "region": "pk"
-  },
-  {
-   "id": "https://sports.ndtv.com/cricket/fresh-twist-in-bcci-selectors-saga-31-test-veteran-wasim-jaffer-throws-hat-in-the-ring-12196127",
-   "title": "31-Test Veteran Emerges As Strong Contender For India Chief Selector's Job",
-   "url": "https://sports.ndtv.com/cricket/fresh-twist-in-bcci-selectors-saga-31-test-veteran-wasim-jaffer-throws-hat-in-the-ring-12196127",
-   "source": "NDTV Sports",
-   "published": "2026-10-16T15:48:21Z",
-   "summary": "With 31 Tests, he has a better playing record in the longest format than Pragyan Ojha, who represented India in 24 Tests.",
-   "cat": "affairs",
-   "cats": [
-    "affairs",
-    "cricket"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
    "id": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints",
    "title": "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
    "url": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints",
@@ -1476,34 +2177,6 @@
    ],
    "lang": "en",
    "region": "world"
-  },
-  {
-   "id": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
-   "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
-   "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-10-16T15:45:10Z",
-   "summary": "Zelensky thanked the \"real leaders\" ahead of a meeting with the EU in Brussels.",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
-   "id": "https://urdu.arynews.tv/nana-patekar-son-tanushree-dutta-16-10-2026/",
-   "title": "’’شیطان مر گیا‘‘: نانا پاٹیکر کے بیٹے کا تنوشری دتہ کے متنازع بیان پر ردعمل آگیا",
-   "url": "https://urdu.arynews.tv/nana-patekar-son-tanushree-dutta-16-10-2026/",
-   "source": "ARY News Urdu",
-   "published": "2026-10-16T15:45:00Z",
-   "summary": "(16 اکتوبر 2026): آنجہانی بولی وڈ اداکار نانا پاٹیکر کے بیٹے ملہار نے اداکارہ تنوشری دتہ کے متنازع بیان ’شیطان مر گیا‘ پر اپنے سخت ردعمل کا اظہار کر دیا۔ تنوشری دتہ نے 2009 کی فلم…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "ur",
-   "region": "pk"
   },
   {
    "id": "https://decrypt.co/381148/three-canadian-armed-forces-members-charged-in-kidnapping-of-crypto-exchange-owner",
@@ -1534,48 +2207,6 @@
    ],
    "lang": "en",
    "region": "pk"
-  },
-  {
-   "id": "https://www.theguardian.com/film/2026/oct/16/tough-to-watch-impossible-to-ignore-what-the-reviewers-say-about-naza-documentary",
-   "title": "‘Tough to watch, impossible to ignore’: reviewers on NAZA documentary",
-   "url": "https://www.theguardian.com/film/2026/oct/16/tough-to-watch-impossible-to-ignore-what-the-reviewers-say-about-naza-documentary",
-   "source": "The Guardian",
-   "published": "2026-10-16T15:42:46Z",
-   "summary": "Film interviewing military insiders about mass killing of civilians in Gaza wins widespread praise around the world Critics around the world have hailed the award-winning…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
-   "id": "https://www.arabnews.pk/saudi-arabia/saudi-syrian-fms-discuss-ties-and-regional-security-3004370",
-   "title": "Saudi, Syrian FMs discuss ties and regional security",
-   "url": "https://www.arabnews.pk/saudi-arabia/saudi-syrian-fms-discuss-ties-and-regional-security-3004370",
-   "source": "Arab News Pakistan",
-   "published": "2026-10-16T15:41:51Z",
-   "summary": "Saudi Foreign Minister Prince Faisal bin Farhan and his Syrian counterpart, Asaad Al-Shaibani, met on Friday in Riyadh to discuss strengthening ties and addressing shared regional…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "pk"
-  },
-  {
-   "id": "https://www.aljazeera.com/news/2026/10/16/gaza-malnutrition-and-starvation-at-catastrophic-levels-health-ministry?traffic_source=rss",
-   "title": "Gaza malnutrition and starvation at ‘catastrophic’ levels: Health Ministry",
-   "url": "https://www.aljazeera.com/news/2026/10/16/gaza-malnutrition-and-starvation-at-catastrophic-levels-health-ministry?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-10-16T15:37:25Z",
-   "summary": "About 67 percent of Gaza's population projected to face crisis-level food insecurity or worse through the end of 2026.",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world"
   },
   {
    "id": "https://www.cricinfo.com/ci/content/story/1558766.html?ex_cid=OTC-RSS",
@@ -1621,20 +2252,6 @@
    "region": "world"
   },
   {
-   "id": "https://www.theguardian.com/world/2026/oct/16/attacks-on-ukraine-power-plants-show-russia-has-given-up-on-military-victory",
-   "title": "Power plant attacks reflect Russian blueprint to make Ukrainian cities unlivable",
-   "url": "https://www.theguardian.com/world/2026/oct/16/attacks-on-ukraine-power-plants-show-russia-has-given-up-on-military-victory",
-   "source": "The Guardian",
-   "published": "2026-10-16T15:28:10Z",
-   "summary": "Kremlin turning to punishment of Ukraine’s population in major cities as frontlines remain frozen Europe live – latest updates As Russian missiles and drones have systematically…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
    "id": "https://www.arabnews.pk/middle-east/iraq-says-lost-60bn-as-mideast-war-hits-oil-exports-3004369",
    "title": "Iraq says lost $60bn as Mideast war hits oil exports",
    "url": "https://www.arabnews.pk/middle-east/iraq-says-lost-60bn-as-mideast-war-hits-oil-exports-3004369",
@@ -1665,34 +2282,6 @@
    "region": "world"
   },
   {
-   "id": "https://www.arabnews.pk/world/russia-seizes-more-eu-companies-assets-over-ukraine-support-3004368",
-   "title": "Russia seizes more EU companies’ assets over Ukraine support",
-   "url": "https://www.arabnews.pk/world/russia-seizes-more-eu-companies-assets-over-ukraine-support-3004368",
-   "source": "Arab News Pakistan",
-   "published": "2026-10-16T15:22:08Z",
-   "summary": "Russia has seized local assets of four companies from France, Germany, Sweden and Belgium, according to a decree by President Vladimir Putin, in retaliation for Europe’s wartime…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "pk"
-  },
-  {
-   "id": "https://www.arabnews.pk/world/cost-of-living-demonstrations-to-grip-pre-election-france-3004367",
-   "title": "Cost-of-living demonstrations to grip pre-election France",
-   "url": "https://www.arabnews.pk/world/cost-of-living-demonstrations-to-grip-pre-election-france-3004367",
-   "source": "Arab News Pakistan",
-   "published": "2026-10-16T15:17:34Z",
-   "summary": "After weeks of student protests, France is set to be swept by broader, nationwide demonstrations Saturday over the cost of living, setting up a potentially fraught period ahead of…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "pk"
-  },
-  {
    "id": "https://www.cricinfo.com/ci/content/story/1558756.html?ex_cid=OTC-RSS",
    "title": "Brad Wheal announces retirement at age of 30",
    "url": "https://www.cricinfo.com/ci/content/story/1558756.html?ex_cid=OTC-RSS",
@@ -1721,31 +2310,18 @@
    "region": "world"
   },
   {
-   "id": "https://www.arabnews.pk/world/war-and-minerals-erik-prince-and-paramilitaries-in-dr-congo-3004366",
-   "title": "War and minerals: Erik Prince and paramilitaries in DR Congo",
-   "url": "https://www.arabnews.pk/world/war-and-minerals-erik-prince-and-paramilitaries-in-dr-congo-3004366",
-   "source": "Arab News Pakistan",
-   "published": "2026-10-16T15:14:15Z",
-   "summary": "Erik Prince and foreign mercenaries are playing a significant role in supporting the DRC government amidst conflicts over strategic minerals.",
-   "cat": "affairs",
+   "id": "https://www.express.pk/story/2838620/zelensky-criticizes-trump-russian-diesel-deal-gas-sanctions-2838620/",
+   "title": "روس کو ڈیزل معاہدے کرنے کی اجازت پر یوکرینی صدر کی ٹرمپ پر کڑی تنقید",
+   "url": "https://www.express.pk/story/2838620/zelensky-criticizes-trump-russian-diesel-deal-gas-sanctions-2838620/",
+   "source": "Express Urdu",
+   "published": "2026-10-16T15:08:28Z",
+   "summary": "ڈیزل کے بعد روسی گیس کی تجارت پر عائد پابندیوں میں بھی نرمی کی جاسکتی ہیں، زیلنسکی",
+   "cat": "fuel",
    "cats": [
+    "fuel",
     "affairs"
    ],
-   "lang": "en",
-   "region": "pk"
-  },
-  {
-   "id": "https://www.arabnews.pk/world/food-crisis-looming-after-global-energy-shock-un-agriculture-fund-says-3004365",
-   "title": "Food crisis ‘looming’ after global energy shock, UN agriculture fund says",
-   "url": "https://www.arabnews.pk/world/food-crisis-looming-after-global-energy-shock-un-agriculture-fund-says-3004365",
-   "source": "Arab News Pakistan",
-   "published": "2026-10-16T15:10:31Z",
-   "summary": "The UN agriculture fund warns of a potential global food crisis due to increases in energy and fertilizer prices affecting smallholder farmers. Agricultural commodity prices saw a…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
+   "lang": "ur",
    "region": "pk"
   },
   {
@@ -1806,133 +2382,6 @@
    "region": "world"
   },
   {
-   "id": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
-   "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
-   "url": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-10-16T14:57:51Z",
-   "summary": "Some of the 200 patients were found with \"sores all over their bodies\" and in overcrowded rooms.",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
-   "id": "https://www.arabnews.pk/world/south-african-police-chief-to-return-to-work-after-suspension-lifted-3004364",
-   "title": "South African police chief to return to work after suspension lifted",
-   "url": "https://www.arabnews.pk/world/south-african-police-chief-to-return-to-work-after-suspension-lifted-3004364",
-   "source": "Arab News Pakistan",
-   "published": "2026-10-16T14:57:19Z",
-   "summary": "Fannie Masemola, South Africa’s national police chief, will return to work after his suspension was lifted by President Cyril Ramaphosa. The suspension had been due to charges…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "pk"
-  },
-  {
-   "id": "https://urdu.arynews.tv/shahid-dehalvi-book-passage-3/",
-   "title": "قائدِ اعظم سے اختلاف، علّامہ اقبال سے رنجش اور آزاد کے قتل کا فتویٰ",
-   "url": "https://urdu.arynews.tv/shahid-dehalvi-book-passage-3/",
-   "source": "ARY News Urdu",
-   "published": "2026-10-16T14:43:56Z",
-   "summary": "عام آدمی ہو یا اپنے عہد کی کوئی مشہور شخصیت، ہر انسان اپنی ذات و صفات کا تابع ضرور ہوتا ہے۔ اگر کوئی اپنے حلقۂ احباب میں اپنی خوش دلی، شگفتہ مزاجی اور مہمان نوازی کی وجہ سے…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "ur",
-   "region": "pk"
-  },
-  {
-   "id": "https://sports.ndtv.com/cricket/amid-bowling-concerns-morne-morkel-names-india-star-who-has-impressed-him-the-most-12195966",
-   "title": "Amid Bowling Concerns, Morne Morkel Names India Star Who Has Impressed Him The Most",
-   "url": "https://sports.ndtv.com/cricket/amid-bowling-concerns-morne-morkel-names-india-star-who-has-impressed-him-the-most-12195966",
-   "source": "NDTV Sports",
-   "published": "2026-10-16T14:38:08Z",
-   "summary": "Bowlers were taken to cleaners in the ongoing T20I series as the last six innings have produced totals well in excess of 200.",
-   "cat": "affairs",
-   "cats": [
-    "affairs",
-    "cricket"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
-   "id": "https://www.arabnews.pk/world/ethiopias-abiy-names-new-tigray-government-wants-polls-in-six-months-3004363",
-   "title": "Ethiopia’s Abiy names new Tigray government, wants polls in six months",
-   "url": "https://www.arabnews.pk/world/ethiopias-abiy-names-new-tigray-government-wants-polls-in-six-months-3004363",
-   "source": "Arab News Pakistan",
-   "published": "2026-10-16T14:38:04Z",
-   "summary": "Ethiopia’s Prime Minister Abiy Ahmed has named a caretaker government to stabilize the northern Tigray region and prepare for an election within six months, after fighting erupted…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "pk"
-  },
-  {
-   "id": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
-   "title": "Pope pictured for first time since surgery and cancer diagnosis",
-   "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-10-16T14:36:39Z",
-   "summary": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
-   "id": "https://www.dawn.com/news/2037614/italy-names-israeli-defence-minister-senior-officials-in-probe-over-gaza-flotilla-activists",
-   "title": "Italy names Israeli defence minister, senior officials in probe over Gaza flotilla activists",
-   "url": "https://www.dawn.com/news/2037614/italy-names-israeli-defence-minister-senior-officials-in-probe-over-gaza-flotilla-activists",
-   "source": "Dawn",
-   "published": "2026-10-16T14:36:13Z",
-   "summary": "Israeli Defence Minister Israel Katz and senior military, police and prison officials have been placed under investigation in Italy over the treatment of Gaza flotilla activists…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
-   "id": "https://www.bbc.com/urdu/articles/cq8jz18vp8xwo?at_medium=RSS&at_campaign=rss",
-   "title": "راکٹ تھرسٹر اور حیران کُن رفتار: ہوا میں قلابازی لگانے والی ٹیسلا کی ’فلائنگ کار‘ میں کیا خاص ہے؟",
-   "url": "https://www.bbc.com/urdu/articles/cq8jz18vp8xwo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Urdu",
-   "published": "2026-10-16T14:35:54Z",
-   "summary": "ایلون مسک کی کمپنی ٹیسلا نے سپیس ایکس کے تعاون سے ایک ایسی کار بنائی ہے جو تھرسٹرز کی مدد سے ہوا میں اچھل سکتی ہے۔ تاہم ناقدین اس کی کمرشل قدر اور عملی افادیت پر سوال اٹھا رہے ہیں۔",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "ur",
-   "region": "pk"
-  },
-  {
-   "id": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
-   "title": "Albanian protests turn violent: What we know",
-   "url": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-10-16T14:33:32Z",
-   "summary": "Albania's capital Tirana has seen months of protests from an anti-government \"Flamingo\" movement, but what started on Tuesday this week was on a different scale.",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
    "id": "https://www.brecorder.com/news/40444564/aurangzeb-discusses-sukuk-panda-bonds-with-standard-chartered",
    "title": "Aurangzeb discusses Sukuk, Panda bonds with Standard Chartered",
    "url": "https://www.brecorder.com/news/40444564/aurangzeb-discusses-sukuk-panda-bonds-with-standard-chartered",
@@ -1945,20 +2394,6 @@
    ],
    "lang": "en",
    "region": "pk"
-  },
-  {
-   "id": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
-   "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-   "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-10-16T14:31:04Z",
-   "summary": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world"
   },
   {
    "id": "https://oilprice.com/Latest-Energy-News/World-News/Global-Gas-Crunch-Makes-Europes-Remaining-Coal-Plants-Profitable.html",
@@ -2003,6 +2438,20 @@
    "region": "world"
   },
   {
+   "id": "https://www.express.pk/story/2838614/saudi-arab-coalition-army-attack-on-houthi-in-yemen-2838614/",
+   "title": "حوثیوں کے 6 ٹھکانے تباہ؛ سعودیہ پر میزائل اور ڈرون حملے ناکام بنادیے؛ اتحادی افواج",
+   "url": "https://www.express.pk/story/2838614/saudi-arab-coalition-army-attack-on-houthi-in-yemen-2838614/",
+   "source": "Express Urdu",
+   "published": "2026-10-16T14:27:43Z",
+   "summary": "حوثیوں نے سعودی عرب کے ینبع شہر کو نشانہ بنایا جو بحیرہ احمر کے ساحل پر واقع اہم صنعتی اور تیل برآمد کرنے والا شہر ہے",
+   "cat": "fuel",
+   "cats": [
+    "fuel"
+   ],
+   "lang": "ur",
+   "region": "pk"
+  },
+  {
    "id": "https://urdu.arynews.tv/92-minerals-discovered-in-pakistan-ogdcl/",
    "title": "پاکستان میں 92 معدنیات دریافت : ذخائر کی مالیت اربوں ڈالر تک جا پہنچی",
    "url": "https://urdu.arynews.tv/92-minerals-discovered-in-pakistan-ogdcl/",
@@ -2014,20 +2463,6 @@
     "currency"
    ],
    "lang": "ur",
-   "region": "pk"
-  },
-  {
-   "id": "https://www.arabnews.pk/world/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response-3004362",
-   "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO’s response",
-   "url": "https://www.arabnews.pk/world/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response-3004362",
-   "source": "Arab News Pakistan",
-   "published": "2026-10-16T14:23:42Z",
-   "summary": "Drone attacks in the Black Sea target cargo vessels, sparking NATO concerns about Russian intentions. These incidents highlight potential escalations and the need for enhanced…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
    "region": "pk"
   },
   {
@@ -2073,34 +2508,6 @@
    "region": "world"
   },
   {
-   "id": "https://www.arabnews.pk/middle-east/trump-says-i-dont-trust-anybody-when-asked-about-netanyahu-3004361",
-   "title": "Trump says ‘I don’t trust anybody,’ when asked about Netanyahu",
-   "url": "https://www.arabnews.pk/middle-east/trump-says-i-dont-trust-anybody-when-asked-about-netanyahu-3004361",
-   "source": "Arab News Pakistan",
-   "published": "2026-10-16T14:16:58Z",
-   "summary": "US President Donald Trump said he trusted no one in politics when asked whether he trusted Israeli Prime Minister Benjamin Netanyahu, even as he described their relationship as…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "pk"
-  },
-  {
-   "id": "https://urdu.arynews.tv/mohsin-naqvi-political-party-leader-16-10-2026/",
-   "title": "گورنر راج میں حصہ اور گورنرشپ نہ ملنے پر کون ناراض ہے؟ محسن نقوی کا اہم بیان",
-   "url": "https://urdu.arynews.tv/mohsin-naqvi-political-party-leader-16-10-2026/",
-   "source": "ARY News Urdu",
-   "published": "2026-10-16T14:16:39Z",
-   "summary": "لاہور (16 اکتوبر 2026): وفاقی وزیر داخلہ محسن نقوی نے دعویٰ کیا ہے کہ گورنر راج میں حصہ اور گورنرشپ نہ ملنے پر ایک سیاسی جماعت کے سربراہ ناراض ہیں۔ صحافیوں سے غیر رسمی گفتگو کرتے…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "ur",
-   "region": "pk"
-  },
-  {
    "id": "https://www.marketwatch.com/story/a-stock-market-sell-signal-has-been-silenced-but-these-bank-of-america-strategists-say-its-too-early-to-buy-8cdf98c8?mod=mw_rss_topstories",
    "title": "A stock-market ‘sell’ signal has been silenced — but these Bank of America strategists say it’s too early to buy",
    "url": "https://www.marketwatch.com/story/a-stock-market-sell-signal-has-been-silenced-but-these-bank-of-america-strategists-say-its-too-early-to-buy-8cdf98c8?mod=mw_rss_topstories",
@@ -2115,20 +2522,6 @@
    "region": "world"
   },
   {
-   "id": "https://www.dawn.com/news/2037580/imaan-hadi-walk-out-of-proceedings-after-objecting-to-jail-trial-in-security-breach-case",
-   "title": "Imaan, Hadi walk out of proceedings after objecting to jail trial in security breach case",
-   "url": "https://www.dawn.com/news/2037580/imaan-hadi-walk-out-of-proceedings-after-objecting-to-jail-trial-in-security-breach-case",
-   "source": "Dawn",
-   "published": "2026-10-16T14:13:07Z",
-   "summary": "Rights activist and lawyer Imaan Zainab Mazari-Hazir and her husband, Hadi Ali Chattha, on Friday objected to the manner of their presentation during the hearing of the security…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "pk"
-  },
-  {
    "id": "https://cointelegraph.com/news/strategy-daily-dividends-strc-hovers-below-100",
    "title": "Strategy conditionally declares daily dividends as STRC hovers below $100",
    "url": "https://cointelegraph.com/news/strategy-daily-dividends-strc-hovers-below-100",
@@ -2141,20 +2534,6 @@
    ],
    "lang": "en",
    "region": "world"
-  },
-  {
-   "id": "https://urdu.arynews.tv/trump-says-us-may-need-to-strike-irans-pickaxe-mountain/",
-   "title": "اب ایران میں کس مقام کو نشانہ بنائیں گے؟ ٹرمپ کا اہم اعلان",
-   "url": "https://urdu.arynews.tv/trump-says-us-may-need-to-strike-irans-pickaxe-mountain/",
-   "source": "ARY News Urdu",
-   "published": "2026-10-16T14:07:11Z",
-   "summary": "ٹرمپ کا کہنا ہے کہ امریکہ کو ایران کے ’پک ایکس ماؤنٹین‘ (Pickaxe Mountain) کو نشانہ بنانے کی ضرورت پڑ سکتی ہے۔ نیوز میکس (Newsmax) کو دیے گئے انٹرویو میں صدر ٹرمپ نے کہا کہ امریکا…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "ur",
-   "region": "pk"
   },
   {
    "id": "https://www.bbc.co.uk/sport/cricket/articles/cr86zgpgqjleo?at_medium=RSS&at_campaign=rss",
@@ -2185,20 +2564,6 @@
    "region": "world"
   },
   {
-   "id": "https://urdu.arynews.tv/nadra-juvenile-card-first-time-16-10-2026/",
-   "title": "بچوں کا پہلی بار جووینائل کارڈ بنوانا چاہتے ہیں تو یہ باتیں یاد رکھیں",
-   "url": "https://urdu.arynews.tv/nadra-juvenile-card-first-time-16-10-2026/",
-   "source": "ARY News Urdu",
-   "published": "2026-10-16T14:01:58Z",
-   "summary": "اسلام آباد (16 اکتوبر 2026): نیشنل ڈیٹابیس رجسٹریشن اتھارٹی (نادرا) نے بچوں کا پہلی بار جووینائل کارڈ بنوانے کے خواہش مند والدین کیلیے ہدایات جاری کر دیں۔ نادرا کی جانب سے جاری…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "ur",
-   "region": "pk"
-  },
-  {
    "id": "https://oilprice.com/Geopolitics/Europe/Ukraine-Defies-Trump-With-Renewed-Attacks-on-Russian-Oil-Infrastructure.html",
    "title": "Ukraine Defies Trump With Renewed Attacks on Russian Oil Infrastructure",
    "url": "https://oilprice.com/Geopolitics/Europe/Ukraine-Defies-Trump-With-Renewed-Attacks-on-Russian-Oil-Infrastructure.html",
@@ -2214,20 +2579,6 @@
    "region": "world"
   },
   {
-   "id": "https://www.brecorder.com/news/40444563/trump-says-us-may-need-to-strike-irans-pickaxe-mountain",
-   "title": "Trump says US may need to strike Iran's Pickaxe Mountain",
-   "url": "https://www.brecorder.com/news/40444563/trump-says-us-may-need-to-strike-irans-pickaxe-mountain",
-   "source": "Business Recorder",
-   "published": "2026-10-16T13:57:26Z",
-   "summary": "President Donald Trump said the US may have to target Pickaxe Mountain, a site linked to Iran’s nuclear program, as he aims to ensure Tehran does not get a nuclear weapon. In an…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "pk"
-  },
-  {
    "id": "https://www.arabnews.pk/middle-east/iran-ships-some-lpg-jet-fuel-despite-us-blockade-data-shows-3004360",
    "title": "Iran ships some LPG, jet fuel despite US blockade, data shows",
    "url": "https://www.arabnews.pk/middle-east/iran-ships-some-lpg-jet-fuel-despite-us-blockade-data-shows-3004360",
@@ -2237,48 +2588,6 @@
    "cat": "fuel",
    "cats": [
     "fuel",
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "pk"
-  },
-  {
-   "id": "https://www.aljazeera.com/news/2026/10/16/can-russia-help-ease-tensions-between-pakistan-and-afghanistan?traffic_source=rss",
-   "title": "Can Russia help ease tensions between Pakistan and Afghanistan?",
-   "url": "https://www.aljazeera.com/news/2026/10/16/can-russia-help-ease-tensions-between-pakistan-and-afghanistan?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-10-16T13:56:43Z",
-   "summary": "Russia has close ties with the Taliban and is courting Islamabad, but analysts say its leverage remains uncertain.",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "pk"
-  },
-  {
-   "id": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-   "title": "Here’s what happened in crypto today",
-   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-   "source": "Cointelegraph",
-   "published": "2026-10-16T13:56:15Z",
-   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-   "cat": "crypto",
-   "cats": [
-    "crypto"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
-   "id": "https://www.arabnews.pk/pakistan/pakistan-condemns-israels-refusal-to-allow-displaced-palestinians-home-3004359",
-   "title": "Pakistan condemns Israel’s refusal to allow displaced Palestinians home",
-   "url": "https://www.arabnews.pk/pakistan/pakistan-condemns-israels-refusal-to-allow-displaced-palestinians-home-3004359",
-   "source": "Arab News Pakistan",
-   "published": "2026-10-16T13:54:13Z",
-   "summary": "Pakistan on Friday condemned Israel’s refusal to allow displaced Palestinians to return to their homes in the occupied West Bank, calling it a serious violation of international…",
-   "cat": "affairs",
-   "cats": [
     "affairs"
    ],
    "lang": "en",
@@ -2299,34 +2608,6 @@
    "region": "world"
   },
   {
-   "id": "https://www.brecorder.com/news/40444562/thousands-march-in-albanian-capital-as-anti-government-protests-spread",
-   "title": "Thousands march in Albanian capital as anti-government protests spread",
-   "url": "https://www.brecorder.com/news/40444562/thousands-march-in-albanian-capital-as-anti-government-protests-spread",
-   "source": "Business Recorder",
-   "published": "2026-10-16T13:51:13Z",
-   "summary": "Thousands of young Albanians marched through Tirana on Friday, breaking some windows and traffic lights on the fourth day of an increasingly violent student-led campaign to force…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "pk"
-  },
-  {
-   "id": "https://www.arabnews.pk/middle-east/us-greenlights-iraqi-cabinet-with-blacklisted-factions-diplomatic-sources-3004358",
-   "title": "US greenlights Iraqi cabinet with blacklisted factions: diplomatic sources",
-   "url": "https://www.arabnews.pk/middle-east/us-greenlights-iraqi-cabinet-with-blacklisted-factions-diplomatic-sources-3004358",
-   "source": "Arab News Pakistan",
-   "published": "2026-10-16T13:47:51Z",
-   "summary": "The US has approved the finalization of Iraq’s cabinet despite the inclusion of groups it has blacklisted as terrorists. This strategic move is intended to support efforts to…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "pk"
-  },
-  {
    "id": "https://www.cricinfo.com/ci/content/story/1558724.html?ex_cid=OTC-RSS",
    "title": "Arshdeep doubtful for Bengaluru T20I, Bhuvneshwar added to India squad",
    "url": "https://www.cricinfo.com/ci/content/story/1558724.html?ex_cid=OTC-RSS",
@@ -2340,35 +2621,6 @@
    ],
    "lang": "en",
    "region": "world"
-  },
-  {
-   "id": "https://www.brecorder.com/news/40444561/aggressive-rbi-measures-hand-india-bonds-a-ninth-weekly-loss",
-   "title": "Aggressive RBI measures hand India bonds a ninth weekly loss",
-   "url": "https://www.brecorder.com/news/40444561/aggressive-rbi-measures-hand-india-bonds-a-ninth-weekly-loss",
-   "source": "Business Recorder",
-   "published": "2026-10-16T13:45:50Z",
-   "summary": "Indian government bonds nursed losses for a ninth straight week, battered by the Reserve Bank of India’s rupee defence, which has sharpened its tightening bias, clouded the policy…",
-   "cat": "affairs",
-   "cats": [
-    "affairs",
-    "currency"
-   ],
-   "lang": "en",
-   "region": "pk"
-  },
-  {
-   "id": "https://urdu.arynews.tv/kohat-police-lines-attack-master-mind-16-10-2026/",
-   "title": "کوہاٹ پولیس لائنز حملے کا ماسٹر مائنڈ خوارج زاہد گل ہلاک",
-   "url": "https://urdu.arynews.tv/kohat-police-lines-attack-master-mind-16-10-2026/",
-   "source": "ARY News Urdu",
-   "published": "2026-10-16T13:45:43Z",
-   "summary": "پشاور (16 اکتوبر 2026): کاؤنٹر ٹیررازم ڈیپارٹمنٹ (سی ٹی ڈی) لکی مروت اور سکیورٹی فورسز کی مشترکہ کارروائی میں کوہاٹ پولیس لائنز حملے کا ماسٹر مائنڈ خوارج زاہد گل ہلاک ہوگیا۔…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "ur",
-   "region": "pk"
   },
   {
    "id": "https://www.cricinfo.com/ci/content/story/1558719.html?ex_cid=OTC-RSS",
@@ -3103,20 +3355,6 @@
    "region": "world"
   },
   {
-   "id": "https://www.bbc.co.uk/sport/cricket/articles/cjn5vk4qe6g1o?at_medium=RSS&at_campaign=rss",
-   "title": "Rew, 18, to captain England Lions in West Indies",
-   "url": "https://www.bbc.co.uk/sport/cricket/articles/cjn5vk4qe6g1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-10-16T10:33:59Z",
-   "summary": "The elevation of teenager Thomas Rew to Lions captain is a further sign of the high regard he is held in by the England hierarchy and follows him being given his first senior…",
-   "cat": "cricket",
-   "cats": [
-    "cricket"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
    "id": "https://www.brecorder.com/news/40444537/pakistan-explores-15bn-financing-through-world-bank-guarantees",
    "title": "Pakistan explores $1.5bn financing through World Bank guarantees",
    "url": "https://www.brecorder.com/news/40444537/pakistan-explores-15bn-financing-through-world-bank-guarantees",
@@ -3159,20 +3397,6 @@
    "region": "world"
   },
   {
-   "id": "https://sports.ndtv.com/cricket/vaibhav-sooryavanshi-in-but-only-as-opener-gautam-gambhir-and-co-sent-timely-advice-12194609",
-   "title": "Vaibhav Sooryavanshi In, But Only As Opener: Gautam Gambhir And Co. Sent Timely Advice",
-   "url": "https://sports.ndtv.com/cricket/vaibhav-sooryavanshi-in-but-only-as-opener-gautam-gambhir-and-co-sent-timely-advice-12194609",
-   "source": "NDTV Sports",
-   "published": "2026-10-16T10:25:41Z",
-   "summary": "Given the way a resilient West Indies side has made a comeback in the five-match series, the Shreyas Iyer-led side cannot rest easy",
-   "cat": "cricket",
-   "cats": [
-    "cricket"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
    "id": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
    "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
    "url": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
@@ -3182,20 +3406,6 @@
    "cat": "crypto",
    "cats": [
     "crypto"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
-   "id": "https://www.cricinfo.com/ci/content/story/1558733.html?ex_cid=OTC-RSS",
-   "title": "Hazlewood backs reverse swing to remain a key factor in Gqeberha",
-   "url": "https://www.cricinfo.com/ci/content/story/1558733.html?ex_cid=OTC-RSS",
-   "source": "ESPNcricinfo",
-   "published": "2026-10-16T10:18:05Z",
-   "summary": "Australia's quick exploited Durban's abrasive surface to find reverse swing and their depth of pace options offers further confidence heading into the second Test",
-   "cat": "cricket",
-   "cats": [
-    "cricket"
    ],
    "lang": "en",
    "region": "world"
@@ -3302,29 +3512,16 @@
   },
   {
    "id": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
-   "title": "Live updates: Crypto gives up some ground as AI selloff picks up steam",
+   "title": "Live updates: Bitcoin dips to $81,000 as stocks slide, VIX soars ahead of Black Monday anniversary",
    "url": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
    "source": "CoinDesk",
    "published": "2026-10-16T09:48:14Z",
-   "summary": "Fixed income is again catching a bid on worries about the deflating AI bubble.",
+   "summary": "A Friday surge in oil prices hit already-shaky equity markets, sending the Nasdaq down more than 2%.",
    "cat": "crypto",
    "cats": [
-    "crypto"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
-   "id": "https://sports.ndtv.com/cricket/aaryavir-sehwag-son-of-virender-sehwag-takes-elite-u19-cup-by-storm-with-stunning-173-off-143-12194371",
-   "title": "Aaryavir Sehwag, Son Of Virender Sehwag, Takes Elite U19 Cup By Storm With Stunning 173 Off 143",
-   "url": "https://sports.ndtv.com/cricket/aaryavir-sehwag-son-of-virender-sehwag-takes-elite-u19-cup-by-storm-with-stunning-173-off-143-12194371",
-   "source": "NDTV Sports",
-   "published": "2026-10-16T09:44:17Z",
-   "summary": "Aaryavir Sehwag, son of legendary India opener Virender Sehwag, has made experts and fans across the world of cricket take note with a stunning knock of 173 in the ongoing Vinoo…",
-   "cat": "cricket",
-   "cats": [
-    "cricket",
-    "affairs"
+    "crypto",
+    "fuel",
+    "economy"
    ],
    "lang": "en",
    "region": "world"
@@ -3367,21 +3564,6 @@
    "cat": "fuel",
    "cats": [
     "fuel",
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
-   "id": "https://sports.ndtv.com/cricket/why-west-indies-cricket-gets-nothing-from-indias-rs-285-crore-home-series-12193666",
-   "title": "West Indies Cricket Gets 'Nothing' From India Series Worth $30 Million: CEO",
-   "url": "https://sports.ndtv.com/cricket/why-west-indies-cricket-gets-nothing-from-indias-rs-285-crore-home-series-12193666",
-   "source": "NDTV Sports",
-   "published": "2026-10-16T09:28:11Z",
-   "summary": "Any cricket series involving India is a money-spinner. Without a doubt, the Indian cricket team has the largest following across the world, thanks to the Indian diaspora",
-   "cat": "cricket",
-   "cats": [
-    "cricket",
     "affairs"
    ],
    "lang": "en",
@@ -5170,49 +5352,6 @@
    "region": "pk"
   },
   {
-   "id": "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict",
-   "title": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
-   "url": "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict",
-   "source": "Cointelegraph",
-   "published": "2026-10-15T17:14:45Z",
-   "summary": "The Wall Street Journal reported that a company co-founded by Bo Hines benefited from the passage of the GENIUS stablecoin bill.",
-   "cat": "crypto",
-   "cats": [
-    "crypto",
-    "economy"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
-   "id": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
-   "title": "Did this year’s COLA beat inflation? Here’s how spending by American seniors stacks up so far in 2026.",
-   "url": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "published": "2026-10-15T17:07:00Z",
-   "summary": "The cost-of-living adjustment for 2027 will be 3.6%, which will give Social Security recipients an average of $75 more per month.",
-   "cat": "economy",
-   "cats": [
-    "economy"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
-   "id": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
-   "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
-   "url": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "published": "2026-10-15T17:06:00Z",
-   "summary": "The 3.6% COLA for 2027 is aimed at helping more than 68 million beneficiaries keep pace with the cost of living",
-   "cat": "economy",
-   "cats": [
-    "economy"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
    "id": "https://tribune.com.pk/story/2635087/new-tax-agency-under-consideration",
    "title": "New tax agency under consideration",
    "url": "https://tribune.com.pk/story/2635087/new-tax-agency-under-consideration",
@@ -5342,20 +5481,6 @@
    "region": "pk"
   },
   {
-   "id": "https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins",
-   "title": "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins",
-   "url": "https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins",
-   "source": "Decrypt",
-   "published": "2026-10-15T16:28:50Z",
-   "summary": "The first major integration since Mastercard’s $1.8 billion BVNK acquisition lets banks, fintechs and enterprises hold, convert, and spend fiat and stablecoins through a single…",
-   "cat": "crypto",
-   "cats": [
-    "crypto"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
    "id": "https://propakistani.pk/2026/10/15/breaking-fbr-to-extend-2026-tax-return-deadline/",
    "title": "Breaking: FBR to Extend 2026 Tax Return Deadline [Update]",
    "url": "https://propakistani.pk/2026/10/15/breaking-fbr-to-extend-2026-tax-return-deadline/",
@@ -5439,20 +5564,6 @@
    ],
    "lang": "en",
    "region": "pk"
-  },
-  {
-   "id": "https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins",
-   "title": "Mastercard brings stablecoin balances into traditional banking and card payments",
-   "url": "https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins",
-   "source": "Cointelegraph",
-   "published": "2026-10-15T15:46:05Z",
-   "summary": "The launch of Global Money Platform marks Mastercard’s first major integration with BVNK since its August acquisition, with Nuvei and Marqeta among the first companies to adopt…",
-   "cat": "crypto",
-   "cats": [
-    "crypto"
-   ],
-   "lang": "en",
-   "region": "world"
   },
   {
    "id": "https://www.brecorder.com/news/40444401/india-expected-to-overtake-japan-as-worlds-4th-largest-economy-in-2027-imf",
@@ -5755,21 +5866,6 @@
    "region": "world"
   },
   {
-   "id": "https://oilprice.com/Latest-Energy-News/World-News/US-Wants-World-Bank-to-Drop-Ban-on-Upstream-Oil-and-Gas-Funding.html",
-   "title": "U.S. Wants World Bank to Drop Ban on Upstream Oil and Gas Funding",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Wants-World-Bank-to-Drop-Ban-on-Upstream-Oil-and-Gas-Funding.html",
-   "source": "OilPrice.com",
-   "published": "2026-10-15T13:30:00Z",
-   "summary": "The World Bank needs profound reforms, including reversing a ban on upstream oil and gas financing, U.S. Treasury Secretary Scott Bessent said in a statement for the World Bank…",
-   "cat": "fuel",
-   "cats": [
-    "fuel",
-    "economy"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
    "id": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
    "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
    "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
@@ -5909,21 +6005,6 @@
    "cat": "economy",
    "cats": [
     "economy"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
-   "id": "https://oilprice.com/Latest-Energy-News/World-News/Ship-to-Ship-Oil-Transfers-Surge-Off-Indias-West-Coast.html",
-   "title": "Ship-to-Ship Oil Transfers Surge Off India’s West Coast",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/Ship-to-Ship-Oil-Transfers-Surge-Off-Indias-West-Coast.html",
-   "source": "OilPrice.com",
-   "published": "2026-10-15T12:30:00Z",
-   "summary": "The waters outside the Strait of Hormuz have been so overcrowded with ship-to-ship transfers to keep oil flowing out of the Persian Gulf that the STS operations are expanding into…",
-   "cat": "fuel",
-   "cats": [
-    "fuel",
-    "affairs"
    ],
    "lang": "en",
    "region": "world"
@@ -6262,20 +6343,6 @@
    "region": "pk"
   },
   {
-   "id": "https://www.arabnews.pk/business/dubai-china-non-oil-trade-tops-500bn-over-past-decade-3004224",
-   "title": "Dubai-China non-oil trade tops $500bn over past decade",
-   "url": "https://www.arabnews.pk/business/dubai-china-non-oil-trade-tops-500bn-over-past-decade-3004224",
-   "source": "Arab News Pakistan",
-   "published": "2026-10-15T09:18:25Z",
-   "summary": "Non-oil trade between Dubai and China reached 2.1 trillion Emirati dirhams ($571.8 billion) from 2016 to 2025, according to the chairman of the emirate's commerce body. Speaking…",
-   "cat": "fuel",
-   "cats": [
-    "fuel"
-   ],
-   "lang": "en",
-   "region": "pk"
-  },
-  {
    "id": "https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll",
    "title": "Key US voters say economy is getting worse ahead of midterms, exclusive poll finds",
    "url": "https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll",
@@ -6289,21 +6356,6 @@
    ],
    "lang": "en",
    "region": "world"
-  },
-  {
-   "id": "https://www.brecorder.com/news/40444366/pakistan-refinery-appoints-interim-chairman-after-kirmani-steps-down",
-   "title": "Pakistan Refinery appoints interim chairman after Kirmani steps down",
-   "url": "https://www.brecorder.com/news/40444366/pakistan-refinery-appoints-interim-chairman-after-kirmani-steps-down",
-   "source": "Business Recorder",
-   "published": "2026-10-15T08:43:57Z",
-   "summary": "Following Tariq Kirmani’s resignation , Aftab Hussain has been appointed as chairman of Pakistan Refinery Limited (PRL) on an interim basis. The listed refinery informed the…",
-   "cat": "fuel",
-   "cats": [
-    "fuel",
-    "economy"
-   ],
-   "lang": "en",
-   "region": "pk"
   },
   {
    "id": "https://www.arabnews.pk/sport/progress-for-cricket-in-saudi-arabia-as-attention-turns-to-icc-mens-t20-world-cup-2028-3004216",
@@ -6853,20 +6905,6 @@
    "region": "world"
   },
   {
-   "id": "https://www.express.pk/story/2838221/tarseelat-e-zar-mein-izafa-2838221/",
-   "title": "ترسیلات زر میں اضافہ",
-   "url": "https://www.express.pk/story/2838221/tarseelat-e-zar-mein-izafa-2838221/",
-   "source": "Express Urdu",
-   "published": "2026-10-14T15:54:42Z",
-   "summary": "بیرون ملک مقیم پاکستانی ڈاکٹروں اور انجینئرز یا آئی ٹی ماہرین کو بہت ہی بہترین مواقع ملے ہوئے ہیں",
-   "cat": "currency",
-   "cats": [
-    "currency"
-   ],
-   "lang": "ur",
-   "region": "pk"
-  },
-  {
    "id": "https://www.dawn.com/news/2037110/pakistans-room-for-improvement-in-t20is-has-not-shrunk-in-size-after-sri-lanka-series-win",
    "title": "Pakistan's room for improvement in T20Is has not shrunk in size after Sri Lanka series win",
    "url": "https://www.dawn.com/news/2037110/pakistans-room-for-improvement-in-t20is-has-not-shrunk-in-size-after-sri-lanka-series-win",
@@ -7155,20 +7193,6 @@
    ],
    "lang": "ur",
    "region": "pk"
-  },
-  {
-   "id": "https://www.bbc.co.uk/news/articles/c3ewegye0g0qo?at_medium=RSS&at_campaign=rss",
-   "title": "'It's definitely tight trying to budget on maternity leave'",
-   "url": "https://www.bbc.co.uk/news/articles/c3ewegye0g0qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-10-14T09:59:51Z",
-   "summary": "An estimated 47,500 people in Sheffield are unable to make ends meet and pay their bills.",
-   "cat": "economy",
-   "cats": [
-    "economy"
-   ],
-   "lang": "en",
-   "region": "world"
   },
   {
    "id": "https://www.brecorder.com/news/40444179/gold-price-drops-by-rs2700-per-tola-in-pakistan",
@@ -7619,20 +7643,6 @@
    "region": "pk"
   },
   {
-   "id": "https://www.fxstreet.com/news/uk-finance-minister-healey-to-fund-budget-giveaways-without-extra-borrowing-ft-202610140428",
-   "title": "UK Finance Minister Healey to fund budget giveaways without extra borrowing — FT",
-   "url": "https://www.fxstreet.com/news/uk-finance-minister-healey-to-fund-budget-giveaways-without-extra-borrowing-ft-202610140428",
-   "source": "FXStreet",
-   "published": "2026-10-14T04:28:54Z",
-   "summary": "UK Finance Minister John Healey is set to finance all new measures announced in the October 28 budget, including a cost-of-living support package, through higher taxes or…",
-   "cat": "economy",
-   "cats": [
-    "economy"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
    "id": "https://www.fxstreet.com/news/gbp-usd-price-forecast-hits-one-week-top-as-bulls-eye-range-breakout-above-13300-202610140427",
    "title": "GBP/USD Price Forecast: Hits one-week top as bulls eye range breakout above 1.3300",
    "url": "https://www.fxstreet.com/news/gbp-usd-price-forecast-hits-one-week-top-as-bulls-eye-range-breakout-above-13300-202610140427",
@@ -7642,20 +7652,6 @@
    "cat": "currency",
    "cats": [
     "currency"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
-   "id": "https://www.aljazeera.com/economy/2026/10/14/singapores-economy-grows-more-than-5-percent-amid-ai-boom?traffic_source=rss",
-   "title": "Singapore’s economy grows more than 5 percent amid AI boom",
-   "url": "https://www.aljazeera.com/economy/2026/10/14/singapores-economy-grows-more-than-5-percent-amid-ai-boom?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-10-14T04:25:02Z",
-   "summary": "City-state's GDP expands 5.4 percent in July-September quarter, according to advance government estimates.",
-   "cat": "economy",
-   "cats": [
-    "economy"
    ],
    "lang": "en",
    "region": "world"
@@ -8755,7 +8751,7 @@
    "name": "Dawn",
    "url": "https://www.dawn.com/feeds/home",
    "ok": true,
-   "items": 26,
+   "items": 27,
    "error": ""
   },
   {
@@ -8790,7 +8786,7 @@
    "name": "Dawn",
    "url": "https://www.dawn.com/feeds/sport",
    "ok": true,
-   "items": 15,
+   "items": 14,
    "error": ""
   },
   {
@@ -8923,7 +8919,7 @@
    "name": "MarketWatch",
    "url": "http://feeds.marketwatch.com/marketwatch/topstories/",
    "ok": true,
-   "items": 2,
+   "items": 5,
    "error": ""
   },
   {
