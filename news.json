@@ -1,7 +1,230 @@
 {
- "generated_at": "2026-10-17T21:21:09Z",
+ "generated_at": "2026-10-17T23:13:15Z",
  "count": 794,
  "items": [
+  {
+   "id": "https://www.theguardian.com/us-news/2026/oct/17/kansas-soccer-game-killings",
+   "title": "Two people, including child, killed after person drives through soccer game in Kansas",
+   "url": "https://www.theguardian.com/us-news/2026/oct/17/kansas-soccer-game-killings",
+   "source": "The Guardian",
+   "published": "2026-10-17T23:09:31Z",
+   "summary": "The driver of the vehicle is in custody, and two juveniles were in the vehicle, according to Wichita police department Two people, including a child, were killed during a soccer…",
+   "cat": "sports",
+   "cats": [
+    "sports",
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "football"
+  },
+  {
+   "id": "https://www.skysports.com/darts/news/12040/13600495/dutch-darts-championship-michael-van-gerwen-suffers-another-early-exit-as-gian-van-veen-makes-history-and-gerwyn-price-triumphs-on-return",
+   "title": "Van Gerwen suffers another early exit as Van Veen makes history and Price wins",
+   "url": "https://www.skysports.com/darts/news/12040/13600495/dutch-darts-championship-michael-van-gerwen-suffers-another-early-exit-as-gian-van-veen-makes-history-and-gerwyn-price-triumphs-on-return",
+   "source": "Sky Sports",
+   "published": "2026-10-17T23:02:00Z",
+   "summary": "Dutch favourite Michael van Gerwen suffered a shock second-round exit at the Dutch Darts Championship on Saturday, losing 6-5 to Irishman William O'Connor.",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "cricket"
+  },
+  {
+   "id": "https://www.bbc.co.uk/sport/football/videos/cx7vpl5qd008o?at_medium=RSS&at_campaign=rss",
+   "title": "How 'dangerous' Man City maintained 100 per cent record",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cx7vpl5qd008o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-10-17T23:00:53Z",
+   "summary": "Match of the Day's Joe Hart and Danny Murphy analyse how Manchester City made it seven wins from seven in the Premier League with a 3-2 victory against Ipswich.",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "football"
+  },
+  {
+   "id": "https://www.bbc.co.uk/sport/football/videos/c65ynpkjydemo?at_medium=RSS&at_campaign=rss",
+   "title": "Why Liverpool are still 'too easy' to play against",
+   "url": "https://www.bbc.co.uk/sport/football/videos/c65ynpkjydemo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-10-17T23:00:48Z",
+   "summary": "Match of the Day's Danny Murphy analyses how Liverpool are still to \"easy\" to play against despite their 2-1 victory over Brentford.",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "other"
+  },
+  {
+   "id": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Stay-High-as-War-Keeps-Supply-Tight-Into-2027.html",
+   "title": "Oil Prices Stay High as War Keeps Supply Tight Into 2027",
+   "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Stay-High-as-War-Keeps-Supply-Tight-Into-2027.html",
+   "source": "OilPrice.com",
+   "published": "2026-10-17T23:00:00Z",
+   "summary": "During the first three months or so of the U.S. and Israeli war with Iran, the dominant mood on oil markets was that the conflict would end any day now. The brief June ceasefire…",
+   "cat": "fuel",
+   "cats": [
+    "fuel",
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.dawn.com/news/2037979/dubois-destroys-wardley-to-retain-wbo-heavyweight-crown",
+   "title": "Dubois destroys Wardley to retain WBO heavyweight crown",
+   "url": "https://www.dawn.com/news/2037979/dubois-destroys-wardley-to-retain-wbo-heavyweight-crown",
+   "source": "Dawn",
+   "published": "2026-10-17T22:58:44Z",
+   "summary": "Daniel Dubois scored a crushing second-round knockout victory over fellow Briton Fabio Wardley to retain his World Boxing Organisation heavyweight crown on Saturday. In a…",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "pk",
+   "sub": "other"
+  },
+  {
+   "id": "https://www.skysports.com/football/news/12040/13600491/viktor-gyokeres-keen-to-leave-arsenal-due-to-lack-of-first-team-opportunites-paper-talk",
+   "title": "Papers: Gyokeres keen to leave Arsenal",
+   "url": "https://www.skysports.com/football/news/12040/13600491/viktor-gyokeres-keen-to-leave-arsenal-due-to-lack-of-first-team-opportunites-paper-talk",
+   "source": "Sky Sports",
+   "published": "2026-10-17T22:50:00Z",
+   "summary": "The top stories and transfer rumours from Sunday's newspapers...",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "football"
+  },
+  {
+   "id": "https://www.theguardian.com/us-news/2026/oct/17/new-york-city-subway-station-shooting",
+   "title": "New York City police seek suspect in fatal subway station shooting",
+   "url": "https://www.theguardian.com/us-news/2026/oct/17/new-york-city-subway-station-shooting",
+   "source": "The Guardian",
+   "published": "2026-10-17T22:45:48Z",
+   "summary": "Suspect shot a man in his 30s on the E train platform of the 53rd Street-7th Avenue subway station, according to NYPD A man was shot and killed in a New York City subway station…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.theguardian.com/sport/2026/oct/17/jalen-hurts-eagles-injured-reserve-blood-clot-calf",
+   "title": "Jalen Hurts placed on injured reserve after Eagles quarterback diagnosed with blood clot",
+   "url": "https://www.theguardian.com/sport/2026/oct/17/jalen-hurts-eagles-injured-reserve-blood-clot-calf",
+   "source": "The Guardian",
+   "published": "2026-10-17T22:33:44Z",
+   "summary": "Eagles star sidelined by blood clot in his calf Hurts sustained injury against Rams on 4 October Super Bowl MVP must miss at least four games Quarterback Jalen Hurts was placed on…",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "other"
+  },
+  {
+   "id": "https://www.theguardian.com/sport/2026/oct/17/daniel-dubois-devastating-second-round-stoppage-of-fabio-wardley-retain-wbo-title-boxing",
+   "title": "Daniel Dubois delivers devastating second-round stoppage of Fabio Wardley to retain WBO title",
+   "url": "https://www.theguardian.com/sport/2026/oct/17/daniel-dubois-devastating-second-round-stoppage-of-fabio-wardley-retain-wbo-title-boxing",
+   "source": "The Guardian",
+   "published": "2026-10-17T22:30:18Z",
+   "summary": "Dubois underlines status as Britain’s leading heavyweight Wardley’s corner throw in the towel in second round Daniel Dubois overwhelmed Fabio Wardley in their WBO world title…",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "other"
+  },
+  {
+   "id": "https://www.bbc.co.uk/sport/football/articles/cm1j3nl91gg2o?at_medium=RSS&at_campaign=rss",
+   "title": "Rangers 'pop balloon' as Neil gift wastes chance to go top",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm1j3nl91gg2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-10-17T22:29:15Z",
+   "summary": "Rangers were full of positive energy as they made the trip to Dundee on the back of seven straight wins. However, a Dan Neil error felt \"like a balloon popping\", says Derek…",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "other"
+  },
+  {
+   "id": "https://www.bbc.co.uk/sport/boxing/articles/c6gelq3zdy8wo?at_medium=RSS&at_campaign=rss",
+   "title": "Dubois destroys Wardley in two rounds to retain title",
+   "url": "https://www.bbc.co.uk/sport/boxing/articles/c6gelq3zdy8wo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-10-17T22:27:49Z",
+   "summary": "WBO champion Daniel Dubois underlines his status as Britain's leading heavyweight with a devastating second-round stoppage of Fabio Wardley.",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "other"
+  },
+  {
+   "id": "https://www.arabnews.pk/world/trumps-decision-to-waive-russian-sanctions-outrages-congress-but-no-quick-counter-seen-3004492",
+   "title": "Trump’s decision to waive Russian sanctions outrages Congress, but no quick counter seen",
+   "url": "https://www.arabnews.pk/world/trumps-decision-to-waive-russian-sanctions-outrages-congress-but-no-quick-counter-seen-3004492",
+   "source": "Arab News Pakistan",
+   "published": "2026-10-17T22:25:13Z",
+   "summary": "President Donald Trump’s abrupt decision to waive sanctions on Russia days before they were to take effect drew outrage Saturday from members of Congress, which had overwhelmingly…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.theguardian.com/sport/2026/oct/17/gabby-williams-golden-state-valkyries-atlanta-dream-wnba-finals-game-one",
+   "title": "Gabby Williams lifts Valkyries past Dream in defensive slugfest to open WNBA finals",
+   "url": "https://www.theguardian.com/sport/2026/oct/17/gabby-williams-golden-state-valkyries-atlanta-dream-wnba-finals-game-one",
+   "source": "The Guardian",
+   "published": "2026-10-17T22:17:40Z",
+   "summary": "Williams scores 26 as Golden State prevail 68-64 Hosts overcome 32% shooting to take 1-0 series lead Gray scores 19 in return as Atlanta fall short late Gabby Williams made two…",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "other"
+  },
+  {
+   "id": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+   "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+   "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-17T22:09:50Z",
+   "summary": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
   {
    "id": "https://www.skysports.com/football/dundee-vs-rangers/report/558383",
    "title": "Rangers miss chance to go top as Jones earns Dundee a point",
@@ -16,6 +239,184 @@
    "lang": "en",
    "region": "world",
    "sub": "cricket"
+  },
+  {
+   "id": "https://www.skysports.com/boxing/news/12040/13600415/daniel-dubois-smashes-through-fabio-wardley-to-win-wbo-heavyweight-world-championship-rematch-in-the-second-round",
+   "title": "Dubois smashes through Wardley to win world title rematch in two rounds",
+   "url": "https://www.skysports.com/boxing/news/12040/13600415/daniel-dubois-smashes-through-fabio-wardley-to-win-wbo-heavyweight-world-championship-rematch-in-the-second-round",
+   "source": "Sky Sports",
+   "published": "2026-10-17T22:00:00Z",
+   "summary": "Daniel Dubois smashed Fabio Wardley to defeat in the second round of their world championship rematch at London’s O2 Arena.",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "cricket"
+  },
+  {
+   "id": "https://www.bbc.co.uk/sport/football/articles/c6y93xw91dv3o?at_medium=RSS&at_campaign=rss",
+   "title": "Can Hearts prove credentials at scene of title heartbreak?",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6y93xw91dv3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-10-17T21:55:44Z",
+   "summary": "Hearts' last trip to Parkhead ended with their title dream being crushed in the space of 11 minutes. They return to face Celtic on Sunday refreshed and reshaped.",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "other"
+  },
+  {
+   "id": "https://www.cricinfo.com/ci/content/story/1558881.html?ex_cid=OTC-RSS",
+   "title": "Taylor, Ervine lay platform before Evans four-for secures thumping win",
+   "url": "https://www.cricinfo.com/ci/content/story/1558881.html?ex_cid=OTC-RSS",
+   "source": "ESPNcricinfo",
+   "published": "2026-10-17T21:55:23Z",
+   "summary": "Stand of 150 between veteran fourth-wicket pair sets up Zimbabwe in tri-series opener",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "cricket"
+  },
+  {
+   "id": "https://urdu.arynews.tv/announcement-of-a-temporary-gas-supply-suspension/",
+   "title": "گیس کی عارضی بندش کا اعلان",
+   "url": "https://urdu.arynews.tv/announcement-of-a-temporary-gas-supply-suspension/",
+   "source": "ARY News Urdu",
+   "published": "2026-10-17T21:44:17Z",
+   "summary": "اسلام آباد : سوئی ناردرن گیس پائپ لائنز لمیٹڈ نے اسلام آباد کے مختلف علاقوں میں گیس کی عارضی بندش کا اعلان کردیا۔ اعلامیے کے مطابق اسلام آباد میں مین پائپ لائن پر لیکیج کے باعث…",
+   "cat": "fuel",
+   "cats": [
+    "fuel"
+   ],
+   "lang": "ur",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.bbc.co.uk/sport/football/articles/cm4g1e15g76jo?at_medium=RSS&at_campaign=rss",
+   "title": "Reedijk has 'sick feeling in stomach' - are his Hibs team in relegation fight?",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1e15g76jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-10-17T21:37:38Z",
+   "summary": "Two games in, no points gathered and a chorus of boos greeting him at full-time at Easter Road. The honeymoon is well and truly over for Marink Reedijk.",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "other"
+  },
+  {
+   "id": "https://www.theguardian.com/football/2026/oct/17/scottish-premiership-kilmarnock-rangers-dundee-celtic-hearts",
+   "title": "Scottish Premiership: Rangers miss chance to go top after pulsating draw with Dundee",
+   "url": "https://www.theguardian.com/football/2026/oct/17/scottish-premiership-kilmarnock-rangers-dundee-celtic-hearts",
+   "source": "The Guardian",
+   "published": "2026-10-17T21:33:58Z",
+   "summary": "Jones equaliser denies Rangers victory Kilmarnock beat Motherwell 3-2 to move off bottom Rangers passed up the chance to go top of the Premiership in a pulsating 2-2 draw against…",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "football"
+  },
+  {
+   "id": "https://www.theguardian.com/football/2026/oct/17/european-football-bayern-munich-barcelona-psg-inter",
+   "title": "European football: Barcelona thrash Real Betis to maintain 100% record",
+   "url": "https://www.theguardian.com/football/2026/oct/17/european-football-bayern-munich-barcelona-psg-inter",
+   "source": "The Guardian",
+   "published": "2026-10-17T21:33:46Z",
+   "summary": "Lamine Yamal opens scoring in ninth straight win Luis Díaz hat-trick helps Bayern thump RB Leipzig 6-1 Barcelona ’s La Liga juggernaut rolled into Seville on Saturday and left…",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "football"
+  },
+  {
+   "id": "https://www.theguardian.com/sport/2026/oct/17/champions-cup-rugby-union-sale-glasgow-clermont-leinster-lions-la-rochelle-bath-munster",
+   "title": "Champions Cup roundup: La Rochelle beat Lions after emotional tribute to Andrews",
+   "url": "https://www.theguardian.com/sport/2026/oct/17/champions-cup-rugby-union-sale-glasgow-clermont-leinster-lions-la-rochelle-bath-munster",
+   "source": "The Guardian",
+   "published": "2026-10-17T21:33:26Z",
+   "summary": "Lions lock Hyron Andrews, 31, found dead on Friday Connacht 45-36 Saracens; Sale 27-47 Glasgow The Johannesburg-based Lions put up a gritty fight on an emotional Champions Cup…",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "other"
+  },
+  {
+   "id": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+   "title": "How day of protests unfolded as disorder breaks out across France",
+   "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-17T21:33:17Z",
+   "summary": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://urdu.arynews.tv/inflation-in-france-hundreds-of-thousands-take-to-streets/",
+   "title": "فرانس میں مہنگائی بےقابو، لاکھوں افراد سڑکوں پر نکل آئے",
+   "url": "https://urdu.arynews.tv/inflation-in-france-hundreds-of-thousands-take-to-streets/",
+   "source": "ARY News Urdu",
+   "published": "2026-10-17T21:21:14Z",
+   "summary": "پیرس : فرانس میں مہنگائی، تعلیم کے بڑھتے اخراجات، سرکاری خدمات کے گرتے معیار اور سماجی تحفظ کے روایتی نظام کی زبوں حالی کے خلاف ملک گیر احتجاجی تحریک شدت اختیار کر گئی۔ فرانسیسی…",
+   "cat": "economy",
+   "cats": [
+    "economy",
+    "affairs"
+   ],
+   "lang": "ur",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.bbc.co.uk/sport/articles/c6n8d1334j24o?at_medium=RSS&at_campaign=rss",
+   "title": "Munster hold on to beat Racing after Foley tributes",
+   "url": "https://www.bbc.co.uk/sport/articles/c6n8d1334j24o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-10-17T21:18:38Z",
+   "summary": "Munster start their Champions Cup campaign with a 33-25 win over Racing 92 on an emotional night at Pairc Ui Chaoimh.",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "other"
+  },
+  {
+   "id": "https://www.bbc.co.uk/sport/football/articles/ck054652mv07o?at_medium=RSS&at_campaign=rss",
+   "title": "Villa's Manzambi shows Newcastle what they missed out on",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ck054652mv07o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-10-17T21:18:26Z",
+   "summary": "Aston Villa are a side back in form, with Johan Manzambi scoring the winner against a Newcastle team he turned down to move to Villa Park.",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "other"
   },
   {
    "id": "https://www.theguardian.com/sport/live/2026/oct/17/daniel-dubois-fabio-wardley-ii-boxing-wbo-heavyweight-title-fight-live",
@@ -48,6 +449,20 @@
    "sub": "other"
   },
   {
+   "id": "https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss",
+   "title": "Photos: No Kings rallies in US urge midterm voters to cast ballots early",
+   "url": "https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-10-17T21:08:10Z",
+   "summary": "Thousands gathered at events throughout the country on Saturday, building on two years of No Kings marches.",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
    "id": "https://www.arabnews.pk/world/bangladesh-is-battling-measles-its-a-real-warning-to-other-nations-3004491",
    "title": "Bangladesh is battling measles. It’s a ‘real warning’ to other nations",
    "url": "https://www.arabnews.pk/world/bangladesh-is-battling-measles-its-a-real-warning-to-other-nations-3004491",
@@ -60,21 +475,6 @@
    ],
    "lang": "en",
    "region": "pk"
-  },
-  {
-   "id": "https://www.cricinfo.com/ci/content/story/1558881.html?ex_cid=OTC-RSS",
-   "title": "Taylor, Ervine lay platform before Evans four-for secures thumping win",
-   "url": "https://www.cricinfo.com/ci/content/story/1558881.html?ex_cid=OTC-RSS",
-   "source": "ESPNcricinfo",
-   "published": "2026-10-17T21:04:43Z",
-   "summary": "Stand of 150 between veteran fourth-wicket pair sets up Zimbabwe in tri-series opener",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "cricket"
   },
   {
    "id": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
@@ -92,7 +492,7 @@
   },
   {
    "id": "https://www.bbc.co.uk/sport/rugby-union/articles/c370pxwklgwjo?at_medium=RSS&at_campaign=rss",
-   "title": "Bath lose at home to Montpellier in Champions Cup",
+   "title": "Bath loss rounds off tough day for Prem clubs in Champions Cup",
    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c370pxwklgwjo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
    "published": "2026-10-17T21:02:25Z",
@@ -166,7 +566,7 @@
   },
   {
    "id": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-   "title": "Violent clashes, looting and buildings ablaze as hundreds arrested after France protests",
+   "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
    "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-10-17T20:52:17Z",
@@ -194,7 +594,7 @@
   },
   {
    "id": "https://www.bbc.co.uk/sport/football/videos/cmewe0wq0wj1o?at_medium=RSS&at_campaign=rss",
-   "title": "Lamine Yamal opens the scoring as Barcelona beat Real Betis",
+   "title": "Lamine Yamal opens scoring as Barcelona beat Real Betis",
    "url": "https://www.bbc.co.uk/sport/football/videos/cmewe0wq0wj1o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
    "published": "2026-10-17T20:49:36Z",
@@ -506,21 +906,6 @@
    "sub": "football"
   },
   {
-   "id": "https://www.theguardian.com/sport/2026/oct/17/champions-cup-rugby-union-sale-glasgow-clermont-leinster-lions-la-rochelle-bath-munster",
-   "title": "Champions Cup roundup: La Rochelle beat Lions after emotional tribute to Andrews",
-   "url": "https://www.theguardian.com/sport/2026/oct/17/champions-cup-rugby-union-sale-glasgow-clermont-leinster-lions-la-rochelle-bath-munster",
-   "source": "The Guardian",
-   "published": "2026-10-17T19:32:34Z",
-   "summary": "Lions lock Hyron Andrews, 31, found dead on Friday Connacht 45-36 Saracens; Sale 27-47 Glasgow The Johannesburg-based Lions put up a gritty fight on an emotional Champions Cup…",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "other"
-  },
-  {
    "id": "https://www.skysports.com/football/newcastle-united-vs-aston-villa/report/559511",
    "title": "Manzambi haunts Newcastle with winner for Aston Villa",
    "url": "https://www.skysports.com/football/newcastle-united-vs-aston-villa/report/559511",
@@ -722,21 +1107,6 @@
    "sub": "other"
   },
   {
-   "id": "https://www.theguardian.com/football/2026/oct/17/european-football-bayern-munich-barcelona-psg-inter",
-   "title": "European football: Barcelona thrash Real Betis to maintain 100% record",
-   "url": "https://www.theguardian.com/football/2026/oct/17/european-football-bayern-munich-barcelona-psg-inter",
-   "source": "The Guardian",
-   "published": "2026-10-17T19:05:47Z",
-   "summary": "Lamine Yamal opens scoring in ninth straight win Luis Díaz hat-trick helps Bayern thump RB Leipzig 6-1 Barcelona ’s La Liga juggernaut rolled into Seville on Saturday and left…",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "football"
-  },
-  {
    "id": "https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss",
    "title": "Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss",
@@ -794,7 +1164,7 @@
   },
   {
    "id": "https://www.theguardian.com/australia-news/2026/oct/18/plover-not-a-fighter-masked-lapwing-nesting-on-tasmanian-cricket-ground-indifferent-as-play-continues",
-   "title": "Plover, not a fighter: masked lapwing nesting on Tasmanian cricket ground indifferent as play continues",
+   "title": "Plover, not a fighter: protected bird 12th man on Tasmanian cricket ground as staff mow around nest",
    "url": "https://www.theguardian.com/australia-news/2026/oct/18/plover-not-a-fighter-masked-lapwing-nesting-on-tasmanian-cricket-ground-indifferent-as-play-continues",
    "source": "The Guardian",
    "published": "2026-10-17T19:00:40Z",
@@ -901,6 +1271,21 @@
    "id": "https://www.skysports.com/football/news/12040/13600115/premier-league-hits-and-misses-liverpool-ride-their-luck-to-win-at-brentford",
    "title": "Hits & Misses: Liverpool clicking and Chelsea get serious",
    "url": "https://www.skysports.com/football/news/12040/13600115/premier-league-hits-and-misses-liverpool-ride-their-luck-to-win-at-brentford",
+   "source": "Sky Sports",
+   "published": "2026-10-17T19:00:00Z",
+   "summary": "",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "cricket"
+  },
+  {
+   "id": "https://www.skysports.com/boxing/live-blog/12040/13600251/dubois-vs-wardley-2-live-updates-undercard-news-results-as-daniel-dubois-and-fabio-wardley-meet-in-heavyweight-rematch",
+   "title": "Dubois stops Wardley in second round - as it happened",
+   "url": "https://www.skysports.com/boxing/live-blog/12040/13600251/dubois-vs-wardley-2-live-updates-undercard-news-results-as-daniel-dubois-and-fabio-wardley-meet-in-heavyweight-rematch",
    "source": "Sky Sports",
    "published": "2026-10-17T19:00:00Z",
    "summary": "",
@@ -1085,21 +1470,6 @@
    "lang": "en",
    "region": "world",
    "sub": "cricket"
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/football/articles/c6y93xw91dv3o?at_medium=RSS&at_campaign=rss",
-   "title": "Can Hearts prove credentials at scene of title heartbreak?",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c6y93xw91dv3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-10-17T18:37:01Z",
-   "summary": "Hearts' last trip to Parkhead ended with their title dream being crushed in the space of 11 minutes. They return to face Celtic on Sunday refreshed and reshaped.",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "other"
   },
   {
    "id": "https://www.arabnews.pk/world/italian-police-clash-with-protesters-in-milan-and-bologna-3004476",
@@ -1838,21 +2208,6 @@
    "sub": "football"
   },
   {
-   "id": "https://www.theguardian.com/football/2026/oct/17/scottish-premiership-kilmarnock-rangers-dundee-celtic-hearts",
-   "title": "Scottish Premiership: Rangers miss chance to go top after pulsating draw with Dundee",
-   "url": "https://www.theguardian.com/football/2026/oct/17/scottish-premiership-kilmarnock-rangers-dundee-celtic-hearts",
-   "source": "The Guardian",
-   "published": "2026-10-17T17:05:15Z",
-   "summary": "Jones equaliser denies Rangers victory Kilmarnock move off the bottom with 3-2 win Rangers passed up the chance to go top of the Premiership in a pulsating 2-2 draw against Dundee…",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "football"
-  },
-  {
    "id": "https://www.bbc.co.uk/sport/rugby-union/articles/cw203r3462lro?at_medium=RSS&at_campaign=rss",
    "title": "Six-try Ulster secure bonus point against Zebre",
    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw203r3462lro?at_medium=RSS&at_campaign=rss",
@@ -2054,6 +2409,21 @@
    ],
    "lang": "en",
    "region": "world"
+  },
+  {
+   "id": "https://www.skysports.com/rugby-union/munster-vs-racing/report/113424",
+   "title": "Champions Cup: Munster beat Racing on day of Foley tributes as Saracens, Bath lose",
+   "url": "https://www.skysports.com/rugby-union/munster-vs-racing/report/113424",
+   "source": "Sky Sports",
+   "published": "2026-10-17T16:54:00Z",
+   "summary": "A decade to the day since the rugby world learned of head coach Anthony Foley’s death at the age of 42, Munster marked the poignant anniversary with a stirring 33-25 Champions Cup…",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "cricket"
   },
   {
    "id": "https://www.skysports.com/racing/news/12040/13600297/ascot-ombudsman-simply-supreme-in-champion-stakes-for-gosden-team",
@@ -2288,6 +2658,20 @@
    "region": "pk"
   },
   {
+   "id": "https://www.express.pk/story/2838804/the-grave-situation-in-the-middle-east-and-global-powers-2838804/",
+   "title": "مشرق وسطیٰ کی سنگین صورتحال اور عالمی طاقتیں",
+   "url": "https://www.express.pk/story/2838804/the-grave-situation-in-the-middle-east-and-global-powers-2838804/",
+   "source": "Express Urdu",
+   "published": "2026-10-17T16:34:17Z",
+   "summary": "ایران اور امریکا کے درمیان بھی تاحال کشیدگی برقرار ہے",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "ur",
+   "region": "pk"
+  },
+  {
    "id": "https://www.bbc.co.uk/sport/rugby-union/articles/cwrky6y0gvd6o?at_medium=RSS&at_campaign=rss",
    "title": "Seven-try Leinster too strong for Clermont",
    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwrky6y0gvd6o?at_medium=RSS&at_campaign=rss",
@@ -2315,7 +2699,7 @@
    ],
    "lang": "en",
    "region": "world",
-   "sub": "other"
+   "sub": "football"
   },
   {
    "id": "https://www.dawn.com/news/2037853/security-forces-respond-to-unprovoked-firing-by-afghan-taliban-along-kurram-border-state-media",
@@ -2497,7 +2881,7 @@
    "url": "https://www.theguardian.com/world/2026/oct/17/french-police-uk-funded-4x4-vehicle-ram-student-protesters",
    "source": "The Guardian",
    "published": "2026-10-17T16:00:34Z",
-   "summary": "French government launches investigation into why cars funded by UK to prevent asylum seekers crossing Channel were used in school protests French police have used 4x4 vehicles…",
+   "summary": "French government investigating why cars funded by UK to prevent asylum seekers crossing Channel were used in school protests French police have used 4x4 vehicles paid for by…",
    "cat": "affairs",
    "cats": [
     "affairs"
@@ -2609,20 +2993,6 @@
    "sub": "cricket"
   },
   {
-   "id": "https://www.bbc.com/urdu/articles/c98rzpnxnjk0o?at_medium=RSS&at_campaign=rss",
-   "title": "’ہم سے گناہ ہوا، ہمیں معاف کر دو‘: اس بستی کے مرد خواتین کا لباس پہن کر ’رقص‘ کیوں کرتے ہیں؟",
-   "url": "https://www.bbc.com/urdu/articles/c98rzpnxnjk0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Urdu",
-   "published": "2026-10-17T15:51:02Z",
-   "summary": "دو سو سال سے زیادہ عرصے سے احمد آباد کے شاہ پور علاقے میں ایک منفرد روایت نبھائی جا رہی ہے۔ اس رات خواتین کے لباس میں ملبوس یہ مرد سَدوماتا چوک میں واقع مندر کے سامنے روایتی رقص…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "ur",
-   "region": "pk"
-  },
-  {
    "id": "https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss",
    "title": "Pope Leo leaves hospital after lung cancer surgery",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss",
@@ -2664,20 +3034,6 @@
    ],
    "lang": "en",
    "region": "world"
-  },
-  {
-   "id": "https://www.express.pk/story/2838803/statistical-manipulation-and-manipulation-in-global-indices-2838803/",
-   "title": "عالمی انڈیکسز میں شماریاتی شعبدہ بازی اور ہم",
-   "url": "https://www.express.pk/story/2838803/statistical-manipulation-and-manipulation-in-global-indices-2838803/",
-   "source": "Express Urdu",
-   "published": "2026-10-17T15:44:51Z",
-   "summary": "جیو پالیٹکس ان سروے رپورٹس کا ایک غیراعلانیہ رہنما اصول ہے",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "ur",
-   "region": "pk"
   },
   {
    "id": "https://www.theguardian.com/football/2026/oct/17/arsenal-birmingham-wsl-match-report",
@@ -2898,20 +3254,6 @@
    "sub": "other"
   },
   {
-   "id": "https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss",
-   "title": "Thousands rally for biggest protest in years against Tunisia’s Saied",
-   "url": "https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-10-17T14:57:24Z",
-   "summary": "Unions, opposition groups unite to demonstrate against poor living conditions and restrictions on political freedoms.",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
    "id": "https://sports.ndtv.com/cricket/srh-owners-husband-a-csk-fan-kavya-marans-wedding-with-music-composer-anirudh-ravichander-sets-internet-abuzz-12198316",
    "title": "\"SRH Owner's Husband A CSK Fan\": Kavya Maran's Wedding With Music Composer Anirudh Ravichander Sets Internet Abuzz",
    "url": "https://sports.ndtv.com/cricket/srh-owners-husband-a-csk-fan-kavya-marans-wedding-with-music-composer-anirudh-ravichander-sets-internet-abuzz-12198316",
@@ -2989,22 +3331,6 @@
    "sub": "cricket"
   },
   {
-   "id": "https://www.skysports.com/golf/news/12040/13600134/dp-world-india-championship-rory-mcilroy-drops-10-shots-off-the-lead-as-eugenio-chacarra-moving-into-position-for-another-big-win",
-   "title": "McIlroy drops out of contention at DP World India Championship",
-   "url": "https://www.skysports.com/golf/news/12040/13600134/dp-world-india-championship-rory-mcilroy-drops-10-shots-off-the-lead-as-eugenio-chacarra-moving-into-position-for-another-big-win",
-   "source": "Sky Sports",
-   "published": "2026-10-17T14:45:00Z",
-   "summary": "Spain's Eugenio Chacarra holds the lead at the DP World India Championship with Rory McIlroy dropping out of contention as the third round was halted by fading light.",
-   "cat": "affairs",
-   "cats": [
-    "affairs",
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "cricket"
-  },
-  {
    "id": "https://www.express.pk/story/2838793/estate-sale-purchase-turns-out-to-be-box-of-live-wwii-grenades-2838793/",
    "title": "امریکا: خریدے گئے پرانے سامان سے دوسری جنگِ عظیم کے بم برآمد",
    "url": "https://www.express.pk/story/2838793/estate-sale-purchase-turns-out-to-be-box-of-live-wwii-grenades-2838793/",
@@ -3033,34 +3359,6 @@
    "lang": "en",
    "region": "world",
    "sub": "football"
-  },
-  {
-   "id": "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit",
-   "title": "Elon Musk agrees to settle lawsuits over 2024 election lottery",
-   "url": "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit",
-   "source": "The Guardian",
-   "published": "2026-10-17T14:42:11Z",
-   "summary": "Trump-boosting billionaire was sued over promise to give away $1m per day to random signatories of petition Elon Musk and his ⁠America Pac political action committee said recently…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
-   "id": "https://www.aljazeera.com/features/longform/2026/10/17/why-adults-are-going-back-to-summer-camp?traffic_source=rss",
-   "title": "Why adults are going back to summer camp",
-   "url": "https://www.aljazeera.com/features/longform/2026/10/17/why-adults-are-going-back-to-summer-camp?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-10-17T14:36:25Z",
-   "summary": "Loneliness and burnout are sending adults around the world back to bunk beds and bonfires.",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world"
   },
   {
    "id": "https://www.bbc.co.uk/sport/tennis/articles/c9dr83p610vno?at_medium=RSS&at_campaign=rss",
@@ -3405,7 +3703,7 @@
    ],
    "lang": "en",
    "region": "world",
-   "sub": "other"
+   "sub": "football"
   },
   {
    "id": "https://www.theguardian.com/football/live/2026/oct/17/manchester-city-v-ipswich-brentford-v-liverpool-and-more-football-clockwatch-live",
@@ -3836,21 +4134,6 @@
    "region": "world"
   },
   {
-   "id": "https://www.skysports.com/rugby-league/england-vs-tonga/report/64270",
-   "title": "England thumped by Tonga in World Cup opener",
-   "url": "https://www.skysports.com/rugby-league/england-vs-tonga/report/64270",
-   "source": "Sky Sports",
-   "published": "2026-10-17T12:00:00Z",
-   "summary": "England were handed a Rugby League World Cup reality check after a 30-12 thumping by Tonga in their tournament opener.",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "cricket"
-  },
-  {
    "id": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
    "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
    "url": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
@@ -3863,21 +4146,6 @@
    ],
    "lang": "en",
    "region": "world"
-  },
-  {
-   "id": "https://www.cricinfo.com/ci/content/story/1558853.html?ex_cid=OTC-RSS",
-   "title": "Zimbabwe opt to bat; Litton out of tri-series with hip injury",
-   "url": "https://www.cricinfo.com/ci/content/story/1558853.html?ex_cid=OTC-RSS",
-   "source": "ESPNcricinfo",
-   "published": "2026-10-17T11:49:33Z",
-   "summary": "Bangladesh are also without Mehidy Hasan Miraz, who has been down with fever, while Zimbabwe handed debut to Tafadzwa Tsiga",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "cricket"
   },
   {
    "id": "https://www.bbc.co.uk/sport/cycling/videos/c3pwgqel0er4o?at_medium=RSS&at_campaign=rss",
@@ -4001,22 +4269,6 @@
    "sub": "cricket"
   },
   {
-   "id": "https://sports.ndtv.com/cricket/shubman-gill-returns-as-ranji-trophy-round-2-gets-underway-12198394",
-   "title": "Shubman Gill Back In Ranji Trophy Action As Punjab Face Chhattisgarh",
-   "url": "https://sports.ndtv.com/cricket/shubman-gill-returns-as-ranji-trophy-round-2-gets-underway-12198394",
-   "source": "NDTV Sports",
-   "published": "2026-10-17T11:06:59Z",
-   "summary": "India's Test and ODI captain Shubman Gill's return to Ranji Trophy action for Punjab will be the main attraction when the second round of the domestic first-class tournament gets…",
-   "cat": "sports",
-   "cats": [
-    "sports",
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "cricket"
-  },
-  {
    "id": "https://propakistani.pk/2026/10/17/parco-gunvor-limited-becomes-the-first-omc-in-pakistan-to-win-a-blue-dragon-for-best-campaign-of-pakistan-at-dragons-of-asia-2026/",
    "title": "PARCO Gunvor Limited Becomes the First OMC in Pakistan to Win a Blue Dragon for Best Campaign of Pakistan at Dragons of Asia 2026",
    "url": "https://propakistani.pk/2026/10/17/parco-gunvor-limited-becomes-the-first-omc-in-pakistan-to-win-a-blue-dragon-for-best-campaign-of-pakistan-at-dragons-of-asia-2026/",
@@ -4031,21 +4283,6 @@
    ],
    "lang": "en",
    "region": "pk"
-  },
-  {
-   "id": "https://sports.ndtv.com/cricket/indian-top-order-eyes-improved-show-against-zimbabwe-in-2nd-wt20i-12198304",
-   "title": "Indian Top Order Eyes Improved Show Against Zimbabwe In 2nd WT20I",
-   "url": "https://sports.ndtv.com/cricket/indian-top-order-eyes-improved-show-against-zimbabwe-in-2nd-wt20i-12198304",
-   "source": "NDTV Sports",
-   "published": "2026-10-17T11:06:32Z",
-   "summary": "The Indian top order will look to deliver a more assured batting display when they take on Zimbabwe in the second women's T20 International on Sunday.",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "cricket"
   },
   {
    "id": "https://www.brecorder.com/news/40444673/gold-price-drops-by-rs2700-per-tola-in-pakistan",
@@ -4123,7 +4360,7 @@
   },
   {
    "id": "https://www.theguardian.com/sport/2026/oct/17/wallabies-all-blacks-australia-new-zealand-bledisloe-cup-analysis",
-   "title": "Doomsday for Wallabies and Les Kiss as clinical All Blacks expose fault lines",
+   "title": "Doomsday for Wallabies and Les Kiss as clinical All Blacks expose fault lines | Angus Fontaine",
    "url": "https://www.theguardian.com/sport/2026/oct/17/wallabies-all-blacks-australia-new-zealand-bledisloe-cup-analysis",
    "source": "The Guardian",
    "published": "2026-10-17T10:10:00Z",
@@ -4641,21 +4878,6 @@
    "sub": "cricket"
   },
   {
-   "id": "https://www.bbc.co.uk/sport/rugby-union/articles/cknv0m61l9e4o?at_medium=RSS&at_campaign=rss",
-   "title": "England's 41-match unbeaten run ended by Canada",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cknv0m61l9e4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-10-17T07:25:54Z",
-   "summary": "England's 41-match unbeaten streak ends in dramatic fashion as Shoshanah Seumanutafa's late try hands Canada a thrilling 24-21 victory in Toronto.",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "other"
-  },
-  {
    "id": "https://www.dawn.com/news/2037797/pakistan-has-enough-energy-supplies-to-last-through-november-planning-for-winter-spike-aurangzeb",
    "title": "Pakistan has enough energy supplies to last through November, planning for winter spike: Aurangzeb",
    "url": "https://www.dawn.com/news/2037797/pakistan-has-enough-energy-supplies-to-last-through-november-planning-for-winter-spike-aurangzeb",
@@ -4772,21 +4994,6 @@
    ],
    "lang": "en",
    "region": "world"
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/boxing/articles/cwz0vdmyvrx8o?at_medium=RSS&at_campaign=rss",
-   "title": "Dubois v Wardley 2 - heavyweight title fight predictions",
-   "url": "https://www.bbc.co.uk/sport/boxing/articles/cwz0vdmyvrx8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-10-17T06:28:03Z",
-   "summary": "Figures from the boxing world give their predictions for Saturday's heavyweight world title rematch between Fabio Wardley and Daniel Dubois.",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "other"
   },
   {
    "id": "https://tribune.com.pk/story/2635370/pakistan-whip-china-in-johor-cup",
@@ -4909,21 +5116,6 @@
    "sub": "cricket"
   },
   {
-   "id": "https://www.bbc.co.uk/sport/football/articles/crp3gq832gqxo?at_medium=RSS&at_campaign=rss",
-   "title": "Matos on tactics, Klopp's influence, and taking Swans to top of league",
-   "url": "https://www.bbc.co.uk/sport/football/articles/crp3gq832gqxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-10-17T05:56:25Z",
-   "summary": "Swansea boss Vitor Matos spent five years as an elite development coach at Liverpool, but it would be unfair to paint him with a Jurgen Klopp-shaped brush entirely.",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "other"
-  },
-  {
    "id": "https://www.express.pk/story/2838727/the-price-of-gold-has-decreased-in-both-global-and-local-markets-2838727/",
    "title": "سونے کی عالمی اور مقامی مارکیٹوں میں قیمت کم ہو گئی",
    "url": "https://www.express.pk/story/2838727/the-price-of-gold-has-decreased-in-both-global-and-local-markets-2838727/",
@@ -4982,21 +5174,6 @@
    "lang": "en",
    "region": "world",
    "sub": "football"
-  },
-  {
-   "id": "https://www.theguardian.com/football/2026/oct/17/james-mcclean-wearing-the-poppy-was-just-never-going-to-happen",
-   "title": "James McClean: ‘Wearing the poppy was just never going to happen’",
-   "url": "https://www.theguardian.com/football/2026/oct/17/james-mcclean-wearing-the-poppy-was-just-never-going-to-happen",
-   "source": "The Guardian",
-   "published": "2026-10-17T05:00:24Z",
-   "summary": "The former Republic of Ireland international on growing up in a community still reeling from the Troubles and the controversy that scarred his career “The perception of me is…",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "other"
   },
   {
    "id": "https://www.aljazeera.com/video/newsfeed/2026/10/17/trump-waives-russia-sanctions-as-rift-with-zelenskyy-widens?traffic_source=rss",
@@ -5249,21 +5426,6 @@
    "sub": "cricket"
   },
   {
-   "id": "https://www.bbc.co.uk/sport/rugby-union/videos/cq77pv1jdxxpo?at_medium=RSS&at_campaign=rss",
-   "title": "Late Canada fightback ends Red Roses' unbeaten streak",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/videos/cq77pv1jdxxpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-10-17T02:20:43Z",
-   "summary": "Canada fight back to beat England 24-21 in Toronto in the WXV Global Series, with Shoshanah Seumanutafa's 77th-minute try ending the Red Roses' unbeaten run, stretching back to…",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "other"
-  },
-  {
    "id": "https://www.brecorder.com/news/40444631/iraq-says-lost-usd60bn-as-mideast-war-hits-oil-exports",
    "title": "Iraq says lost USD60bn as Mideast war hits oil exports",
    "url": "https://www.brecorder.com/news/40444631/iraq-says-lost-usd60bn-as-mideast-war-hits-oil-exports",
@@ -5334,21 +5496,6 @@
    ],
    "lang": "en",
    "region": "pk",
-   "sub": "other"
-  },
-  {
-   "id": "https://www.theguardian.com/sport/2026/oct/17/canada-england-red-roses-wxv-rugby-union-match-report",
-   "title": "Red Roses’ four-year unbeaten streak ends in a thriller as Canada claim late win",
-   "url": "https://www.theguardian.com/sport/2026/oct/17/canada-england-red-roses-wxv-rugby-union-match-report",
-   "source": "The Guardian",
-   "published": "2026-10-17T01:36:40Z",
-   "summary": "Canada 24-21 England England suffer first defeat since 2022 Women’s Rugby World Cup final No, there is nothing wrong with whatever device you are reading this on. The 24-21…",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
    "sub": "other"
   },
   {
@@ -5513,21 +5660,6 @@
    "sub": "cricket"
   },
   {
-   "id": "https://www.bbc.co.uk/sport/football/articles/c862y574gyx3o?at_medium=RSS&at_campaign=rss",
-   "title": "Was game of the season contender a statement from Coleraine?",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c862y574gyx3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-10-16T22:02:12Z",
-   "summary": "Ruaidhri Higgins expresses his delight at the manner of his Coleraine side's comeback victory away to Larne.",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "other"
-  },
-  {
    "id": "https://oilprice.com/Energy/Energy-General/Global-Energy-Import-Dependence-Set-to-Peak-by-2034-Rystad-Says.html",
    "title": "Global Energy Import Dependence Set to Peak by 2034, Rystad Says",
    "url": "https://oilprice.com/Energy/Energy-General/Global-Energy-Import-Dependence-Set-to-Peak-by-2034-Rystad-Says.html",
@@ -5548,36 +5680,6 @@
    "source": "BBC Sport",
    "published": "2026-10-16T21:57:37Z",
    "summary": "Real Madrid midfielder Jude Bellingham ready to commit his future to La Liga club, Arsenal and Liverpool told price for Brentford's Kevin Schade, Man Utd and Chelsea among clubs…",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "football"
-  },
-  {
-   "id": "https://www.theguardian.com/football/2026/oct/16/wolves-chirewa-extends-burnleys-home-woes-as-vardys-strike-is-in-vain",
-   "title": "Wolves extend Burnley’s home woes to a full year as Vardy strikes in vain",
-   "url": "https://www.theguardian.com/football/2026/oct/16/wolves-chirewa-extends-burnleys-home-woes-as-vardys-strike-is-in-vain",
-   "source": "The Guardian",
-   "published": "2026-10-16T21:45:35Z",
-   "summary": "The Wolves substitute Tawanda Chirewa struck within seconds of coming off the bench as César Peixoto’s side came from behind to extend Burnley’s home misery at Turf Moor to 21…",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "football"
-  },
-  {
-   "id": "https://www.theguardian.com/football/2026/oct/16/premier-league-news-go-bananas-maresca-loving-fans-show-of-defiance-james-injury-blow-for-blues",
-   "title": "Premier League news: go bananas: Maresca loving fans’ show of defiance; Alonso backs his defence",
-   "url": "https://www.theguardian.com/football/2026/oct/16/premier-league-news-go-bananas-maresca-loving-fans-show-of-defiance-james-injury-blow-for-blues",
-   "source": "The Guardian",
-   "published": "2026-10-16T21:30:01Z",
-   "summary": "Manchester City manager embraces response to external criticism while Chelsea coach says ‘clean sheets will come’ Continue reading...",
    "cat": "sports",
    "cats": [
     "sports"
@@ -5613,21 +5715,6 @@
    ],
    "lang": "en",
    "region": "world"
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/football/articles/cqn73xe5eelgo?at_medium=RSS&at_campaign=rss",
-   "title": "Ranking the Premier League's all-time greatest super subs",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cqn73xe5eelgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-10-16T21:15:47Z",
-   "summary": "Some players are destined to make their biggest impact off the bench, but who are the top 10 Premier League super subs of all time?",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "football"
   },
   {
    "id": "https://www.express.pk/story/2838633/qatar-announces-major-solar-power-plant-project-to-overcome-energy-crisis-in-lebanon-2838633/",
@@ -5727,21 +5814,6 @@
    ],
    "lang": "en",
    "region": "world"
-  },
-  {
-   "id": "https://www.theguardian.com/football/2026/oct/16/michael-carrick-lisandro-martinez-manchester-united-leeds-premier-league",
-   "title": "‘It’s really not a drama’: Carrick sticks to the script after Martínez storm",
-   "url": "https://www.theguardian.com/football/2026/oct/16/michael-carrick-lisandro-martinez-manchester-united-leeds-premier-league",
-   "source": "The Guardian",
-   "published": "2026-10-16T19:00:09Z",
-   "summary": "Manchester United head coach produced a masterclass in dialling down emotion before a tricky trip to Leeds Michael Carrick returned his most impressive performance precisely when…",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "football"
   },
   {
    "id": "https://oilprice.com/Energy/Crude-Oil/Norways-Untapped-Oil-and-Gas-Frontier-Is-Drawing-Renewed-Interest.html",
@@ -6085,21 +6157,6 @@
    ],
    "lang": "en",
    "region": "pk"
-  },
-  {
-   "id": "https://www.theguardian.com/football/2026/oct/16/florian-wirtz-mystery-found-bayer-leverkusen-form-liverpool",
-   "title": "The Florian Wirtz mystery: why has he not found Leverkusen form at Liverpool?",
-   "url": "https://www.theguardian.com/football/2026/oct/16/florian-wirtz-mystery-found-bayer-leverkusen-form-liverpool",
-   "source": "The Guardian",
-   "published": "2026-10-16T16:40:30Z",
-   "summary": "Two of our writers pick over the German’s contribution to Liverpool and what the £116m forward could yet produce Some criticism has been OTT and a fee rising to £116m heightens…",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "football"
   },
   {
    "id": "https://decrypt.co/381149/cftc-wants-drop-gemini-5m-settlement-judge-said-no",
@@ -8097,20 +8154,6 @@
    "region": "pk"
   },
   {
-   "id": "https://www.brecorder.com/news/40444505/indian-shares-on-track-for-higher-open-on-lower-treasury-yields-sebi-relief",
-   "title": "Indian shares on track for higher open on lower Treasury yields, SEBI relief",
-   "url": "https://www.brecorder.com/news/40444505/indian-shares-on-track-for-higher-open-on-lower-treasury-yields-sebi-relief",
-   "source": "Business Recorder",
-   "published": "2026-10-16T02:41:31Z",
-   "summary": "Indian shares are likely to open higher on Friday , extending their recovery from the previous session, as a drop in US Treasury yields and changes to the closing auction ​session…",
-   "cat": "economy",
-   "cats": [
-    "economy"
-   ],
-   "lang": "en",
-   "region": "pk"
-  },
-  {
    "id": "https://www.brecorder.com/news/40444504/oil-edges-down-as-investors-weigh-possible-us-sanctions-on-shadow-fleet",
    "title": "Oil edges down as investors weigh possible US sanctions on 'shadow fleet'",
    "url": "https://www.brecorder.com/news/40444504/oil-edges-down-as-investors-weigh-possible-us-sanctions-on-shadow-fleet",
@@ -8707,20 +8750,6 @@
    "region": "world"
   },
   {
-   "id": "https://www.arabnews.pk/pakistan/pakistan-cuts-petrol-price-by-rs363-per-liter-slightly-raises-diesel-rate-3004291",
-   "title": "Pakistan cuts petrol price by Rs3.63 per liter, slightly raises diesel rate",
-   "url": "https://www.arabnews.pk/pakistan/pakistan-cuts-petrol-price-by-rs363-per-liter-slightly-raises-diesel-rate-3004291",
-   "source": "Arab News Pakistan",
-   "published": "2026-10-15T18:22:46Z",
-   "summary": "Pakistan on Thursday reduced the price of petrol by Rs3.63 ($0.013) per liter while marginally increasing the price of high-speed diesel, as the government continued daily fuel…",
-   "cat": "fuel",
-   "cats": [
-    "fuel"
-   ],
-   "lang": "en",
-   "region": "pk"
-  },
-  {
    "id": "https://decrypt.co/381068/blackrock-larry-fink-ai-data-center-halt-recession",
    "title": "BlackRock’s Larry Fink Warns AI Data Center Halt Could Tip US Into Recession",
    "url": "https://decrypt.co/381068/blackrock-larry-fink-ai-data-center-halt-recession",
@@ -8731,21 +8760,6 @@
    "cats": [
     "economy",
     "crypto"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
-   "id": "https://oilprice.com/Energy/Energy-General/Britains-Biggest-Business-Lobby-Calls-for-Tax-Cuts-and-Lower-Energy-Bills.html",
-   "title": "Britain’s Biggest Business Lobby Calls for Tax Cuts and Lower Energy Bills",
-   "url": "https://oilprice.com/Energy/Energy-General/Britains-Biggest-Business-Lobby-Calls-for-Tax-Cuts-and-Lower-Energy-Bills.html",
-   "source": "OilPrice.com",
-   "published": "2026-10-15T18:00:00Z",
-   "summary": "Britain’s biggest business lobby group has urged John Healey to cut employment taxes and energy bills in his first Budget, warning that further tax rises risk choking off…",
-   "cat": "fuel",
-   "cats": [
-    "fuel",
-    "economy"
    ],
    "lang": "en",
    "region": "world"
@@ -11490,21 +11504,6 @@
    "region": "world"
   },
   {
-   "id": "https://tribune.com.pk/story/2634431/alcaraz-exits-shanghai-masters",
-   "title": "Alcaraz exits Shanghai Masters",
-   "url": "https://tribune.com.pk/story/2634431/alcaraz-exits-shanghai-masters",
-   "source": "The Express Tribune",
-   "published": "2026-10-12T08:32:55Z",
-   "summary": "Spaniard suffers a shocking defeat to Bergs in the third round",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "pk",
-   "sub": "other"
-  },
-  {
    "id": "https://propakistani.pk/2026/10/12/pakistani-bodybuilder-wins-gold-at-international-championship/",
    "title": "Pakistani Bodybuilder Wins Gold at International Championship",
    "url": "https://propakistani.pk/2026/10/12/pakistani-bodybuilder-wins-gold-at-international-championship/",
@@ -11828,7 +11827,7 @@
    "name": "Decrypt",
    "url": "https://decrypt.co/feed",
    "ok": true,
-   "items": 37,
+   "items": 57,
    "error": ""
   },
   {
@@ -11877,14 +11876,14 @@
    "name": "BBC Sport",
    "url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
    "ok": true,
-   "items": 73,
+   "items": 75,
    "error": ""
   },
   {
    "name": "The Guardian",
    "url": "https://www.theguardian.com/football/rss",
    "ok": true,
-   "items": 58,
+   "items": 57,
    "error": ""
   },
   {
@@ -11905,7 +11904,7 @@
    "name": "BBC Sport",
    "url": "https://feeds.bbci.co.uk/sport/rss.xml",
    "ok": true,
-   "items": 70,
+   "items": 75,
    "error": ""
   },
   {
