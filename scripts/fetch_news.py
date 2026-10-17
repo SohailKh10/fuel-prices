@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """LiveRatesPK news fetcher.
-Reads public RSS/Atom feeds, classifies items (fuel/gold/crypto/currency/economy),
+Reads public RSS/Atom feeds, classifies items (fuel/gold/crypto/currency/economy/sports/affairs),
 keeps short snippets + links only, writes news.json at repo root.
 """
 import gzip, json, re, sys, time, urllib.request, urllib.parse
@@ -27,11 +27,11 @@ FEEDS = [
     {"name": "Business Recorder", "url": "https://www.brecorder.com/feeds/latest-news", "region": "pk"},
     {"name": "ProPakistani", "url": "https://propakistani.pk/feed/", "region": "pk"},
     {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/rss.xml", "region": "pk", "general": True},
-    {"name": "Dawn", "url": "https://www.dawn.com/feeds/sport", "region": "pk"},
-    {"name": "The Express Tribune", "url": "https://tribune.com.pk/feed/sports", "region": "pk"},
+    {"name": "Dawn", "url": "https://www.dawn.com/feeds/sport", "region": "pk", "default_cat": "sports"},
+    {"name": "The Express Tribune", "url": "https://tribune.com.pk/feed/sports", "region": "pk", "default_cat": "sports"},
     # Urdu (all Pakistan)
     {"name": "Express Urdu", "url": "https://www.express.pk/feed/", "lang": "ur", "region": "pk", "general": True},
-    {"name": "Express Urdu Sports", "url": "https://www.express.pk/sports/feed/", "lang": "ur", "region": "pk"},
+    {"name": "Express Urdu Sports", "url": "https://www.express.pk/sports/feed/", "lang": "ur", "region": "pk", "default_cat": "sports"},
     {"name": "BBC Urdu", "url": "https://feeds.bbci.co.uk/urdu/rss.xml", "lang": "ur", "region": "pk", "general": True},
     {"name": "Independent Urdu", "url": "https://www.independenturdu.com/rss.xml", "lang": "ur", "region": "pk", "general": True},
     {"name": "ARY News Urdu", "url": "https://urdu.arynews.tv/feed/", "lang": "ur", "region": "pk", "general": True},
@@ -53,26 +53,36 @@ FEEDS = [
     {"name": "Cointelegraph", "url": "https://cointelegraph.com/rss", "default_cat": "crypto"},
     {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss/", "default_cat": "crypto"},
     {"name": "Decrypt", "url": "https://decrypt.co/feed", "default_cat": "crypto"},
-    # Cricket (world)
-    {"name": "ESPNcricinfo", "url": "https://www.espncricinfo.com/rss/content/story/feeds/0.xml", "default_cat": "cricket"},
-    {"name": "BBC Sport", "url": "https://feeds.bbci.co.uk/sport/cricket/rss.xml", "default_cat": "cricket"},
-    {"name": "The Guardian", "url": "https://www.theguardian.com/sport/cricket/rss", "default_cat": "cricket"},
-    {"name": "Times of India", "url": "https://timesofindia.indiatimes.com/rssfeeds/4719161.cms", "default_cat": "cricket"},
-    {"name": "NDTV Sports", "url": "https://feeds.feedburner.com/ndtvsports-cricket", "default_cat": "cricket"},
-    {"name": "Sky Sports", "url": "https://www.skysports.com/rss/12040", "default_cat": "cricket"},
+    # Sports (world). "sub" is only a hint: the headline decides first.
+    {"name": "ESPNcricinfo", "url": "https://www.espncricinfo.com/rss/content/story/feeds/0.xml", "default_cat": "sports", "sub": "cricket"},
+    {"name": "BBC Sport", "url": "https://feeds.bbci.co.uk/sport/cricket/rss.xml", "default_cat": "sports", "sub": "cricket"},
+    {"name": "The Guardian", "url": "https://www.theguardian.com/sport/cricket/rss", "default_cat": "sports", "sub": "cricket"},
+    {"name": "Times of India", "url": "https://timesofindia.indiatimes.com/rssfeeds/4719161.cms", "default_cat": "sports", "sub": "cricket"},
+    {"name": "NDTV Sports", "url": "https://feeds.feedburner.com/ndtvsports-cricket", "default_cat": "sports", "sub": "cricket"},
+    {"name": "Sky Sports", "url": "https://www.skysports.com/rss/12040", "default_cat": "sports", "sub": "cricket"},
+    {"name": "BBC Sport", "url": "https://feeds.bbci.co.uk/sport/football/rss.xml", "default_cat": "sports", "sub": "football"},
+    {"name": "The Guardian", "url": "https://www.theguardian.com/football/rss", "default_cat": "sports", "sub": "football"},
+    {"name": "BBC Sport", "url": "https://feeds.bbci.co.uk/sport/tennis/rss.xml", "default_cat": "sports", "sub": "other"},
+    {"name": "BBC Sport", "url": "https://feeds.bbci.co.uk/sport/formula1/rss.xml", "default_cat": "sports", "sub": "other"},
+    {"name": "BBC Sport", "url": "https://feeds.bbci.co.uk/sport/rss.xml", "default_cat": "sports"},
+    {"name": "The Guardian", "url": "https://www.theguardian.com/uk/sport/rss", "default_cat": "sports"},
 ]
 
-CAT_ORDER = ["fuel", "gold", "crypto", "currency", "economy", "cricket", "affairs"]
+CRICKET_PAT = r"cricket\w*|psl|pcb|icc|t20i?s?|odis?|test (?:match|series|cricket)|wickets?|batsman|batters?|bowlers?|innings|asia cup|champions trophy|babar azam|shaheen|rizwan|shadab|naseem|salman agha|ipl|bbl|ashes"
+FOOTBALL_PAT = r"football\w*|soccer|fifa|uefa|premier league|la liga|serie a|bundesliga|ligue 1|champions league|europa league|fa cup|carabao cup|messi|ronaldo|mbapp\w+|haaland|salah|vinicius|bellingham|goalkeeper|striker|midfielder|transfer window|manchester (?:united|city)|liverpool fc|arsenal|chelsea fc|tottenham|real madrid|barcelona fc|psg|juventus|afcon|copa america|mls|ballon d.or|world cup qualif\w*"
+OTHER_SPORT_PAT = r"tennis|wimbledon|grand slam|us open|french open|roland garros|australian open|atp|wta|djokovic|alcaraz|sinner|formula (?:1|one)|f1|grand prix|verstappen|lando norris|nba|nfl|nhl|mlb|basketball|baseball|olympics?|olympian\w*|paralympic\w*|hockey|rugby|golf|pga|boxing|ufc|mma|wrestling|athletics|sprinter|swimming|badminton|squash|kabaddi|arshad nadeem|javelin|commonwealth games|asian games|snooker|cycling|tour de france"
+
+CAT_ORDER = ["fuel", "gold", "crypto", "currency", "economy", "sports", "affairs"]
 CAT_RE = {
     "fuel": r"petrol|diesel|hsd|fuel|ogra|lpg|lng|kerosene|petroleum|gasoline|brent|crude|opec|oil|natural gas|gas prices?|omcs?|energy prices?|refiner(?:y|ies)|shale|wti",
     "gold": r"gold|silver|bullion|tola|platinum|palladium|precious metals?|xau",
     "crypto": r"bitcoin|btc|ethereum|ether|crypto\w*|stablecoins?|tether|usdt|blockchain|binance|xrp|solana|altcoins?|defi|virtual assets?|pvara|tokeni[sz]ed?",
     "currency": r"dollar|rupee|pkr|forex|exchange rates?|interbank|remittances?|currency|currencies|yuan|euro|sterling|dirham|riyal|sbp|state bank|yen|dxy|pound sterling|rupees?",
-    "cricket": r"cricket\w*|psl|pcb|icc|t20i?s?|odis?|test (?:match|series|cricket)|wickets?|batsman|batters?|bowlers?|innings|asia cup|champions trophy|babar azam|shaheen|rizwan|shadab|naseem|salman agha|ipl|bbl|ashes",
+    "sports": CRICKET_PAT + "|" + FOOTBALL_PAT + "|" + OTHER_SPORT_PAT,
     "affairs": r"politic\w*|parliament|senate|national assembly|election\w*|prime minister|president|cabinet|supreme court|high court|verdict|terror\w*|militants?|suicide (?:attack|bomb\w*)|blasts?|security forces|ispr|army chief|police|tourism|tourists?|travel advisory|floods?|earthquake|monsoon|heatwave|protests?|pti|pml-?n|ppp|imran khan|nawaz sharif|shehbaz|zardari|ceasefire|gaza|ukraine|united nations|summit|visa|diplomat\w*|foreign office|afghanistan|india|iran",
     "economy": r"imf|inflation|kse-?100|psx|stock exchange|policy rate|interest rate|gdp|fbr|budget|world bank|trade deficit|cpi|sensitive price index|spi|federal reserve|the fed|ecb|recession|tariffs?|wall street|nasdaq|dow jones|stock markets?|treasury yields?|central banks?",
 }
-CAT_UR = {'fuel': 'پیٹرول|ڈیزل|تیل|ایندھن|اوگرا|گیس|ایل پی جی|برینٹ|پیٹرولیم', 'gold': 'سونا|سونے|چاندی|تولہ|پلاٹینم', 'crypto': 'بٹ کوائن|بٹ کوائنز|کرپٹو|ایتھیریم|ڈیجیٹل کرنسی|بائنانس|بلاک چین', 'currency': 'ڈالر|کرنسی|زرمبادلہ|ترسیلات زر|اسٹیٹ بینک|سٹیٹ بینک|شرح تبادلہ|روپے کی قدر|ریال|درہم|انٹربینک', 'cricket': 'کرکٹ|پی ایس ایل|پی سی بی|آئی سی سی|ٹی ٹوئنٹی|ون ڈے|ٹیسٹ میچ|ٹیسٹ سیریز|وکٹ|بلے باز|بولر|بابر اعظم|رضوان', 'affairs': 'سیاست|سیاسی|حکومت|وزیر اعظم|وزیراعظم|صدر|عدالت|سپریم کورٹ|دہشت گرد|دہشتگرد|حملہ|دھماکہ|سیکیورٹی فورسز|آئی ایس پی آر|پولیس|سیاحت|سیاح|سیلاب|زلزلہ|بارش|انتخابات|پارلیمنٹ|قومی اسمبلی|سینیٹ|احتجاج|تحریک انصاف|عمران خان|نواز شریف|شہباز|زرداری|جنگ بندی|غزہ|افغانستان|بھارت|ایران', 'economy': 'آئی ایم ایف|مہنگائی|اسٹاک ایکسچینج|پی ایس ایکس|شرح سود|بجٹ|ایف بی آر|معیشت|معاشی|ٹیکس|جی ڈی پی'}
+CAT_UR = {'fuel': 'پیٹرول|ڈیزل|تیل|ایندھن|اوگرا|گیس|ایل پی جی|برینٹ|پیٹرولیم', 'gold': 'سونا|سونے|چاندی|تولہ|پلاٹینم', 'crypto': 'بٹ کوائن|بٹ کوائنز|کرپٹو|ایتھیریم|ڈیجیٹل کرنسی|بائنانس|بلاک چین', 'currency': 'ڈالر|کرنسی|زرمبادلہ|ترسیلات زر|اسٹیٹ بینک|سٹیٹ بینک|شرح تبادلہ|روپے کی قدر|ریال|درہم|انٹربینک', 'sports': 'فٹبال|فٹ بال|ہاکی|ٹینس|اولمپک|اولمپکس|بیڈمنٹن|اسکواش|ارشد ندیم|باکسنگ|کبڈی|ریسلنگ|ایتھلیٹکس|کرکٹ|پی ایس ایل|پی سی بی|آئی سی سی|ٹی ٹوئنٹی|ون ڈے|ٹیسٹ میچ|ٹیسٹ سیریز|وکٹ|بلے باز|بولر|بابر اعظم|رضوان', 'affairs': 'سیاست|سیاسی|حکومت|وزیر اعظم|وزیراعظم|صدر|عدالت|سپریم کورٹ|دہشت گرد|دہشتگرد|حملہ|دھماکہ|سیکیورٹی فورسز|آئی ایس پی آر|پولیس|سیاحت|سیاح|سیلاب|زلزلہ|بارش|انتخابات|پارلیمنٹ|قومی اسمبلی|سینیٹ|احتجاج|تحریک انصاف|عمران خان|نواز شریف|شہباز|زرداری|جنگ بندی|غزہ|افغانستان|بھارت|ایران', 'economy': 'آئی ایم ایف|مہنگائی|اسٹاک ایکسچینج|پی ایس ایکس|شرح سود|بجٹ|ایف بی آر|معیشت|معاشی|ٹیکس|جی ڈی پی'}
 CAT_RE = {k: re.compile(r"(?:\b(?:%s)\b|%s)" % (v, CAT_UR[k]), re.I) for k, v in CAT_RE.items()}
 
 
@@ -157,11 +167,39 @@ def parse_date(s):
     return d.astimezone(timezone.utc)
 
 
+CRICKET_RE = re.compile(r"(?:\b(?:%s)\b|کرکٹ|پی ایس ایل|ٹی ٹوئنٹی|ون ڈے|ٹیسٹ میچ|وکٹ|بلے باز|بولر)" % CRICKET_PAT, re.I)
+FOOTBALL_RE = re.compile(r"(?:\b(?:%s)\b|فٹبال|فٹ بال)" % FOOTBALL_PAT, re.I)
+OTHER_SPORT_RE = re.compile(r"\b(?:%s)\b" % OTHER_SPORT_PAT, re.I)
+
+
+def sport_sub(title, body, hint=None):
+    """cricket / football / other. The headline decides first, then the feed's hint, then the summary."""
+    for rx, name in ((CRICKET_RE, "cricket"), (FOOTBALL_RE, "football"), (OTHER_SPORT_RE, "other")):
+        if rx.search(title):
+            return name
+    if hint:
+        return hint
+    text = body[:CLASSIFY_CHARS]
+    for rx, name in ((CRICKET_RE, "cricket"), (FOOTBALL_RE, "football")):
+        if rx.search(text):
+            return name
+    return "other"
+
+
+SPORT_GOLD_RE = re.compile(r"\b(?:gold medal\w*|(?:wins?|won|takes?|took|claims?|clinch\w*|bags?|secures?) (?:a )?gold|silver medal\w*|bronze)\b", re.I)
+
+
 def classify(title, body, default=None, general=False):
     text = f"{title} {body[:CLASSIFY_CHARS]}"
     cats = [c for c in CAT_ORDER if CAT_RE[c].search(text)]
     # title hits outrank body hits for the primary category
     tcats = [c for c in CAT_ORDER if CAT_RE[c].search(title)]
+    # "wins gold" / "gold medal" is sport, not the gold rate
+    if "sports" in cats and SPORT_GOLD_RE.search(title):
+        cats = [c for c in cats if c != "gold"]
+        tcats = [c for c in tcats if c != "gold"]
+    if default == "sports" and "sports" in tcats:
+        tcats = ["sports"] + [c for c in tcats if c != "sports"]
     if default and default not in cats:
         cats.append(default)
     if not cats:
@@ -184,7 +222,7 @@ def _child_text(el, *names):
     return ""
 
 
-def parse_feed(data, source, default_cat=None, lang="en", region="world", general=False):
+def parse_feed(data, source, default_cat=None, lang="en", region="world", general=False, sub_hint=None):
     root = ET.fromstring(data)
     out = []
     for el in root.iter():
@@ -212,12 +250,15 @@ def parse_feed(data, source, default_cat=None, lang="en", region="world", genera
         cat, cats = classify(title, body, default_cat, general)
         if not cat:
             continue
-        out.append({
+        item = {
             "id": url, "title": title[:220], "url": url, "source": source,
             "published": dt.strftime("%Y-%m-%dT%H:%M:%SZ"),
             "summary": make_snippet(body, title), "cat": cat, "cats": cats, "lang": lang,
             "region": "pk" if region == "pk" or PK_RE.search(title) else "world",
-        })
+        }
+        if "sports" in cats:
+            item["sub"] = sport_sub(title, body, sub_hint)
+        out.append(item)
     return out
 
 
@@ -245,7 +286,14 @@ def fetch_retry(url):
 def load_existing():
     try:
         d = json.loads(OUT.read_text(encoding="utf-8"))
-        return d.get("items", [])
+        items = d.get("items", [])
+        for it in items:  # the old "cricket" category is now "sports" (sub "cricket")
+            if it.get("cat") == "cricket":
+                it["cat"] = "sports"
+                it["sub"] = it.get("sub") or "cricket"
+            if "cricket" in (it.get("cats") or []):
+                it["cats"] = ["sports" if c == "cricket" else c for c in it["cats"]]
+        return items
     except Exception:
         return []
 
@@ -264,8 +312,8 @@ def merge(old, new, now=None):
         if k in seen:
             continue
         seen.add(k)
-        kk = (i["cat"], i.get("region", "world"))
-        if per.get(kk, 0) >= MAX_PER_CAT:  # busy topics (cricket) must not crowd out others
+        kk = (i["cat"], i.get("region", "world"), i.get("sub") if i["cat"] == "sports" else None)
+        if per.get(kk, 0) >= MAX_PER_CAT:  # busy topics (cricket, football) must not crowd out others
             continue
         per[kk] = per.get(kk, 0) + 1
         res.append(i)
@@ -276,7 +324,7 @@ def merge(old, new, now=None):
 def run_feed(f):
     try:
         items = parse_feed(fetch_retry(f["url"]), f["name"], f.get("default_cat"),
-                           f.get("lang", "en"), f.get("region", "world"), f.get("general", False))
+                           f.get("lang", "en"), f.get("region", "world"), f.get("general", False), f.get("sub"))
         return items, {"name": f["name"], "url": f["url"], "ok": True, "items": len(items), "error": ""}
     except Exception as e:
         return [], {"name": f["name"], "url": f["url"], "ok": False, "items": 0, "error": str(e)[:120]}
