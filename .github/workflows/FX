@@ -1,0 +1,32 @@
+name: Update fx
+on:
+  schedule:
+    - cron: "25 */6 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: update-fx
+  cancel-in-progress: false
+jobs:
+  fx:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch fx
+        run: python scripts/fetch_fx.py
+      - name: Commit if changed
+        run: |
+          if [ -n "$(git status --porcelain fx.json)" ]; then
+            git config user.name "liveratespk-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git add fx.json
+            git commit -m "Update fx.json"
+            git pull --rebase --autostash
+            git push
+          else
+            echo "no changes"
+          fi
