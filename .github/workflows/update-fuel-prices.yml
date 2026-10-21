@@ -10,6 +10,7 @@ on:
     - cron: '7 19 * * *'     # ~12:07 AM PKT — catches a new date / midnight publish
     - cron: '12 4 * * *'     # ~09:12 AM PKT — catches the usual morning publish
     - cron: '24 9 * * *'     # ~02:24 PM PKT — safety net for a late revision
+    - cron: '41 22 * * 1-5'  # ~03:41 AM PKT Tue–Sat — catches the US crude close
   workflow_dispatch: {}
 
 permissions:
@@ -59,6 +60,10 @@ jobs:
         run: python scrape_metals.py
         continue-on-error: true
 
+      - name: Run crude oil scraper
+        run: python scrape_crude.py
+        continue-on-error: true
+
       - name: Build the phone-widget feed
         run: python build_widget_json.py
         continue-on-error: true
@@ -69,9 +74,9 @@ jobs:
           git config user.email "actions@github.com"
 
           # The scrapers create rates.json, shell-rates.json, octane.json,
-          # lpg.json, metals-history.json and widget.json.
+          # lpg.json, metals-history.json, crude.json and widget.json.
           # Stage each file only if it exists.
-          for f in rates.json shell-rates.json octane.json lpg.json metals-history.json widget.json; do
+          for f in rates.json shell-rates.json octane.json lpg.json metals-history.json crude.json widget.json; do
             if [ -f "$f" ]; then
               git add "$f"
             else
@@ -79,24 +84,19 @@ jobs:
             fi
           done
 
-          # Check whether there is anything new to commit.
           if git diff --staged --quiet; then
             echo "No changes to commit."
             exit 0
           fi
 
-          # Use Pakistan date instead of UTC for the commit message.
           PK_DATE=$(TZ=Asia/Karachi date +%Y-%m-%d)
-
           git commit -m "chore: update fuel prices $PK_DATE"
 
-          # Retry push in case another workflow/process updates main.
           for i in 1 2 3 4 5; do
             if git pull --rebase origin main && git push; then
               echo "Pushed on attempt $i."
               exit 0
             fi
-
             echo "Push attempt $i failed, retrying..."
             sleep $((RANDOM % 10 + 5))
           done
@@ -111,17 +111,12 @@ jobs:
           import json
           import pathlib
 
-          for name in ("rates.json", "shell-rates.json", "octane.json", "lpg.json"):
+          for name in ("rates.json", "shell-rates.json", "octane.json", "lpg.json", "crude.json"):
               p = pathlib.Path(name)
-
               if p.exists():
                   rows = json.loads(p.read_text())
-
                   if rows:
-                      print(
-                          f"{name}: {len(rows)} rows, "
-                          f"latest {rows[-1]['date']}"
-                      )
+                      print(f"{name}: {len(rows)} rows, latest {rows[-1]['date']}")
                   else:
                       print(f"{name}: file exists but contains no rows")
               else:
