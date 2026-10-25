@@ -1,7 +1,647 @@
 {
- "generated_at": "2026-10-25T20:52:09Z",
+ "generated_at": "2026-10-25T22:52:54Z",
  "count": 795,
  "items": [
+  {
+   "id": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+   "title": "Watch: Match of the Day",
+   "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-10-25T23:46:55Z",
+   "summary": "A busy Premier League Sunday, with five matches, including Liverpool against Brighton.",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "football"
+  },
+  {
+   "id": "https://www.dawn.com/news/2039829/real-madrid-beat-barcelona-in-la-liga-clasico",
+   "title": "Real Madrid beat Barcelona in La Liga Clasico",
+   "url": "https://www.dawn.com/news/2039829/real-madrid-beat-barcelona-in-la-liga-clasico",
+   "source": "Dawn",
+   "published": "2026-10-25T22:49:17Z",
+   "summary": "Kylian Mbappe struck twice to earn Jose Mourinho’s Real Madrid a 2-1 Clasico victory over La Liga leaders Barcelona on Sunday at Camp Nou, cutting the gap to three points. French…",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "pk",
+   "sub": "football"
+  },
+  {
+   "id": "https://www.dawn.com/news/2039849/monaco-hold-lille-as-rennes-go-top-of-ligue-1",
+   "title": "Monaco hold Lille as Rennes go top of Ligue 1",
+   "url": "https://www.dawn.com/news/2039849/monaco-hold-lille-as-rennes-go-top-of-ligue-1",
+   "source": "Dawn",
+   "published": "2026-10-25T22:46:14Z",
+   "summary": "Lille were made to pay for Tanguy Nianzou’s red card as AS Monaco fought back to hold them to a 1-1 draw in Ligue 1 on Sunday, opening the door for Rennes to take the summit of…",
+   "cat": "sports",
+   "cats": [
+    "sports",
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "pk",
+   "sub": "football"
+  },
+  {
+   "id": "https://www.bbc.co.uk/sport/darts/articles/cv5yn4w8x378o?at_medium=RSS&at_campaign=rss",
+   "title": "Smith holds on to beat Schindler in Euros final",
+   "url": "https://www.bbc.co.uk/sport/darts/articles/cv5yn4w8x378o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-10-25T22:44:47Z",
+   "summary": "Ross Smith holds off home favourite Martin Schindler to win the European Championship title for a second time, with world champion Luke Littler having been knocked out in the…",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "other"
+  },
+  {
+   "id": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
+   "title": "Wild scenes of celebration in Belgrade as Vučić concedes Serbian election – Europe live",
+   "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-10-25T22:43:07Z",
+   "summary": "Student List movement projected to have 138 seats in the new parliament, well clear of the 126 required for majority, to Vučić’s 104 Serbian leader Aleksandar Vučić concedes…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
+   "title": "Australia politics live: MPs to honour Haines with ‘civility pledge’ and orange cockatoos; access to contraception and UTI treatment to become cheaper and easier",
+   "url": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
+   "source": "The Guardian",
+   "published": "2026-10-25T22:37:48Z",
+   "summary": "Follow live updates Get our daily political email , free app or daily news podcast Steggall calls for civility and respect Independent MP Zali Steggall has called for more respect…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.theguardian.com/us-news/2026/oct/25/trump-nicki-minaj-mike-rogers-michigan-rally",
+   "title": "Trump rallies for Mike Rogers – and Nicki Minaj’s derriere – in Michigan",
+   "url": "https://www.theguardian.com/us-news/2026/oct/25/trump-nicki-minaj-mike-rogers-michigan-rally",
+   "source": "The Guardian",
+   "published": "2026-10-25T22:36:59Z",
+   "summary": "Trump again congratulated Ohio senator’s rear end before his cheeky comment about rapper being ‘hard to miss’ Donald Trump reiterated his apparent love for buxom bums during a…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
+   "title": "Serbian leader Aleksandar Vučić concedes defeat in fiercely contested parliamentary election",
+   "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
+   "source": "The Guardian",
+   "published": "2026-10-25T22:30:22Z",
+   "summary": "Vučić’s 12-year reign looks to have been ended by record turnout of voters in election provoked by student-led protests Follow the reaction to the result with our liveblog The…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.theguardian.com/society/2026/oct/25/homelessness-rough-sleeping-double-spending-burnham",
+   "title": "Burnham to double spending on homelessness amid drive to end rough sleeping by Christmas",
+   "url": "https://www.theguardian.com/society/2026/oct/25/homelessness-rough-sleeping-double-spending-burnham",
+   "source": "The Guardian",
+   "published": "2026-10-25T22:30:13Z",
+   "summary": "Downing Street will allocate a further £432m in this week’s budget, bringing total funding for finding a ‘lasting solution’ to nearly £900m Andy Burnham is to double spending on…",
+   "cat": "economy",
+   "cats": [
+    "economy",
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss",
+   "title": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
+   "url": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-10-25T22:22:53Z",
+   "summary": "French superstar Kylian Mbappe scores brace for Madrid to inflict Barcelona's first domestic defeat of the campaign.",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "football"
+  },
+  {
+   "id": "https://www.theguardian.com/sport/2026/oct/25/kimi-antonelli-storms-to-us-f1-gp-victory-but-is-made-to-wait-for-title-glory",
+   "title": "Kimi Antonelli storms to US F1 GP victory but is made to wait for title glory",
+   "url": "https://www.theguardian.com/sport/2026/oct/25/kimi-antonelli-storms-to-us-f1-gp-victory-but-is-made-to-wait-for-title-glory",
+   "source": "The Guardian",
+   "published": "2026-10-25T22:21:43Z",
+   "summary": "Championship leader wins from Leclerc and Verstappen 20yo should become youngest F1 champion next week Kimi Antonelli took a dominant victory at the US Grand Prix, with a…",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "other"
+  },
+  {
+   "id": "https://www.skysports.com/watch/video/13603821/united-states-grand-prix-race-highlights",
+   "title": "United States Grand Prix | Race highlights",
+   "url": "https://www.skysports.com/watch/video/13603821/united-states-grand-prix-race-highlights",
+   "source": "Sky Sports",
+   "published": "2026-10-25T22:20:00Z",
+   "summary": "Highlights from the 2026 United States Grand Prix.",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "other"
+  },
+  {
+   "id": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
+   "title": "Two dead and 160,000 properties without power as Storm Boelo batters UK",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
+   "source": "The Guardian",
+   "published": "2026-10-25T22:19:18Z",
+   "summary": "Man aged 60 and another in his 20s killed by falling trees in Scotland and London as Met Office reports gusts of up to 84mph Two people have been killed and more than 160,000…",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "cricket"
+  },
+  {
+   "id": "https://www.bbc.co.uk/sport/football/articles/c804013klnn0o?at_medium=RSS&at_campaign=rss",
+   "title": "Who has made Troy's Premier League team of the week?",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c804013klnn0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-10-25T22:16:14Z",
+   "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "football"
+  },
+  {
+   "id": "https://www.bbc.co.uk/sport/formula1/articles/cm20w8154wn0o?at_medium=RSS&at_campaign=rss",
+   "title": "Antonelli wins in US but has to wait to secure title",
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/cm20w8154wn0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-10-25T22:13:05Z",
+   "summary": "Kimi Antonelli needs only two more points to seal his first world title following a dominant victory in the United States Grand Prix.",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "other"
+  },
+  {
+   "id": "https://www.theguardian.com/football/2026/oct/25/barcelona-real-madrid-el-clasico-la-liga-match-report",
+   "title": "Mbappé double secures Real Madrid late victory at Barcelona after Raphinha leveller",
+   "url": "https://www.theguardian.com/football/2026/oct/25/barcelona-real-madrid-el-clasico-la-liga-match-report",
+   "source": "The Guardian",
+   "published": "2026-10-25T22:12:20Z",
+   "summary": "Thirteen years later, José Mourinho led Real Madrid into the Camp Nou, and he led them out again with a late, late victory that opens up a whole new world. With three minutes…",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "football"
+  },
+  {
+   "id": "https://www.skysports.com/darts/news/12040/13603670/european-championship-darts-ross-smith-beats-martin-schindler-to-dortmund-title-after-luke-littlers-quarter-final-exit",
+   "title": "Smith beats Schindler in Dortmund thriller after Littler's QF exit",
+   "url": "https://www.skysports.com/darts/news/12040/13603670/european-championship-darts-ross-smith-beats-martin-schindler-to-dortmund-title-after-luke-littlers-quarter-final-exit",
+   "source": "Sky Sports",
+   "published": "2026-10-25T22:12:00Z",
+   "summary": "Ross Smith has won the Machineseeker European Championship for a second time after overcoming a late Martin Schindler fightback to claim an 11-8 victory in Dortmund.",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "cricket"
+  },
+  {
+   "id": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results",
+   "title": "Brazil election 2026: Live second round results",
+   "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results",
+   "source": "The Guardian",
+   "published": "2026-10-25T22:11:16Z",
+   "summary": "After a shock defeat in the first round, the incumbent Brazilian president, Luiz Inácio Lula da Silva, is seeking a new term in a runoff with Flávio Bolsonaro, the son of his…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+   "title": "Deeply divided Israel braces for pivotal election",
+   "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-25T22:11:13Z",
+   "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.skysports.com/watch/video/13603815/european-championship-ross-smith-beats-home-hope-martin-schindler-to-reclaim-title",
+   "title": "Smith beats home hope Schindler to reclaim European Championship crown!",
+   "url": "https://www.skysports.com/watch/video/13603815/european-championship-ross-smith-beats-home-hope-martin-schindler-to-reclaim-title",
+   "source": "Sky Sports",
+   "published": "2026-10-25T22:11:00Z",
+   "summary": "Watch the winning moment from Ross Smith's European Championship success, where he closed out an 11-8 victory over Martin Schindler. (Credit: ITV)",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "cricket"
+  },
+  {
+   "id": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+   "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+   "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-25T22:06:26Z",
+   "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
+   "title": "Why Israel's election is one of the most important in its history",
+   "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-25T22:05:30Z",
+   "summary": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.skysports.com/football/barcelona-vs-real-madrid/report/563017",
+   "title": "Mbappe's late strike earns Mourinho and Real Clasico glory at Barca",
+   "url": "https://www.skysports.com/football/barcelona-vs-real-madrid/report/563017",
+   "source": "Sky Sports",
+   "published": "2026-10-25T22:00:00Z",
+   "summary": "Kylian Mbappe's double took Real Madrid to a famous 2-1 Clasico win, which had Jose Mourinho sliding on his knees in celebration in Barcelona.",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "football"
+  },
+  {
+   "id": "https://www.arabnews.pk/world/frances-le-pen-launches-presidential-bid-vowing-to-restore-rule-of-law-3005273",
+   "title": "France’s Le Pen launches presidential bid vowing to restore ‘rule of law’",
+   "url": "https://www.arabnews.pk/world/frances-le-pen-launches-presidential-bid-vowing-to-restore-rule-of-law-3005273",
+   "source": "Arab News Pakistan",
+   "published": "2026-10-25T21:57:13Z",
+   "summary": "ORLÉANS, France: Marine Le Pen, France’s far-right candidate to succeed President Emmanuel Macron, kicked off her campaign Sunday vowing to “restore the rule of law” if elected…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://urdu.arynews.tv/57000-homes-in-uk-left-without-power-due-to-storm-boelo/",
+   "title": "برطانیہ میں طوفان کی تباہ کاریاں : 80 ہزار گھر بجلی سے محروم",
+   "url": "https://urdu.arynews.tv/57000-homes-in-uk-left-without-power-due-to-storm-boelo/",
+   "source": "ARY News Urdu",
+   "published": "2026-10-25T21:55:32Z",
+   "summary": "لندن : برطانیہ میں طوفان ’بیلو‘ نے موسم کی صورتحال کو شدید متاثر کردیا، تیز ہواؤں اور موسلا دھار بارش کے باعث مختلف علاقوں میں بجلی کی فراہمی متاثر ہوئی اور 80 ہزار سے زائد گھر…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "ur",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss",
+   "title": "Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power",
+   "url": "https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-10-25T21:50:36Z",
+   "summary": "National Rally's Le Pen launches presidential campaign against backdrop of protests and social, economic discontent.",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss",
+   "title": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
+   "url": "https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-10-25T21:41:10Z",
+   "summary": "The Department of Justice has faced criticism that its lawsuit is aimed at blocking a Democratic victory in a key race.",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss",
+   "title": "Marine Le Pen launches French presidential campaign",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-10-25T21:39:13Z",
+   "summary": "",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.bbc.co.uk/sport/football/articles/cm5ynpjx170zo?at_medium=RSS&at_campaign=rss",
+   "title": "What have Man Utd changed to turn around WSL form?",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm5ynpjx170zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-10-25T21:38:59Z",
+   "summary": "It is a different picture at Manchester United now than it was last month - and they proved it to fight back and earn a point against rivals Manchester City.",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "football"
+  },
+  {
+   "id": "https://www.skysports.com/football/news/12040/13603802/crystal-palace-sean-dyche-emerges-as-frontrunner-for-eagles-job-if-pierre-sage-leaves-paper-talk",
+   "title": "Papers: Dyche emerges as frontrunner for Palace job if Sage departs",
+   "url": "https://www.skysports.com/football/news/12040/13603802/crystal-palace-sean-dyche-emerges-as-frontrunner-for-eagles-job-if-pierre-sage-leaves-paper-talk",
+   "source": "Sky Sports",
+   "published": "2026-10-25T21:30:00Z",
+   "summary": "The top stories and transfer rumours from Monday's newspapers...",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "cricket"
+  },
+  {
+   "id": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-vs-california?traffic_source=rss",
+   "title": "Trump VS California",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-vs-california?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-10-25T21:29:23Z",
+   "summary": "The Democrats have redrawn district lines in a bid to flip five Republican-held seats in California.",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://urdu.arynews.tv/new-deadly-shimunda-virus-transmitted-to-humans-who/",
+   "title": "نیا جان لیوا وائرس انسان میں منتقل، عالمی ادارہ صحت کی تصدیق",
+   "url": "https://urdu.arynews.tv/new-deadly-shimunda-virus-transmitted-to-humans-who/",
+   "source": "ARY News Urdu",
+   "published": "2026-10-25T21:26:05Z",
+   "summary": "پیرس : عالمی ادارہ صحت نے فرانس میں شمونڈا وائرس سے انسان کے متاثر ہونے کا پہلا کیس ریکارڈ کیا ہے، مریض جس کا مدافعتی نظام انتہائی کمزور ہو چکا تھا، اس انفیکشن کے باعث انتقال…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "ur",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss",
+   "title": "End approaching for Carrick but Man Utd owners' problems far bigger",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-10-25T21:24:21Z",
+   "summary": "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else.",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "football"
+  },
+  {
+   "id": "https://www.arabnews.pk/world/serbias-vucic-concedes-defeat-in-parliament-poll-3005272",
+   "title": "Serbia’s Vucic concedes defeat in parliament poll",
+   "url": "https://www.arabnews.pk/world/serbias-vucic-concedes-defeat-in-parliament-poll-3005272",
+   "source": "Arab News Pakistan",
+   "published": "2026-10-25T21:20:55Z",
+   "summary": "Serbia's ruling party, led by Aleksandar Vucic, conceded defeat in parliamentary snap elections, with preliminary results indicating a surge from a student-backed protest…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.skysports.com/f1/news/12040/13603603/united-states-gp-kimi-antonelli-wins-austin-race-to-move-to-brink-of-f1-world-title-after-dominant-drive",
+   "title": "Antonelli wins United States GP but made to wait for world title",
+   "url": "https://www.skysports.com/f1/news/12040/13603603/united-states-gp-kimi-antonelli-wins-austin-race-to-move-to-brink-of-f1-world-title-after-dominant-drive",
+   "source": "Sky Sports",
+   "published": "2026-10-25T21:20:00Z",
+   "summary": "Kimi Antonelli moved to the brink of becoming Formula 1's youngest-ever world champion with a superb drive to victory in the United States Grand Prix.",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "cricket"
+  },
+  {
+   "id": "https://www.cricinfo.com/ci/content/story/1559978.html?ex_cid=OTC-RSS",
+   "title": "Who stays, who goes? Green's return and a host of questions for Australia",
+   "url": "https://www.cricinfo.com/ci/content/story/1559978.html?ex_cid=OTC-RSS",
+   "source": "ESPNcricinfo",
+   "published": "2026-10-25T21:10:54Z",
+   "summary": "Here are the names at the centre of one of the most intriguing debates of recent times",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "cricket"
+  },
+  {
+   "id": "https://www.arabnews.pk/middle-east/israels-eisenkot-vows-unity-as-netanyahu-paints-him-as-soft-on-iran-3005271",
+   "title": "Israel’s Eisenkot vows unity as Netanyahu paints him as soft on Iran",
+   "url": "https://www.arabnews.pk/middle-east/israels-eisenkot-vows-unity-as-netanyahu-paints-him-as-soft-on-iran-3005271",
+   "source": "Arab News Pakistan",
+   "published": "2026-10-25T21:10:25Z",
+   "summary": "In the lead-up to Israel's elections, Gadi Eisenkot pledged to unify Israelis and address the failures of Prime Minister Netanyahu's leadership following the October 7, 2023 Hamas…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.bbc.co.uk/sport/football/articles/cq1j3e889rg8o?at_medium=RSS&at_campaign=rss",
+   "title": "Howe open to Man Utd talks - Monday's gossip",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cq1j3e889rg8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-10-25T21:09:37Z",
+   "summary": "Eddie Howe is open to holding talks with Manchester United if they part ways with manager Michael Carrick, three Premier League clubs are monitoring Bayern Munich's Lennart Karl…",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "football"
+  },
+  {
+   "id": "https://www.arabnews.pk/middle-east/us-touts-role-in-gulf-oil-exports-as-centcom-chief-visits-hormuz-3005270",
+   "title": "US touts role in Gulf oil exports as CENTCOM chief visits Hormuz",
+   "url": "https://www.arabnews.pk/middle-east/us-touts-role-in-gulf-oil-exports-as-centcom-chief-visits-hormuz-3005270",
+   "source": "Arab News Pakistan",
+   "published": "2026-10-25T21:06:48Z",
+   "summary": "The chief of US Central Command, Brad Cooper, flew over the Strait of Hormuz in a CH-47 Chinook helicopter on Sunday as the command said US forces had helped Gulf partners export…",
+   "cat": "fuel",
+   "cats": [
+    "fuel"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.arabnews.pk/middle-east/how-israeli-settlement-expansion-is-reshaping-palestinian-life-in-the-west-bank-3005269",
+   "title": "How Israeli settlement expansion is reshaping Palestinian life in the West Bank",
+   "url": "https://www.arabnews.pk/middle-east/how-israeli-settlement-expansion-is-reshaping-palestinian-life-in-the-west-bank-3005269",
+   "source": "Arab News Pakistan",
+   "published": "2026-10-25T21:05:07Z",
+   "summary": "For Ahmad Alrajabi, distance is measured by checkpoints. Every morning the Palestinian journalist scrolls through WhatsApp groups to track disruptions, to check which roads are…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss",
+   "title": "Kenya bus crash kills at least 24 as government vows road safety crackdown",
+   "url": "https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-10-25T21:00:02Z",
+   "summary": "Church mourners die on Kenya’s Nairobi-Mombasa Highway weeks after another crash killed 17 people.",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "world"
+  },
+  {
+   "id": "https://www.skysports.com/nfl/live-blog/12040/13603746/nfl-2026-results-and-highlights-san-francisco-49ers-suffer-first-loss-of-season-and-new-york-giants-stun-houston-texans-in-overtime",
+   "title": "NFL results: 49ers suffer first loss of season as Giants stun Texans in OT",
+   "url": "https://www.skysports.com/nfl/live-blog/12040/13603746/nfl-2026-results-and-highlights-san-francisco-49ers-suffer-first-loss-of-season-and-new-york-giants-stun-houston-texans-in-overtime",
+   "source": "Sky Sports",
+   "published": "2026-10-25T21:00:00Z",
+   "summary": "",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "other"
+  },
+  {
+   "id": "https://www.arabnews.pk/world/4-rescued-on-third-day-after-kenya-building-collapse-as-families-lose-hope-3005268",
+   "title": "4 rescued on third day after Kenya building collapse as families lose hope",
+   "url": "https://www.arabnews.pk/world/4-rescued-on-third-day-after-kenya-building-collapse-as-families-lose-hope-3005268",
+   "source": "Arab News Pakistan",
+   "published": "2026-10-25T20:59:14Z",
+   "summary": "NAIROBI, Kenya: The number of people rescued from a collapsed building in Kenya’s capital has risen to four, while several others remain missing and are reported to have…",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "en",
+   "region": "pk"
+  },
+  {
+   "id": "https://www.theguardian.com/sport/2026/oct/25/nfl-roundup-sunday-football-scores",
+   "title": "NFL roundup: Falcons spoil Niners’ undefeated start; Steelers win in Paris",
+   "url": "https://www.theguardian.com/sport/2026/oct/25/nfl-roundup-sunday-football-scores",
+   "source": "The Guardian",
+   "published": "2026-10-25T20:48:11Z",
+   "summary": "Bucs rout Panthers in Baker Mayfield’s return Browns move to 5-2 with late win over Titans Jets hand Dolphins their first win of the season Michael Penix Jr threw three touchdown…",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "other"
+  },
   {
    "id": "https://www.theguardian.com/football/live/2026/oct/25/barcelona-v-real-madrid-el-clasico-live",
    "title": "Barcelona v Real Madrid: El Clásico – live",
@@ -61,20 +701,6 @@
    "region": "pk"
   },
   {
-   "id": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
-   "title": "Australia politics live: MPs to pay tribute to Helen Haines as parliament resumes; Hanson says One Nation cartoons ‘not going anywhere’",
-   "url": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
-   "source": "The Guardian",
-   "published": "2026-10-25T20:39:08Z",
-   "summary": "Follow live updates Get our daily political email , free app or daily news podcast UTI treatment, contraception to be available through pharmacies All Australian women will soon…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
    "id": "https://www.theguardian.com/football/2026/oct/25/manchester-united-manchester-city-wsl-match-report",
    "title": "Terland strikes late as United end Manchester City’s winning start in WSL",
    "url": "https://www.theguardian.com/football/2026/oct/25/manchester-united-manchester-city-wsl-match-report",
@@ -90,18 +716,19 @@
    "sub": "football"
   },
   {
-   "id": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-   "title": "Polls close in Serbia as strongman Vučić faces challenge to 12-year rule – Europe live",
-   "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-   "source": "The Guardian",
-   "published": "2026-10-25T20:35:32Z",
-   "summary": "The Student List movement is taking on authoritarian leader following nearly two years of protests against government and institutional corruption What is at stake in Serbia’s…",
-   "cat": "affairs",
+   "id": "https://www.skysports.com/golf/news/12040/13603786/bermuda-championship-seamus-power-set-for-monday-play-off-against-austin-smotherman-as-final-round-is-scrapped-due-to-bad-weather",
+   "title": "Power, Smotherman set for Monday play-off at Bermuda Championship",
+   "url": "https://www.skysports.com/golf/news/12040/13603786/bermuda-championship-seamus-power-set-for-monday-play-off-against-austin-smotherman-as-final-round-is-scrapped-due-to-bad-weather",
+   "source": "Sky Sports",
+   "published": "2026-10-25T20:35:00Z",
+   "summary": "Seamus Power and Austin Smotherman are set to go head-to-head in a Monday play-off after the final round of the Butterfield Bermuda Championship was scrapped due to bad weather.",
+   "cat": "sports",
    "cats": [
-    "affairs"
+    "sports"
    ],
    "lang": "en",
-   "region": "world"
+   "region": "world",
+   "sub": "cricket"
   },
   {
    "id": "https://www.arabnews.pk/world/poorest-nations-missing-out-on-ai-and-clean-energy-investment-boom-guterres-warns-in-doha-3005265",
@@ -137,7 +764,7 @@
    "url": "https://www.theguardian.com/environment/2026/oct/25/cabinet-split-emerges-over-controversial-rosebank-oilfield-decision",
    "source": "The Guardian",
    "published": "2026-10-25T20:29:25Z",
-   "summary": "Chancellor is in favour the North Sea project, but energy secretary has said she is leaning towards rejecting it A cabinet split has emerged over whether to approve drilling at…",
+   "summary": "Chancellor is in favour of North Sea project, but energy secretary has said she is leaning towards rejecting it A cabinet split has emerged over whether to approve drilling at the…",
    "cat": "affairs",
    "cats": [
     "affairs"
@@ -340,7 +967,7 @@
    "url": "https://www.bbc.co.uk/sport/football/videos/cq0mepm1d774o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
    "published": "2026-10-25T20:00:19Z",
-   "summary": "Manchester United's winless run stretches to eight matches in all competitions as they're beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's manager Michael…",
+   "summary": "Manchester United's winless run stretches to eight matches in all competitions as they are beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's manager…",
    "cat": "sports",
    "cats": [
     "sports"
@@ -366,17 +993,32 @@
   },
   {
    "id": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss",
-   "title": "Brazil election results 2026 live: Top court extends voting for two hours",
+   "title": "Brazil election results 2026 live: Vote counting begins for Lula, Bolsonaro",
    "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss",
    "source": "Al Jazeera",
    "published": "2026-10-25T20:00:04Z",
-   "summary": "Brazilian President Luiz Inacio Lula da Silva and Senator Flavio Bolsonaro square off in a closely watched election.",
+   "summary": "Legal challenges are likely, as the voting extension adds tension to Brazil's polarised political landscape.",
    "cat": "affairs",
    "cats": [
     "affairs"
    ],
    "lang": "en",
    "region": "world"
+  },
+  {
+   "id": "https://www.bbc.co.uk/iplayer/episode/m0033m7c?at_medium=RSS&at_campaign=rss",
+   "title": "Watch: Sportscene - Sunday's Scottish Premiership highlights",
+   "url": "https://www.bbc.co.uk/iplayer/episode/m0033m7c?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-10-25T20:00:04Z",
+   "summary": "With Hibs v Celtic and Motherwell v Hearts, plus action and reaction from Saturday",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "football"
   },
   {
    "id": "https://www.skysports.com/football/manchester-united-women-vs-manchester-city-women/report/575802",
@@ -399,7 +1041,7 @@
    "url": "https://www.bbc.co.uk/sport/football/videos/c9gkvellmxg1o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
    "published": "2026-10-25T19:59:46Z",
-   "summary": "Crystal Palace's winless run stretches to four matches as they're beaten 2-0 at home by Newcastle, leaving the club just a point outside the relegation zone with the pressure…",
+   "summary": "Crystal Palace's winless run stretches to four matches as they are beaten 2-0 at home by Newcastle, leaving the club just a point outside the relegation zone with the pressure…",
    "cat": "sports",
    "cats": [
     "sports"
@@ -640,20 +1282,6 @@
    "region": "pk"
   },
   {
-   "id": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results",
-   "title": "Brazil election 2026: Live second round results",
-   "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results",
-   "source": "The Guardian",
-   "published": "2026-10-25T19:37:49Z",
-   "summary": "After a shock defeat in the first round, the incumbent Brazilian president, Luiz Inácio Lula da Silva, is seeking a new term in a runoff with Flávio Bolsonaro, the son of his…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
    "id": "https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss",
    "title": "The narrative battle over France’s unrest",
    "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss",
@@ -770,11 +1398,11 @@
   },
   {
    "id": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
-   "title": "Serbia voter turnout highest in decades as students oppose longtime leader",
+   "title": "Serbia’s Vucic concedes election defeat to student-led movement",
    "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
    "source": "Al Jazeera",
    "published": "2026-10-25T19:19:54Z",
-   "summary": "Election commission says turnout reaches 65% amid allegations of intimidation, violence and voting irregularities.",
+   "summary": "Vucic says the opposition Student List is projected to win a parliamentary majority after nearly two years of protests.",
    "cat": "affairs",
    "cats": [
     "affairs"
@@ -973,7 +1601,7 @@
    "url": "https://www.theguardian.com/football/2026/oct/25/sunderland-leeds-premier-league-match-report",
    "source": "The Guardian",
    "published": "2026-10-25T18:46:08Z",
-   "summary": "Régis Le Bris can usually do impassive to perfection but, by the final whistle, even Sunderland’s ultra balanced manager was looking more than a little fed up and frustrated. His…",
+   "summary": "Régis Le Bris can usually do impassive to perfection but, by the final whistle, even Sunderland’s ultra-balanced manager was looking more than a little fed up and frustrated. His…",
    "cat": "sports",
    "cats": [
     "sports"
@@ -1024,21 +1652,6 @@
    "lang": "en",
    "region": "world",
    "sub": "other"
-  },
-  {
-   "id": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
-   "title": "One dead and 82,000 properties without power as Storm Boelo batters UK",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
-   "source": "The Guardian",
-   "published": "2026-10-25T18:38:44Z",
-   "summary": "Man, 60, killed by falling tree near Castle Douglas in Scotland as Met Office reports gusts of up to 84mph A 60-year-old man has been killed by a falling tree and more than 82,000…",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "cricket"
   },
   {
    "id": "https://www.skysports.com/football/news/12040/13603735/gary-neville-slams-man-utd-players-for-downing-tools-and-turning-on-michael-carrick-after-bournemouth-defeat",
@@ -1257,6 +1870,21 @@
    ],
    "lang": "en",
    "region": "world"
+  },
+  {
+   "id": "https://www.theguardian.com/football/2026/oct/25/pierre-sage-regrets-missed-15-minutes-as-defeat-increases-heat-on-crystal-palace-manager",
+   "title": "Pierre Sage regrets ‘missed 15 minutes’ as defeat increases heat on Crystal Palace manager",
+   "url": "https://www.theguardian.com/football/2026/oct/25/pierre-sage-regrets-missed-15-minutes-as-defeat-increases-heat-on-crystal-palace-manager",
+   "source": "The Guardian",
+   "published": "2026-10-25T18:17:10Z",
+   "summary": "Sage’s side beaten 2-0 at home by Newcastle ‘Every mistake that is bad will be a goal’ Pierre Sage blamed a 15-minute loss of concentration for Crystal Palace’s 2-0 defeat by…",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "football"
   },
   {
    "id": "https://www.bbc.co.uk/sport/football/articles/c6d93eeq27gqo?at_medium=RSS&at_campaign=rss",
@@ -1670,6 +2298,20 @@
    "sub": "other"
   },
   {
+   "id": "https://www.express.pk/story/2840355/provision-of-affordable-housing-economic-recovery-and-public-prosperity-2840355/",
+   "title": "سستے گھروں کی فراہمی، معاشی بحالی اور عوامی خوشحالی",
+   "url": "https://www.express.pk/story/2840355/provision-of-affordable-housing-economic-recovery-and-public-prosperity-2840355/",
+   "source": "Express Urdu",
+   "published": "2026-10-25T17:18:38Z",
+   "summary": "اپنا گھر اسکیم سے تعمیراتی صنعت، روزگار اور صنعتی پیداوار میں اضافے کی امید ہے",
+   "cat": "economy",
+   "cats": [
+    "economy"
+   ],
+   "lang": "ur",
+   "region": "pk"
+  },
+  {
    "id": "https://www.dawn.com/news/2039748/6-terrorists-killed-2-soldiers-martyred-during-dera-ismail-khan-ibo-ispr",
    "title": "6 terrorists killed, 2 soldiers martyred during Dera Ismail Khan IBO: ISPR",
    "url": "https://www.dawn.com/news/2039748/6-terrorists-killed-2-soldiers-martyred-during-dera-ismail-khan-ibo-ispr",
@@ -1891,6 +2533,20 @@
    "region": "pk"
   },
   {
+   "id": "https://www.express.pk/story/2840354/federal-interior-minister-mohsin-naqvi-has-arrived-in-karachi-2840354/",
+   "title": "وفاقی وزیر داخلہ محسن نقوی کراچی پہنچ گئے",
+   "url": "https://www.express.pk/story/2840354/federal-interior-minister-mohsin-naqvi-has-arrived-in-karachi-2840354/",
+   "source": "Express Urdu",
+   "published": "2026-10-25T16:55:57Z",
+   "summary": "وزیر داخلہ کے دورے کے دوران اہم ملاقاتیں ہوں گی، ذرائع",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "ur",
+   "region": "pk"
+  },
+  {
    "id": "https://www.bbc.com/urdu/articles/cjn5v6qn909ro?at_medium=RSS&at_campaign=rss",
    "title": "’وہ محبت کی زبان سمجھتے ہیں‘: ملک خان مرجان کے افغان طالبان اور ٹی ٹی پی سے مذاکرات سے متعلق بیان پر حکومتی ترجمانوں کی وضاحتیں",
    "url": "https://www.bbc.com/urdu/articles/cjn5v6qn909ro?at_medium=RSS&at_campaign=rss",
@@ -1921,7 +2577,7 @@
   },
   {
    "id": "https://www.bbc.co.uk/sport/football/articles/crgj9wnpd1lvo?at_medium=RSS&at_campaign=rss",
-   "title": "Carrick future under major threat - can he survive?",
+   "title": "'It wasn't a farewell from me' - but horror start leaves Carrick on brink",
    "url": "https://www.bbc.co.uk/sport/football/articles/crgj9wnpd1lvo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
    "published": "2026-10-25T16:51:48Z",
@@ -1933,6 +2589,21 @@
    "lang": "en",
    "region": "world",
    "sub": "football"
+  },
+  {
+   "id": "https://www.skysports.com/football/news/12040/13603677/liverpool-clicking-into-gear-as-pressure-mounts-on-pierre-sage-premier-league-hits-and-misses",
+   "title": "Hits and misses: Pressure mounts on Sage while Liverpool click into gear",
+   "url": "https://www.skysports.com/football/news/12040/13603677/liverpool-clicking-into-gear-as-pressure-mounts-on-pierre-sage-premier-league-hits-and-misses",
+   "source": "Sky Sports",
+   "published": "2026-10-25T16:51:00Z",
+   "summary": "",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "en",
+   "region": "world",
+   "sub": "cricket"
   },
   {
    "id": "https://www.theguardian.com/sport/2026/oct/25/england-pakistan-odi-match-report-cricket-shadab-khan",
@@ -1948,6 +2619,20 @@
    "lang": "en",
    "region": "pk",
    "sub": "cricket"
+  },
+  {
+   "id": "https://www.express.pk/story/2840353/karachi-55-year-old-woman-killed-by-baton-during-domestic-dispute-2840353/",
+   "title": "کراچی، گھریلو جھگڑے کے دوران ڈنڈے کے وار سے 55 سالہ خاتون قتل",
+   "url": "https://www.express.pk/story/2840353/karachi-55-year-old-woman-killed-by-baton-during-domestic-dispute-2840353/",
+   "source": "Express Urdu",
+   "published": "2026-10-25T16:44:11Z",
+   "summary": "جاں بحق خاتون کی شناخت پروین کے نام سے ہوئی ہے",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "ur",
+   "region": "pk"
   },
   {
    "id": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss",
@@ -2065,12 +2750,27 @@
    "region": "world"
   },
   {
+   "id": "https://www.express.pk/story/2840352/faisal-karim-kundi-congratulates-the-national-team-on-their-historic-victory-against-england-2840352/",
+   "title": "انگلینڈ کے خلاف تاریخی فتح پر فیصل کریم کنڈی کی قومی ٹیم کو مبارکباد",
+   "url": "https://www.express.pk/story/2840352/faisal-karim-kundi-congratulates-the-national-team-on-their-historic-victory-against-england-2840352/",
+   "source": "Express Urdu",
+   "published": "2026-10-25T16:30:16Z",
+   "summary": "شاداب خان کی ناقابلِ شکست سنچری پاکستانی کرکٹ کی تاریخ کا قابلِ فخر لمحہ ہے، گورنر خیبرپختونخوا",
+   "cat": "sports",
+   "cats": [
+    "sports"
+   ],
+   "lang": "ur",
+   "region": "pk",
+   "sub": "cricket"
+  },
+  {
    "id": "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss",
-   "title": "Barcelona vs Real Madrid: La Liga El Clasico",
+   "title": "Barcelona 1-2 Real Madrid: La Liga El Clasico – as it happened",
    "url": "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss",
    "source": "Al Jazeera",
    "published": "2026-10-25T16:30:00Z",
-   "summary": "Follow updates from El Clasico at Camp Nou, including the build-up, analysis and live text commentary of the game.",
+   "summary": "All the updates as Real Madrid ⁠become ⁠the first side to beat Barcelona in La Liga this season.",
    "cat": "sports",
    "cats": [
     "sports"
@@ -2125,6 +2825,20 @@
    "region": "pk"
   },
   {
+   "id": "https://www.express.pk/story/2840351/a-resident-of-soldier-bazaars-tharoo-line-committed-suicide-by-consuming-a-poisonous-substance-at-home-2840351/",
+   "title": "سولجر بازار تھاروں لائن کے رہائشی شخص نے گھر میں زیرہی چیز کھا کر خودکشی کر لی",
+   "url": "https://www.express.pk/story/2840351/a-resident-of-soldier-bazaars-tharoo-line-committed-suicide-by-consuming-a-poisonous-substance-at-home-2840351/",
+   "source": "Express Urdu",
+   "published": "2026-10-25T16:25:20Z",
+   "summary": "ورثا موت کی تصدیق کے بعد پولیس کارروائی کرانے سے انکار کر کے لاش اپنے ہمراہ لے گئے",
+   "cat": "affairs",
+   "cats": [
+    "affairs"
+   ],
+   "lang": "ur",
+   "region": "pk"
+  },
+  {
    "id": "https://www.cricinfo.com/ci/content/story/1560024.html?ex_cid=OTC-RSS",
    "title": "Harmanpreet, Deepti centuries help India seal series",
    "url": "https://www.cricinfo.com/ci/content/story/1560024.html?ex_cid=OTC-RSS",
@@ -2155,20 +2869,6 @@
    "region": "pk"
   },
   {
-   "id": "https://www.brecorder.com/news/40445869/six-terrorists-killed-two-soldiers-martyred-in-di-khan-operation-ispr",
-   "title": "Six terrorists killed, two soldiers martyred in DI Khan operation: ISPR",
-   "url": "https://www.brecorder.com/news/40445869/six-terrorists-killed-two-soldiers-martyred-in-di-khan-operation-ispr",
-   "source": "Business Recorder",
-   "published": "2026-10-25T16:23:17Z",
-   "summary": "Security forces killed six terrorists during an intelligence-based operation in Dera Ismail Khan district on Saturday, while two soldiers were martyred in an exchange of fire, the…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "pk"
-  },
-  {
    "id": "https://www.skysports.com/watch/video/13603659/pakistan-v-england-odi-highlights-shadab-khans-unbeaten-113-seals-dramatic-one-wicket-victory",
    "title": "Highlights: Pakistan stun England in Lahore as Brook's side beaten again",
    "url": "https://www.skysports.com/watch/video/13603659/pakistan-v-england-odi-highlights-shadab-khans-unbeaten-113-seals-dramatic-one-wicket-victory",
@@ -2182,20 +2882,6 @@
    "lang": "en",
    "region": "pk",
    "sub": "cricket"
-  },
-  {
-   "id": "https://urdu.arynews.tv/murree-accident-news-25-10-2026/",
-   "title": "مری میں افسوسناک حادثہ، ایک ہی خاندان کے 7 افراد جاں بحق",
-   "url": "https://urdu.arynews.tv/murree-accident-news-25-10-2026/",
-   "source": "ARY News Urdu",
-   "published": "2026-10-25T16:20:06Z",
-   "summary": "(25 اکتوبر 2026): مری میں رکھالہ روڈ پر افسوسناک ٹریفک حادثہ پیش آیا جس میں ایک ہی خاندان کے 7 افراد جاں بحق ہوگئے۔ ریسکیو حکام کے مطابق رکھالہ روڈ پر گاڑی کھائی میں گرنے سے آگ…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "ur",
-   "region": "pk"
   },
   {
    "id": "https://www.theguardian.com/football/2026/oct/25/manchester-united-bournemouth-premier-league-match-report-michael-carrick",
@@ -2285,7 +2971,7 @@
   },
   {
    "id": "https://www.skysports.com/football/news/12040/13603616/manchester-united-michael-carrick-head-coach-on-brink-of-losing-job-after-bournemouth-defeat",
-   "title": "Neville fears Carrick set to be sacked as Carra calls for decision tonight",
+   "title": "Neville fears Carrick set to be sacked as Carra calls for swift decision",
    "url": "https://www.skysports.com/football/news/12040/13603616/manchester-united-michael-carrick-head-coach-on-brink-of-losing-job-after-bournemouth-defeat",
    "source": "Sky Sports",
    "published": "2026-10-25T16:10:00Z",
@@ -2344,20 +3030,6 @@
    "sub": "cricket"
   },
   {
-   "id": "https://www.dawn.com/news/2039735/new-leave-policy-for-islamabad-police-ensures-weekly-off-for-all-personnel",
-   "title": "New leave policy for Islamabad Police ensures weekly off for all personnel",
-   "url": "https://www.dawn.com/news/2039735/new-leave-policy-for-islamabad-police-ensures-weekly-off-for-all-personnel",
-   "source": "Dawn",
-   "published": "2026-10-25T16:04:16Z",
-   "summary": "The capital’s police have introduced a new leave policy to ease difficulties faced by officers and officials in obtaining leave and ensure, for the first time, that all personnel…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "pk"
-  },
-  {
    "id": "https://www.bbc.co.uk/sport/football/articles/c9ly0mz745dno?at_medium=RSS&at_campaign=rss",
    "title": "Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated",
    "url": "https://www.bbc.co.uk/sport/football/articles/c9ly0mz745dno?at_medium=RSS&at_campaign=rss",
@@ -2371,20 +3043,6 @@
    "lang": "en",
    "region": "world",
    "sub": "football"
-  },
-  {
-   "id": "https://urdu.arynews.tv/shadab-century-pakistan-beat-england/",
-   "title": "شاداب خان نے پانسہ پلٹ دیا، انگلینڈ کے جبڑوں سے فتح چھین لی",
-   "url": "https://urdu.arynews.tv/shadab-century-pakistan-beat-england/",
-   "source": "ARY News Urdu",
-   "published": "2026-10-25T16:01:27Z",
-   "summary": "ٹرائی سیریز میں شاداب خان نے سنچری بنا کر میچ کا پانسہ پلٹ دیا اور سنسنی خیز مقابلے بعد انگلینڈ کے جبڑوں سے فتح چھین لی۔ لاہور میں کھیلے گئے میچ میں شاداب خان نے کیریئر کی پہلی…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "ur",
-   "region": "pk"
   },
   {
    "id": "https://decrypt.co/381784/wells-fargo-cisco-intuit-more-companies-object-tokenized-stocks",
@@ -2461,34 +3119,6 @@
    "sub": "football"
   },
   {
-   "id": "https://urdu.arynews.tv/dera-ismail-khan-zarkani-operation-25-10-2026/",
-   "title": "ڈیرہ اسماعیل خان میں 6 خوراج ہلاک، بہادری سے لڑتے ہوئے 2 جوان شہید",
-   "url": "https://urdu.arynews.tv/dera-ismail-khan-zarkani-operation-25-10-2026/",
-   "source": "ARY News Urdu",
-   "published": "2026-10-25T15:56:48Z",
-   "summary": "راولپنڈی (25 اکتوبر 2026): ڈیرہ اسماعیل خان میں سکیورٹی فورسز کی کارروائی میں 6 خوارج مارے گئے، مقابلے کے دوران بہادری سے لڑتے ہوئے 2 جوان شہید ہوئے۔ پاک افواج کے ترجمان ادارے آئی…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "ur",
-   "region": "pk"
-  },
-  {
-   "id": "https://www.arabnews.pk/middle-east/strike-on-gaza-university-kills-three-staff-hospital-3005246",
-   "title": "Strike on Gaza university kills three: staff, hospital",
-   "url": "https://www.arabnews.pk/middle-east/strike-on-gaza-university-kills-three-staff-hospital-3005246",
-   "source": "Arab News Pakistan",
-   "published": "2026-10-25T15:55:31Z",
-   "summary": "An Israeli strike targeted a university in Gaza City, resulting in the deaths of three individuals, with several others reported injured. The Israeli military is investigating the…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "pk"
-  },
-  {
    "id": "https://www.bbc.co.uk/sport/rugby-league/videos/cmy0e9kqplx8o?at_medium=RSS&at_campaign=rss",
    "title": "Australia survive scare to beat Fiji and reach World Cup semi-finals",
    "url": "https://www.bbc.co.uk/sport/rugby-league/videos/cmy0e9kqplx8o?at_medium=RSS&at_campaign=rss",
@@ -2502,20 +3132,6 @@
    "lang": "en",
    "region": "world",
    "sub": "other"
-  },
-  {
-   "id": "https://urdu.arynews.tv/saudi-says-riyadh-airport-partly-reopens/",
-   "title": "ریاض ایئرپورٹ سے متعلق اہم اعلان",
-   "url": "https://urdu.arynews.tv/saudi-says-riyadh-airport-partly-reopens/",
-   "source": "ARY News Urdu",
-   "published": "2026-10-25T15:53:06Z",
-   "summary": "سعودی عرب کا کہنا ہے کہ حوثیوں کی نئی دھمکیوں کے باوجود ریاض کا ہوائی اڈہ جزوی طور پر کُھل گیا ہے۔ سعودی عرب نے کہا کہ مرکزی ہوائی اڈے نے اتوار کو دو ٹرمینلز پر دوبارہ آپریشنز…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "ur",
-   "region": "pk"
   },
   {
    "id": "https://www.skysports.com/football/motherwell-vs-hearts/report/558390",
@@ -2548,6 +3164,21 @@
    "sub": "cricket"
   },
   {
+   "id": "https://www.express.pk/story/2840346/lahore-citizens-take-to-the-streets-to-protest-against-gas-outages-and-inflation-2840346/",
+   "title": "لاہور، گیس کی بندش اور مہنگائی کے خلاف شہری سڑکوں پر نکل آئے",
+   "url": "https://www.express.pk/story/2840346/lahore-citizens-take-to-the-streets-to-protest-against-gas-outages-and-inflation-2840346/",
+   "source": "Express Urdu",
+   "published": "2026-10-25T15:43:05Z",
+   "summary": "مہنگی ایل پی جی اور آٹے سمیت بنیادی اشیائے ضروریہ کی بڑھتی قیمتوں نے عام آدمی کی زندگی مشکل بنا دی ہے، شہری",
+   "cat": "fuel",
+   "cats": [
+    "fuel",
+    "economy"
+   ],
+   "lang": "ur",
+   "region": "pk"
+  },
+  {
    "id": "https://sports.ndtv.com/cricket/ms-dhonis-advice-to-gen-z-gen-alpha-and-millennials-on-food-habits-goes-viral-12234246",
    "title": "MS Dhoni's Advice To Gen Z, Gen Alpha and Millennials On Food Habits Goes Viral",
    "url": "https://sports.ndtv.com/cricket/ms-dhonis-advice-to-gen-z-gen-alpha-and-millennials-on-food-habits-goes-viral-12234246",
@@ -2564,34 +3195,6 @@
    "sub": "cricket"
   },
   {
-   "id": "https://www.express.pk/story/2840342/islamabad-ka-intizami-mustaqbil-2840342/",
-   "title": "اسلام آباد کا انتظامی مستقبل",
-   "url": "https://www.express.pk/story/2840342/islamabad-ka-intizami-mustaqbil-2840342/",
-   "source": "Express Urdu",
-   "published": "2026-10-25T15:41:35Z",
-   "summary": "ملکی سیاسی اور عوامی صورتحال حکومت کے حق میں نہیں ہے",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "ur",
-   "region": "pk"
-  },
-  {
-   "id": "https://www.express.pk/story/2840341/cinema-ki-taraqqi-aur-yaadon-ka-safar-2840341/",
-   "title": "سینما کی ترقی اور یادوں کا سفر",
-   "url": "https://www.express.pk/story/2840341/cinema-ki-taraqqi-aur-yaadon-ka-safar-2840341/",
-   "source": "Express Urdu",
-   "published": "2026-10-25T15:41:35Z",
-   "summary": "گزشتہ دنوں ہماری ملاقات بچپن کے ایک دوست سے ہو گئی۔ نام تو ان کا حمید ہے، لیکن بچپن میں سارے دوست انھیں ’’میدہ‘‘ کہہ کر پکارتے تھے",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "ur",
-   "region": "pk"
-  },
-  {
    "id": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
    "title": "Eight killed in Gaza as Israel targets university campus and other sites",
    "url": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
@@ -2604,20 +3207,6 @@
    ],
    "lang": "en",
    "region": "world"
-  },
-  {
-   "id": "https://urdu.arynews.tv/marriage-on-mobile-tower-online-nikah-india/",
-   "title": "لڑکی نے شادی کی ضد انوکھے انداز میں منوالی، دلچسپ ویڈیو وائرل",
-   "url": "https://urdu.arynews.tv/marriage-on-mobile-tower-online-nikah-india/",
-   "source": "ARY News Urdu",
-   "published": "2026-10-25T15:39:42Z",
-   "summary": "بہریچ : بھارتی ریاست اتر پردیش میں ضدی لڑکی اپنی پسند کی شادی کروانے کیلیے 100 فٹ اونچے موبائل ٹاور پر چڑھ گئی جہاں بالآخر اس کا نکاح وہیں پڑھوا دیا گیا۔ بھارتی ریاست اترپردیش کے…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "ur",
-   "region": "pk"
   },
   {
    "id": "https://www.aljazeera.com/video/newsfeed/2026/10/25/un-official-warns-ai-could-deepen-global-inequality?traffic_source=rss",
@@ -2662,20 +3251,6 @@
    "region": "world"
   },
   {
-   "id": "https://www.theguardian.com/world/2026/oct/25/police-portugal-dogs-batons-dismantle-housing-protest-camps",
-   "title": "Portuguese police with dogs and batons dismantle housing protest camps",
-   "url": "https://www.theguardian.com/world/2026/oct/25/police-portugal-dogs-batons-dismantle-housing-protest-camps",
-   "source": "The Guardian",
-   "published": "2026-10-25T15:32:20Z",
-   "summary": "More than 30 people arrested as officers clear at least 100 tents in central Lisbon and about 50 in Porto Police in Portugal have dismantled housing protest camps in Lisbon and…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
    "id": "https://www.bbc.co.uk/sport/gymnastics/videos/c574pv1nk0jgo?at_medium=RSS&at_campaign=rss",
    "title": "Jarman wins historic second Worlds silver in vault final",
    "url": "https://www.bbc.co.uk/sport/gymnastics/videos/c574pv1nk0jgo?at_medium=RSS&at_campaign=rss",
@@ -2704,34 +3279,6 @@
    ],
    "lang": "ur",
    "region": "pk"
-  },
-  {
-   "id": "https://www.aljazeera.com/news/2026/10/25/thousands-mourn-victims-of-deadly-jordan-church-attack?traffic_source=rss",
-   "title": "Thousands mourn victims of deadly Jordan church attack",
-   "url": "https://www.aljazeera.com/news/2026/10/25/thousands-mourn-victims-of-deadly-jordan-church-attack?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-10-25T15:21:26Z",
-   "summary": "Jordan's prime minister represents king at funeral for eight of the church attack victims as hunt for gunmen continues.",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
-   "id": "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university",
-   "title": "Twelve injured, including six juveniles, in shooting near Florida university",
-   "url": "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university",
-   "source": "The Guardian",
-   "published": "2026-10-25T15:19:47Z",
-   "summary": "Police say altercation at a homecoming party escalated into gunfire and they are working to identify ‘those responsible’ A shooting ⁠near a Florida university campus in…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world"
   },
   {
    "id": "https://cointelegraph.com/news/ecb-official-sees-digital-euro-tool-to-protect-eu-sovereignty",
@@ -2839,48 +3386,6 @@
    "sub": "football"
   },
   {
-   "id": "https://www.aljazeera.com/video/true-crime-reports/2026/10/25/murder-in-malaysias-beverly-hills-true-crime-reports?traffic_source=rss",
-   "title": "Murder in Malaysia’s Beverly Hills | True Crime Reports",
-   "url": "https://www.aljazeera.com/video/true-crime-reports/2026/10/25/murder-in-malaysias-beverly-hills-true-crime-reports?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-10-25T14:54:53Z",
-   "summary": "A young woman is abducted, shot twice, and blown up in the jungle. Who wanted Altantuya dead – and who covered it up?",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
-   "id": "https://www.dawn.com/news/2039736/israeli-strike-on-university-in-gaza-city-kills-3-another-4-palestinians-killed-in-separate-airstrikes",
-   "title": "Israeli strike on university in Gaza City kills 3; another 4 Palestinians killed in separate airstrikes",
-   "url": "https://www.dawn.com/news/2039736/israeli-strike-on-university-in-gaza-city-kills-3-another-4-palestinians-killed-in-separate-airstrikes",
-   "source": "Dawn",
-   "published": "2026-10-25T14:48:54Z",
-   "summary": "An Israeli strike on a university in Gaza City killed three people on Sunday, staff and a local hospital said, while the civil defence agency reported four others killed elsewhere…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
-   "id": "https://www.aljazeera.com/news/2026/10/25/how-is-the-us-israeli-war-on-iran-causing-havoc-in-europe?traffic_source=rss",
-   "title": "How is the US-Israeli war on Iran causing havoc in Europe?",
-   "url": "https://www.aljazeera.com/news/2026/10/25/how-is-the-us-israeli-war-on-iran-causing-havoc-in-europe?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-10-25T14:47:55Z",
-   "summary": "Rising energy costs and protests are sharpening European opposition to renewed US-Israeli attacks on Iran.",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
    "id": "https://www.aljazeera.com/news/2026/10/25/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions?traffic_source=rss",
    "title": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
    "url": "https://www.aljazeera.com/news/2026/10/25/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions?traffic_source=rss",
@@ -2911,20 +3416,6 @@
    "sub": "football"
   },
   {
-   "id": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
-   "title": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
-   "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
-   "source": "The Guardian",
-   "published": "2026-10-25T14:41:17Z",
-   "summary": "Incumbent president lost in first round to senator and son of convicted ex-president Brazilians are going to the polls on Sunday in a highly unpredictable runoff in which the…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
    "id": "https://www.theguardian.com/football/live/2026/oct/25/manchester-united-v-bournemouth-liverpool-v-brighton-and-more-premier-league-live",
    "title": "Manchester United v Bournemouth, Liverpool v Brighton and more: clockwatch – live",
    "url": "https://www.theguardian.com/football/live/2026/oct/25/manchester-united-v-bournemouth-liverpool-v-brighton-and-more-premier-league-live",
@@ -2938,20 +3429,6 @@
    "lang": "en",
    "region": "world",
    "sub": "football"
-  },
-  {
-   "id": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
-   "title": "Gabon says access to social media restored after eight-month ban",
-   "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-10-25T14:39:47Z",
-   "summary": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world"
   },
   {
    "id": "https://sports.ndtv.com/cricket/james-anderson-breaks-silence-after-lancashire-refuse-new-contract-if-it-was-up-to-me-12233641",
@@ -3013,20 +3490,6 @@
    "lang": "en",
    "region": "world",
    "sub": "cricket"
-  },
-  {
-   "id": "https://www.aljazeera.com/video/newsfeed/2026/10/25/gaza-content-creator-tells-al-jazeera-how-much-her-award-win-means?traffic_source=rss",
-   "title": "Gaza content creator tells Al Jazeera how much her award win means",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/gaza-content-creator-tells-al-jazeera-how-much-her-award-win-means?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-10-25T14:16:06Z",
-   "summary": "Palestinian girl Nisreen Skaik tells Al Jazeera how much winning a Junior Digital Creator Award means",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world"
   },
   {
    "id": "https://urdu.arynews.tv/king-salman-orders-sr5000-minimum-wage/",
@@ -3112,21 +3575,7 @@
    ],
    "lang": "en",
    "region": "world",
-   "sub": "other"
-  },
-  {
-   "id": "https://www.theguardian.com/australia-news/2026/oct/26/almost-two-thirds-of-australians-bulk-billed-for-all-gp-care-amid-extra-incentives-for-doctors",
-   "title": "Almost two-thirds of Australians bulk-billed for all GP care amid extra incentives for doctors",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/26/almost-two-thirds-of-australians-bulk-billed-for-all-gp-care-amid-extra-incentives-for-doctors",
-   "source": "The Guardian",
-   "published": "2026-10-25T14:00:06Z",
-   "summary": "Exclusive: RACGP says results likely reflect Medicare investments, but experts caution quality of care and outcomes also matter Get our new political email , free app or daily…",
-   "cat": "affairs",
-   "cats": [
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world"
+   "sub": "football"
   },
   {
    "id": "https://www.skysports.com/football/crystal-palace-women-vs-chelsea-women/report/575799",
@@ -3575,7 +4024,7 @@
    ],
    "lang": "en",
    "region": "world",
-   "sub": "other"
+   "sub": "football"
   },
   {
    "id": "https://www.skysports.com/watch/video/13603522/gary-neville-on-bruno-fernandes-and-michael-carrick-at-man-utd",
@@ -3994,22 +4443,6 @@
    "sub": "cricket"
   },
   {
-   "id": "https://www.cricinfo.com/ci/content/story/1559928.html?ex_cid=OTC-RSS",
-   "title": "Walter: New Zealand 'haven't been able to put the finishing touches' so far",
-   "url": "https://www.cricinfo.com/ci/content/story/1559928.html?ex_cid=OTC-RSS",
-   "source": "ESPNcricinfo",
-   "published": "2026-10-25T10:28:10Z",
-   "summary": "New Zealand head coach Rob Walter said rotating the quicks wasn't the \"perfect science\" but key for upcoming ODIs and Tests against India",
-   "cat": "sports",
-   "cats": [
-    "sports",
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "cricket"
-  },
-  {
    "id": "https://www.aljazeera.com/sports/2026/10/25/pakistan-axe-shan-masood-from-sri-lanka-test-squad-as-agha-rizwan-return?traffic_source=rss",
    "title": "Pakistan drops Shan Masood from Sri Lanka Test squad as Agha, Rizwan return",
    "url": "https://www.aljazeera.com/sports/2026/10/25/pakistan-axe-shan-masood-from-sri-lanka-test-squad-as-agha-rizwan-return?traffic_source=rss",
@@ -4186,66 +4619,6 @@
    "sub": "football"
   },
   {
-   "id": "https://www.skysports.com/snooker/news/12040/13603485/mark-allen-suggests-he-could-play-in-uk-championship-as-he-continues-treatment-for-mental-health-struggles",
-   "title": "Allen hopeful of being in 'better place' mentally by UK Championship",
-   "url": "https://www.skysports.com/snooker/news/12040/13603485/mark-allen-suggests-he-could-play-in-uk-championship-as-he-continues-treatment-for-mental-health-struggles",
-   "source": "Sky Sports",
-   "published": "2026-10-25T09:00:00Z",
-   "summary": "Mark Allen says he is hopeful of being in a \"better place\" mentally by the time the UK Championship begins in late November.",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "cricket"
-  },
-  {
-   "id": "https://www.cricinfo.com/ci/content/story/1559887.html?ex_cid=OTC-RSS",
-   "title": "Ferguson to skip third T20I, Henry to sit out remainder of series",
-   "url": "https://www.cricinfo.com/ci/content/story/1559887.html?ex_cid=OTC-RSS",
-   "source": "ESPNcricinfo",
-   "published": "2026-10-25T08:57:39Z",
-   "summary": "Kyle Jamieson will leave T20I squad after third game, and Blair Tickner will join the squad for the last three games",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "cricket"
-  },
-  {
-   "id": "https://www.cricinfo.com/ci/content/story/1559921.html?ex_cid=OTC-RSS",
-   "title": "Shardul Thakur to miss Mumbai's next Ranji Trophy match too",
-   "url": "https://www.cricinfo.com/ci/content/story/1559921.html?ex_cid=OTC-RSS",
-   "source": "ESPNcricinfo",
-   "published": "2026-10-25T08:51:25Z",
-   "summary": "Shardul Thakur, the Mumbai seam-bowling allrounder, picked up a finger injury before the start of the Ranji Trophy season and is yet to have fully recovered",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "cricket"
-  },
-  {
-   "id": "https://www.skysports.com/golf/news/12040/13603483/genesis-championship-yuto-katsuragawa-secures-victory-finishing-two-shots-ahead-of-frederic-lacroix-and-martin-couvra",
-   "title": "Katsuragawa secures victory at Genesis Championship",
-   "url": "https://www.skysports.com/golf/news/12040/13603483/genesis-championship-yuto-katsuragawa-secures-victory-finishing-two-shots-ahead-of-frederic-lacroix-and-martin-couvra",
-   "source": "Sky Sports",
-   "published": "2026-10-25T08:48:00Z",
-   "summary": "Yuto Katsuragawa secured his second DP World Tour title with a two-shot victory at the Genesis Championship in South Korea on Sunday.",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "cricket"
-  },
-  {
    "id": "https://www.brecorder.com/news/40445856/odi-tri-series-razaullah-makes-debut-as-pakistan-opt-to-field-against-england",
    "title": "ODI tri-series: Razaullah makes debut as Pakistan opt to field against England",
    "url": "https://www.brecorder.com/news/40445856/odi-tri-series-razaullah-makes-debut-as-pakistan-opt-to-field-against-england",
@@ -4258,21 +4631,6 @@
    ],
    "lang": "en",
    "region": "pk",
-   "sub": "cricket"
-  },
-  {
-   "id": "https://www.skysports.com/watch/video/13603479/pakistan-v-england-englands-horror-start-as-three-early-wickets-fall-in-odi",
-   "title": "England's HORROR start! Three early wickets fall",
-   "url": "https://www.skysports.com/watch/video/13603479/pakistan-v-england-englands-horror-start-as-three-early-wickets-fall-in-odi",
-   "source": "Sky Sports",
-   "published": "2026-10-25T08:37:00Z",
-   "summary": "England suffer a nightmare start to their ODI against Pakistan as they lose three early wickets, including Tom Banton and Joe Root to Shaheen Shah Afridi.",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
    "sub": "cricket"
   },
   {
@@ -4332,22 +4690,6 @@
    "lang": "en",
    "region": "world",
    "sub": "other"
-  },
-  {
-   "id": "https://www.cricinfo.com/ci/content/story/1559916.html?ex_cid=OTC-RSS",
-   "title": "India opt to bat in second ODI; Vaishnavi replaces rested Gaud",
-   "url": "https://www.cricinfo.com/ci/content/story/1559916.html?ex_cid=OTC-RSS",
-   "source": "ESPNcricinfo",
-   "published": "2026-10-25T08:21:30Z",
-   "summary": "Zimbabwe captain Josephine Nkomo returned to the XI after missing the first ODI",
-   "cat": "sports",
-   "cats": [
-    "sports",
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "cricket"
   },
   {
    "id": "https://www.aljazeera.com/video/newsfeed/2026/10/25/who-are-the-best-players-never-to-win-the-ballon?traffic_source=rss",
@@ -4424,21 +4766,6 @@
    "lang": "en",
    "region": "world",
    "sub": "other"
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/football/articles/cm5ynpjx170zo?at_medium=RSS&at_campaign=rss",
-   "title": "What have Man Utd changed to turn around WSL form?",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cm5ynpjx170zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-10-25T07:58:04Z",
-   "summary": "It's a different picture at Manchester United now than it was last month - so what have they changed to turn around their WSL form?",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "football"
   },
   {
    "id": "https://www.bbc.co.uk/sport/football/articles/crgqwzqz8zgwo?at_medium=RSS&at_campaign=rss",
@@ -4664,21 +4991,6 @@
    "sub": "football"
   },
   {
-   "id": "https://www.bbc.co.uk/sport/football/articles/c94g1p32gyrro?at_medium=RSS&at_campaign=rss",
-   "title": "Why are Liverpool struggling for Premier League goals?",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c94g1p32gyrro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-10-25T06:26:00Z",
-   "summary": "Liverpool have scored 15 goals in four cup games this season, but have managed only nine goals in seven Premier League matches.",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "football"
-  },
-  {
    "id": "https://www.independenturdu.com/node/188436",
    "title": "پاکستان کا ذخیرہ اندوزوں کے خلاف کریک ڈاؤن کا حکم",
    "url": "https://www.independenturdu.com/node/188436",
@@ -4736,21 +5048,6 @@
    ],
    "lang": "ur",
    "region": "pk"
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/football/articles/cmy83vg66zngo?at_medium=RSS&at_campaign=rss",
-   "title": "When is Premier League 'sacking season' - and who should be worried?",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cmy83vg66zngo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-10-25T06:17:46Z",
-   "summary": "As pressure builds on Manchester United manager Michael Carrick, BBC Sport looks at when the Premier League 'sacking season' begins.",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "football"
   },
   {
    "id": "https://sports.ndtv.com/cricket/pakistan-vs-england-4th-tri-series-odi-live-streaming-when-and-where-to-watch-live-telecast-12232479",
@@ -5289,21 +5586,6 @@
    "region": "pk"
   },
   {
-   "id": "https://www.bbc.co.uk/sport/formula1/articles/cvj6jwzp2y4go?at_medium=RSS&at_campaign=rss",
-   "title": "Briton Palmowski wins F1 Academy title",
-   "url": "https://www.bbc.co.uk/sport/formula1/articles/cvj6jwzp2y4go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-10-25T01:18:37Z",
-   "summary": "Britain's Alisha Palmowski wins the F1 Academy title at the Circuit of the Americas in Austin.",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "other"
-  },
-  {
    "id": "https://tribune.com.pk/story/2636814/lens-fight-back-to-beat-paris-fc",
    "title": "Lens fight back to beat Paris FC",
    "url": "https://tribune.com.pk/story/2636814/lens-fight-back-to-beat-paris-fc",
@@ -5332,36 +5614,6 @@
    "lang": "en",
    "region": "pk",
    "sub": "football"
-  },
-  {
-   "id": "https://www.skysports.com/f1/news/12040/13603359/f1-academy-alisha-palmowski-becomes-2026-champion-with-three-races-of-season-to-spare-in-austin",
-   "title": "'Dream come true!' - Britain's Palmowski becomes 2026 F1 Academy champion",
-   "url": "https://www.skysports.com/f1/news/12040/13603359/f1-academy-alisha-palmowski-becomes-2026-champion-with-three-races-of-season-to-spare-in-austin",
-   "source": "Sky Sports",
-   "published": "2026-10-25T01:00:00Z",
-   "summary": "Britain's Alisha Palmowski became the 2026 F1 Academy champion with three races to spare after building an unassailable lead in Austin.",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "other"
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/formula1/articles/cvlyd5k776yyo?at_medium=RSS&at_campaign=rss",
-   "title": "Antonelli stands on brink of history in Austin",
-   "url": "https://www.bbc.co.uk/sport/formula1/articles/cvlyd5k776yyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-10-25T00:40:56Z",
-   "summary": "Kimi Antonelli can become the youngest F1 world champion on Sunday, but far from feeling the pressure he says he is enjoying himself more than usual.",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "other"
   },
   {
    "id": "https://www.express.pk/story/2840198/traffic-advisory-plan-issued-ahead-of-pakistan-england-odi-match-2840198/",
@@ -5406,21 +5658,6 @@
    ],
    "lang": "ur",
    "region": "pk",
-   "sub": "other"
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/formula1/articles/cm0qk189q5dgo?at_medium=RSS&at_campaign=rss",
-   "title": "How to follow US Grand Prix on the BBC",
-   "url": "https://www.bbc.co.uk/sport/formula1/articles/cm0qk189q5dgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-10-24T23:33:01Z",
-   "summary": "All the key BBC coverage details for the United States Grand Prix, which takes place from 23-25 October.",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
    "sub": "other"
   },
   {
@@ -5499,36 +5736,6 @@
    "sub": "football"
   },
   {
-   "id": "https://www.bbc.co.uk/sport/football/videos/cmd93enq4z20o?at_medium=RSS&at_campaign=rss",
-   "title": "Should Palmer have been sent off earlier than he was?",
-   "url": "https://www.bbc.co.uk/sport/football/videos/cmd93enq4z20o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-10-24T22:43:33Z",
-   "summary": "Match of the Day pundit Martin Keown looks at the red card shown to Cole Palmer during Chelsea's 2-0 defeat to Tottenham, with the former Arsenal defender agreeing with the…",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "football"
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/football/videos/cmzxj1r8j7p2o?at_medium=RSS&at_campaign=rss",
-   "title": "How 'special talent' Jackson inspired Villa to victory over Man City",
-   "url": "https://www.bbc.co.uk/sport/football/videos/cmzxj1r8j7p2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-10-24T22:43:17Z",
-   "summary": "Match of the Day pundits Martin Keown and Steph Houghton look at the impact Aston Villa forward Nicolas Jackson had with his two goals in their 2-1 victory over Manchester City…",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "football"
-  },
-  {
    "id": "https://www.skysports.com/darts/news/12040/13603410/luke-littler-suffers-shock-defeat-to-krzysztof-ratajski-at-european-championship-darts-in-dortmund",
    "title": "Littler's Euro dreams ended by shock defeat to Ratajski",
    "url": "https://www.skysports.com/darts/news/12040/13603410/luke-littler-suffers-shock-defeat-to-krzysztof-ratajski-at-european-championship-darts-in-dortmund",
@@ -5572,21 +5779,6 @@
    ],
    "lang": "ur",
    "region": "pk"
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/football/articles/c9ly0dxxgp7lo?at_medium=RSS&at_campaign=rss",
-   "title": "Man Utd not an unmanageable club - Carrick",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c9ly0dxxgp7lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-10-24T21:34:19Z",
-   "summary": "Michael Carrick says it is possible to manage Manchester United effectively as he clings on to his job with Bournemouth visiting Old Trafford on Sunday.",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "football"
   },
   {
    "id": "https://www.theguardian.com/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package",
@@ -5702,51 +5894,6 @@
    "region": "pk"
   },
   {
-   "id": "https://www.theguardian.com/football/2026/oct/24/european-football-napoli-roma-borussia-dortmund-atletico-madrid-paris-fc",
-   "title": "European football: Lazio beat Parma to top Serie A; Dortmund lead Bundesliga",
-   "url": "https://www.theguardian.com/football/2026/oct/24/european-football-napoli-roma-borussia-dortmund-atletico-madrid-paris-fc",
-   "source": "The Guardian",
-   "published": "2026-10-24T21:21:11Z",
-   "summary": "Lazio win 2-1 while Roma draw 3-3 with Napoli Beier gives Dortmund win over Eintracht Frankfurt Lazio climbed to the top of Serie A with a 2-1 home win ⁠over Parma ⁠as Roma ​twice…",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "football"
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/football/articles/cqev38dz34vxo?at_medium=RSS&at_campaign=rss",
-   "title": "The candid meeting that 'changed' Spurs - are they finally on way back?",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cqev38dz34vxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-10-24T21:14:42Z",
-   "summary": "Tottenham end Saturday's Premier League action in 12th place, their highest league position since 2 January. Are they finally on their way back?",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "football"
-  },
-  {
-   "id": "https://www.theguardian.com/football/2026/oct/24/nashville-sc-supporters-shield-mls-cf-montreal-surridge-mukhtar",
-   "title": "Nashville SC seal first MLS Supporters’ Shield with 2-0 win over CF Montreal",
-   "url": "https://www.theguardian.com/football/2026/oct/24/nashville-sc-supporters-shield-mls-cf-montreal-surridge-mukhtar",
-   "source": "The Guardian",
-   "published": "2026-10-24T21:07:15Z",
-   "summary": "Surridge and Mukhtar fire Nashville to 2-0 victory Nashville extend unbeaten streak to seven matches Montreal teenager Keita impresses on MLS debut Nashville SC scored twice in…",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "football"
-  },
-  {
    "id": "https://oilprice.com/Energy/Crude-Oil/Fuel-Oil-Becomes-Asias-Next-Cost-Shock.html",
    "title": "Fuel Oil Becomes Asia’s Next Cost Shock",
    "url": "https://oilprice.com/Energy/Crude-Oil/Fuel-Oil-Becomes-Asias-Next-Cost-Shock.html",
@@ -5774,52 +5921,6 @@
    "lang": "ur",
    "region": "pk",
    "sub": "other"
-  },
-  {
-   "id": "https://www.bbc.co.uk/sport/football/articles/cqvgr87py7zvo?at_medium=RSS&at_campaign=rss",
-   "title": "Liverpool among clubs keen on Vuskovic - Sunday's gossip",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cqvgr87py7zvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-10-24T20:20:30Z",
-   "summary": "Brighton defender Luka Vuskovic is being looked at by high-profile clubs, Liverpool do not intend to bring Trent Alexander-Arnold back, AC Milan are targeting Manchester United's…",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "football"
-  },
-  {
-   "id": "https://www.theguardian.com/football/2026/oct/24/xabia-alonso-urges-cole-palmer-to-learn-from-red-card-in-chelseas-defeat-to-tottenham",
-   "title": "Alonso urges Cole Palmer ‘to learn’ from red card in Chelsea’s defeat to Spurs",
-   "url": "https://www.theguardian.com/football/2026/oct/24/xabia-alonso-urges-cole-palmer-to-learn-from-red-card-in-chelseas-defeat-to-tottenham",
-   "source": "The Guardian",
-   "published": "2026-10-24T20:19:17Z",
-   "summary": "Forward sent off after 80 minutes for second yellow card ‘We need to have maturity to deal with difficult moments’ Xabi Alonso said that Cole Palmer must learn from his red card…",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "football"
-  },
-  {
-   "id": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss",
-   "title": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
-   "url": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-10-24T20:03:29Z",
-   "summary": "Gunners capitalise on City's first loss of the season, while Spurs get second league win at Stamford Bridge in 36 years.",
-   "cat": "sports",
-   "cats": [
-    "sports",
-    "affairs"
-   ],
-   "lang": "en",
-   "region": "world",
-   "sub": "football"
   },
   {
    "id": "https://urdu.arynews.tv/liaquatabad-woman-dead-suspect-arrested/",
@@ -6306,21 +6407,6 @@
    "lang": "en",
    "region": "world",
    "sub": "other"
-  },
-  {
-   "id": "https://www.dawn.com/news/2039503/psb-honours-rizwan-aftab-for-athlete-welfare-sports-development",
-   "title": "PSB honours Rizwan Aftab for athlete welfare, sports development",
-   "url": "https://www.dawn.com/news/2039503/psb-honours-rizwan-aftab-for-athlete-welfare-sports-development",
-   "source": "Dawn",
-   "published": "2026-10-24T15:02:52Z",
-   "summary": "Pakistan Sports Board (PSB) director general Yawar Hussain has honoured Rizwan Aftab Ahmed, the director of National Hospital, DHA Lahore, for his contributions towards sporting…",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "pk",
-   "sub": "cricket"
   },
   {
    "id": "https://decrypt.co/381674/game-publishers-have-pushed-to-cut-discs-since-2007-infinity-ward-veteran-says",
@@ -8626,21 +8712,6 @@
    "region": "pk"
   },
   {
-   "id": "https://www.express.pk/story/2839963/govt-announced-new-petroleum-products-prices-for-3-days-2839963/",
-   "title": "حکومت کا 3 روز کیلئے پیٹرولیم مصنوعات کی نئی قیمتوں کا اعلان",
-   "url": "https://www.express.pk/story/2839963/govt-announced-new-petroleum-products-prices-for-3-days-2839963/",
-   "source": "Express Urdu",
-   "published": "2026-10-23T13:39:03Z",
-   "summary": "پیٹرولیم مصنوعات کی نئی قیمتوں کا اطلاق 24 اکتوبر 2024 سے 26 اکتوبر 2026 تک 3 روز کے لیے ہوگا",
-   "cat": "fuel",
-   "cats": [
-    "fuel",
-    "affairs"
-   ],
-   "lang": "ur",
-   "region": "pk"
-  },
-  {
    "id": "https://cointelegraph.com/news/what-happened-in-crypto-today",
    "title": "Here’s what happened in crypto today",
    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
@@ -8740,20 +8811,6 @@
    ],
    "lang": "en",
    "region": "world"
-  },
-  {
-   "id": "https://urdu.arynews.tv/ogdc-ranks-first-among-104-listed-companies/",
-   "title": "ٹرانسپیرنسی انٹرنیشنل پاکستان، اوجی ڈی سی ایل 104 لسٹڈ کمپنیز میں پہلے نمبر پر",
-   "url": "https://urdu.arynews.tv/ogdc-ranks-first-among-104-listed-companies/",
-   "source": "ARY News Urdu",
-   "published": "2026-10-23T13:17:52Z",
-   "summary": "ٹرانسپیرنسی انٹرنیشنل پاکستان رپورٹ 2026 میں اوجی ڈی سی ایل 104 لسٹڈ کمپنیز میں پہلے نمبر پر آگئی۔ ترجمان آئل اینڈ گیس ڈویلپمنٹ کمپنی لمیٹڈ کے مطابق او جی ڈی سی نے شفافیت اور…",
-   "cat": "fuel",
-   "cats": [
-    "fuel"
-   ],
-   "lang": "ur",
-   "region": "pk"
   },
   {
    "id": "https://www.brecorder.com/news/40445636/uae-shares-extend-losses-on-regional-conflict-fears",
@@ -9708,20 +9765,6 @@
    "lang": "en",
    "region": "pk",
    "sub": "football"
-  },
-  {
-   "id": "https://tribune.com.pk/story/2636488/psx-slides-more-than-1330-points-amid-saudi-arabia-houthi-conflict",
-   "title": "PSX slides over 1,500 points as geopolitical tensions rattle investors",
-   "url": "https://tribune.com.pk/story/2636488/psx-slides-more-than-1330-points-amid-saudi-arabia-houthi-conflict",
-   "source": "The Express Tribune",
-   "published": "2026-10-23T03:29:56Z",
-   "summary": "KSE-100 settles at 162,374.88 points with banking, energy, and other sectors contributing to the decline",
-   "cat": "economy",
-   "cats": [
-    "economy"
-   ],
-   "lang": "en",
-   "region": "pk"
   },
   {
    "id": "https://tribune.com.pk/story/2636487/barcelona-eye-clasico-statement-against-real-madrid",
@@ -10704,20 +10747,6 @@
    "region": "world"
   },
   {
-   "id": "https://www.marketwatch.com/story/opposition-to-data-centers-will-drive-up-inflation-says-blackrocks-larry-fink-831c25b9?mod=mw_rss_topstories",
-   "title": "Opposition to data centers will drive up inflation, says BlackRock’s Larry Fink",
-   "url": "https://www.marketwatch.com/story/opposition-to-data-centers-will-drive-up-inflation-says-blackrocks-larry-fink-831c25b9?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "published": "2026-10-21T10:59:00Z",
-   "summary": "Fight the data centers at your economic peril, says BlackRock CEO Larry Fink.",
-   "cat": "economy",
-   "cats": [
-    "economy"
-   ],
-   "lang": "en",
-   "region": "world"
-  },
-  {
    "id": "https://www.arabnews.pk/business/saudi-chinese-consortium-wins-306m-qiddiya-stadium-contract-3004819",
    "title": "Saudi-Chinese consortium wins $306m Qiddiya stadium contract",
    "url": "https://www.arabnews.pk/business/saudi-chinese-consortium-wins-306m-qiddiya-stadium-contract-3004819",
@@ -10993,36 +11022,6 @@
    "source": "The Express Tribune",
    "published": "2026-10-20T23:07:35Z",
    "summary": "Late strikes from Vitinha and Fabian Ruiz secure a 4-2 win for the holders",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "pk",
-   "sub": "football"
-  },
-  {
-   "id": "https://tribune.com.pk/story/2636057/ten-hag-says-ronaldo-let-manchester-united-down",
-   "title": "Ten Hag says Ronaldo let Manchester United down",
-   "url": "https://tribune.com.pk/story/2636057/ten-hag-says-ronaldo-let-manchester-united-down",
-   "source": "The Express Tribune",
-   "published": "2026-10-20T22:55:40Z",
-   "summary": "The Dutchman also accuses United’s hierarchy of breaking promises and undermining his authority before his sacking",
-   "cat": "sports",
-   "cats": [
-    "sports"
-   ],
-   "lang": "en",
-   "region": "pk",
-   "sub": "football"
-  },
-  {
-   "id": "https://tribune.com.pk/story/2636056/regulator-has-power-to-force-manchester-city-sale",
-   "title": "Regulator has 'power' to force Manchester City sale",
-   "url": "https://tribune.com.pk/story/2636056/regulator-has-power-to-force-manchester-city-sale",
-   "source": "The Express Tribune",
-   "published": "2026-10-20T22:52:32Z",
-   "summary": "Club denies wrongdoing and have appealed against findings over alleged financial rule breaches",
    "cat": "sports",
    "cats": [
     "sports"
@@ -11778,7 +11777,7 @@
    "name": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "items": 31,
+   "items": 32,
    "error": ""
   },
   {
@@ -11862,7 +11861,7 @@
    "name": "Decrypt",
    "url": "https://decrypt.co/feed",
    "ok": true,
-   "items": 40,
+   "items": 60,
    "error": ""
   },
   {
@@ -11911,7 +11910,7 @@
    "name": "BBC Sport",
    "url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
    "ok": true,
-   "items": 75,
+   "items": 77,
    "error": ""
   },
   {
@@ -11932,14 +11931,14 @@
    "name": "BBC Sport",
    "url": "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
    "ok": true,
-   "items": 67,
+   "items": 68,
    "error": ""
   },
   {
    "name": "BBC Sport",
    "url": "https://feeds.bbci.co.uk/sport/rss.xml",
    "ok": true,
-   "items": 67,
+   "items": 68,
    "error": ""
   },
   {
