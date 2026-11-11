@@ -1,16 +1,19 @@
-[
-  {"country":"Germany","flag":"🇩🇪","usd":1.85,"dieselUsd":1.72},
-  {"country":"France","flag":"🇫🇷","usd":1.80,"dieselUsd":1.75},
-  {"country":"Italy","flag":"🇮🇹","usd":1.90,"dieselUsd":1.80},
-  {"country":"Spain","flag":"🇪🇸","usd":1.65,"dieselUsd":1.58},
-  {"country":"Netherlands","flag":"🇳🇱","usd":2.05,"dieselUsd":1.78},
-  {"country":"Belgium","flag":"🇧🇪","usd":1.78,"dieselUsd":1.68},
-  {"country":"Poland","flag":"🇵🇱","usd":1.45,"dieselUsd":1.48},
-  {"country":"Austria","flag":"🇦🇹","usd":1.68,"dieselUsd":1.65},
-  {"country":"Portugal","flag":"🇵🇹","usd":1.82,"dieselUsd":1.62},
-  {"country":"Ireland","flag":"🇮🇪","usd":1.88,"dieselUsd":1.78},
-  {"country":"Sweden","flag":"🇸🇪","usd":1.95,"dieselUsd":2.05},
-  {"country":"Denmark","flag":"🇩🇰","usd":2.10,"dieselUsd":1.95},
-  {"country":"Finland","flag":"🇫🇮","usd":1.98,"dieselUsd":1.90},
-  {"country":"Greece","flag":"🇬🇷","usd":1.95,"dieselUsd":1.75}
-]
+{
+ "updated": "Nov 2026",
+ "items": [
+  {"country":"Germany","flag":"🇩🇪","usd":2.30,"dieselUsd":2.54},
+  {"country":"France","flag":"🇫🇷","usd":2.34,"dieselUsd":2.65},
+  {"country":"Italy","flag":"🇮🇹","usd":2.23,"dieselUsd":2.50},
+  {"country":"Spain","flag":"🇪🇸","usd":1.91,"dieselUsd":2.11},
+  {"country":"Netherlands","flag":"🇳🇱","usd":2.57,"dieselUsd":2.75},
+  {"country":"Belgium","flag":"🇧🇪","usd":2.04,"dieselUsd":2.65},
+  {"country":"Poland","flag":"🇵🇱","usd":1.64,"dieselUsd":1.99},
+  {"country":"Austria","flag":"🇦🇹","usd":1.95,"dieselUsd":2.40},
+  {"country":"Portugal","flag":"🇵🇹","usd":2.23,"dieselUsd":2.46},
+  {"country":"Ireland","flag":"🇮🇪","usd":2.20,"dieselUsd":2.39},
+  {"country":"Sweden","flag":"🇸🇪","usd":1.65,"dieselUsd":2.27},
+  {"country":"Denmark","flag":"🇩🇰","usd":2.67,"dieselUsd":3.01},
+  {"country":"Finland","flag":"🇫🇮","usd":2.61,"dieselUsd":2.84},
+  {"country":"Greece","flag":"🇬🇷","usd":2.38,"dieselUsd":2.39}
+ ]
+}
